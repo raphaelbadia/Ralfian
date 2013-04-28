@@ -1,0 +1,31 @@
+﻿<html>
+<head>
+	<title>Choice Color (انتخاب رنگ )</title>
+	<style>
+		.bd { border : 1px inset InactiveBorder; }
+		.s  { width:181 }
+	</style>
+</head>
+<body leftmargin="5" topmargin="5" marginheight="5" marginwidth="5" onload="P.C(P.initPalette)">
+<table cellpadding=0 cellspacing=2 border=0 width=184>
+<form>
+<tr><td align="center">
+<select name="type" onchange="P.C(this.selectedIndex)" class="s">
+	<option>Web(رنگهای وب )</option>
+	<option>Windows(رنگهای ویندوز)</option>
+	<option>Grey(خاکستری)</option>
+	<option>Mac OS (سیستم مک )</option>
+</select>
+</td></tr>
+<tr><td align="center">
+<script language="JavaScript">
+	var P = opener.TCP;
+	onload = "P.show(P.initPalette)";
+	document.forms[0].elements[0].selectedIndex = P.initPalette;
+	P.draw(window, document);
+</script>
+</td></tr>
+</form>
+</table>
+</body>
+</html>

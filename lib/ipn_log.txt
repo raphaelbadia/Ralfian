@@ -1,0 +1,19 @@
+[02/09/2013 4:31 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 09 Feb 2013 01:01:51 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=WNTxB_ehJPYVh5zsLLzGSwqo83xJy5kWa5frycFVLyg_-8KKEQ4UopJZcL7MSuHKIFZ1wz6aTy_9JY9sGYQs8nzXAssE_b1mJd0SC2gudEDj-7jTaMIYCZYexx-5wDWKPGkY9W%7c4V3QOT5e2yWDM6ElIMerThF3EgwN8HpgnTpil2UCOujTyVzVyLaWyC3X8FbyTvGtfbtJSm%7c-Vh1XZXtJrKmSWAqk2aCFoz_wJ-Ni_oSyH6bhODwtU7gieOUYYD1FOuuwE7tn7c__KmzFW%7c1360371711; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 07-Feb-2023 01:01:51 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 04-Feb-2033 01:01:51 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360372011~id=cookieG8GUYwni+XIo5fZxzX3zqO4P7XaZfqtpToxWNS0lZ8OPkuQAvMuvV5XTYsWpUyOJuc83rTfDEQc/t0dQGTwTamjArvg1GAXemL770rNt17f7OXQDAXZ5Sf5Tog3L/22J; expires=Sat, 09-Feb-2013 01:06:51 GMT; path=/; domain=.paypal.com
+
+INVALID
+

@@ -1,0 +1,37 @@
+@CHARSET "UTF-8";@import "hero.css";
+.ie6 #heroEditor{width:551px;}#heroEditor .image{position:relative;height:330px;width:254px;right:4px;top:0;}
+#heroEditor .head{position:relative;height:340px;width:261px;float:right;}#heroEditor .attributes{float:left;width:269px;}
+.ie6 #heroEditor .attributes{float:right;margin-right:10px;}#heroEditor .attributes .boxes-contents{padding:4px 0;}
+#heroEditor .attributes .container{text-align:center;background-color:#FFF;margin:2px 6px;border-bottom:1px solid #ccc;}
+#heroEditor .attributes .container .info{border:1px solid #ccc;border-bottom:0;color:#252525;}
+#heroEditor .attributes .container .infoOpen{background-color:#ececec;}#heroEditor .attributes #random{float:right;}
+#heroEditor .attributes #save{float:left;}#heroEditor .attributes .container{cursor:pointer;}
+#heroEditor .attributes .container .info .headline{text-align:right;padding:4px 9px;background-position:left 4px;width:232px;height:16px;}
+#heroEditor .attributes .container .info .title{float:right;}.ie6 #heroEditor .attributes .container .info .title{margin-right:5px;}
+#heroEditor .attributes .container .info .headline .expander{position:absolute;right:230px;}
+#heroEditor .attributes .container .info .details{border-top:1px solid #ccc;background:#ececec;padding:2px 7px;}
+.ie6 #heroEditor .attributes .container .info .details{width:241px;}#heroEditor .attributes .container .info .details .attribute{background-color:#fff;border:1px solid #ccc;float:right;width:50px;height:50px;padding:9px 11px;margin:3px;cursor:pointer;}
+#heroEditor .attributes .container .info .details .attribute:hover{background-color:#ccc;}
+#heroEditor .attributes .options{margin-top:8px;}#heroEditor .head div.tl,div.hero_inventory div.tl{position:absolute;background-image:url(../../img/round/roundCorner/tl.png);background-position:top left;height:33px;top:0;left:0;width:100%;}
+#heroEditor .head div.tr,div.hero_inventory div.tr{background-image:url(../../img/round/roundCorner/tr.png);background-position:top right;right:0;top:0;height:33px;}
+#heroEditor .head div.bl,div.hero_inventory div.bl{position:absolute;background-image:url(../../img/round/roundCorner/bl.png);background-position:top left;height:33px;bottom:0;left:0;width:100%;}
+#heroEditor .head div.br,div.hero_inventory div.br{background-image:url(../../img/round/roundCorner/br.png);background-position:top right;right:0;height:33px;}
+.ie6 #heroEditor .head div.tl,div.hero_inventory div.tl,.ie6 #heroEditor .head div.tl,div.hero_inventory div.tr,.ie6 #heroEditor .head div.bl,div.hero_inventory div.bl,.ie6 #heroEditor .head div.tl,div.hero_inventory div.br{display:none;}
+div.hero_adventure table tbody td{text-align:center;}
+div.hero_adventure table tbody .location{text-align:right;}
+div.hero_adventure table tbody td.coords{padding-right:2px;padding-left:2px;width:5%;}
+div.hero_adventure table .moveTime,div.hero_adventure table .timeLeft{width:13%;white-space:nowrap;}
+div.hero_adventure table .difficulty{width:10%;}
+div.hero_adventure table .goTo{width:25%;}
+div.hero_adventure table a.gotoAdventure,div.hero_inventory .market a{white-space:nowrap;}
+a {
+ color:#0171AF;
+}
+
+
+
+
+
+
+
+

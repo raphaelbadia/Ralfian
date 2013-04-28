@@ -1,0 +1,1271 @@
+body {
+color: #000;
+font-size:10pt;
+background:#8CB2C8;
+margin: 0px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+<style type="text/css">
+body
+{
+   background-color: #8CB2C8;
+   color: #000000;
+}
+</style>
+<style type="text/css">
+p, span, div, ol, ul, li, td, button, input, textarea, form
+{
+   margin: 0;
+   padding: 0;
+}
+@font-face
+{
+   font-family: GreekBearTinyE;
+   src: url('greekbeartinye.eot');
+   src: url('greekbeartinye.eot?iefix') format('embedded-opentype'),
+        url('greekbeartinye.ttf') format('truetype');
+}
+a
+{
+   color: #C8D7EB;
+   outline: none;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #C8D7EB;
+}
+a:active
+{
+   color: #C8D7EB;
+}
+a:hover
+{
+   color: #376BAD;
+   text-decoration: underline;
+}
+.CustomStyle
+{
+   font-family: "Courier New";
+   font-size: 16px;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+   color: #000080;
+}
+</style>
+<style type="text/css">
+#Editbox14
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: right;
+   vertical-align: middle;
+}
+#Editbox1
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox2
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox3
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox4
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox5
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox6
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox7
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox8
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox9
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox10
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox11
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#wb_Text9 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text9 div
+{
+   text-align: left;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text10 div
+{
+   text-align: left;
+}
+#wb_Text11 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text11 div
+{
+   text-align: left;
+}
+#wb_Text12 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text12 div
+{
+   text-align: left;
+}
+#wb_Text13 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text13 div
+{
+   text-align: left;
+}
+#Editbox12
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox13
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox15
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox16
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text14 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text14 div
+{
+   text-align: left;
+}
+#wb_Text15 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text15 div
+{
+   text-align: left;
+}
+#wb_Text16 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text16 div
+{
+   text-align: left;
+}
+#wb_Text17 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text17 div
+{
+   text-align: left;
+}
+#wb_Text26 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text26 div
+{
+   text-align: left;
+}
+#Editbox17
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox18
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox19
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text18 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text18 div
+{
+   text-align: left;
+}
+#wb_Text19 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text19 div
+{
+   text-align: left;
+}
+#wb_Text20 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text20 div
+{
+   text-align: left;
+}
+#Editbox20
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox21
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox22
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text21 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text21 div
+{
+   text-align: left;
+}
+#wb_Text22 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text22 div
+{
+   text-align: left;
+}
+#wb_Text23 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text23 div
+{
+   text-align: left;
+}
+#Editbox23
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox24
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox25
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text24 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text24 div
+{
+   text-align: left;
+}
+#wb_Text25 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text25 div
+{
+   text-align: left;
+}
+#wb_Text27 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text27 div
+{
+   text-align: left;
+}
+#Editbox26
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox27
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox28
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text28 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text28 div
+{
+   text-align: left;
+}
+#wb_Text29 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text29 div
+{
+   text-align: left;
+}
+#wb_Text30 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text30 div
+{
+   text-align: left;
+}
+#Editbox29
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox30
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox31
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox32
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text31 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text31 div
+{
+   text-align: left;
+}
+#wb_Text32 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text32 div
+{
+   text-align: left;
+}
+#wb_Text33 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text33 div
+{
+   text-align: left;
+}
+#wb_Text34 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text34 div
+{
+   text-align: left;
+}
+#wb_Text35 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text35 div
+{
+   text-align: left;
+}
+#wb_Text36 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text36 div
+{
+   text-align: left;
+}
+#Editbox33
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox34
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox35
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text37 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text37 div
+{
+   text-align: left;
+}
+#wb_Text38 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text38 div
+{
+   text-align: left;
+}
+#wb_Text39 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text39 div
+{
+   text-align: left;
+}
+#wb_Text40 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text40 div
+{
+   text-align: left;
+}
+#wb_Text41 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text41 div
+{
+   text-align: left;
+}
+#wb_Text42 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text42 div
+{
+   text-align: left;
+}
+#Combobox1
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_Text43 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text43 div
+{
+   text-align: left;
+}
+#Combobox2
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_Text44 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text44 div
+{
+   text-align: left;
+}
+#Editbox36
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox37
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox38
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox39
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox40
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox41
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox42
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox43
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text45 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text45 div
+{
+   text-align: left;
+}
+#wb_Text46 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text46 div
+{
+   text-align: left;
+}
+#wb_Text47 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text47 div
+{
+   text-align: left;
+}
+#wb_Text48 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text48 div
+{
+   text-align: left;
+}
+#wb_Text49 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text49 div
+{
+   text-align: left;
+}
+#wb_Text50 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text50 div
+{
+   text-align: left;
+}
+#wb_Text51 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text51 div
+{
+   text-align: left;
+}
+#wb_Text52 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text52 div
+{
+   text-align: left;
+}
+#Editbox44
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox45
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox46
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text53 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text53 div
+{
+   text-align: left;
+}
+#wb_Text54 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text54 div
+{
+   text-align: left;
+}
+#wb_Text55 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text55 div
+{
+   text-align: left;
+}
+#wb_Text56 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text56 div
+{
+   text-align: left;
+}
+#wb_Text57 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text57 div
+{
+   text-align: left;
+}
+#Combobox3
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_Text58 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text58 div
+{
+   text-align: left;
+}
+#wb_Text59 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text59 div
+{
+   text-align: left;
+}
+#wb_Text60 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text60 div
+{
+   text-align: left;
+}
+#Editbox47
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox48
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text61 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text61 div
+{
+   text-align: left;
+}
+#wb_Text62 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+}
+#wb_Text62 div
+{
+   text-align: left;
+}
+#Button1
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+</style>
+/* General Settings
+----------------------------------*/
+img {border: 0;}
+
+
+/* Structure Settings
+-----------------------------------------*/
+
+#ltop1 {position:relative; width:100%; height:90px; text-align:right;}
+#lleft {width:130px;}
+
+#lmidlc {width:682px;}
+#lleft, #lmid1, #lmidlc {float: left;}
+ 
+#lmid1 {width:552px;}
+
+#lmid2 div {float: left;}
+#lmid2 div.headline {width: 100%;}
+#lmid2 div.lbox {width: 255px; padding-left: 29px; padding-bottom: 15px;}
+#lmid2 div.rbox {width: 255px; padding-left: 10px; padding-bottom: 15px;}
+#lmid2 div.cbox {width: 500px; padding-left: 200px; padding-bottom: 15px;}
+#lmid2 div.wholebox {width: 494px; padding-left: 29px; padding-bottom: 15px;}
+#lmid2 div.wholebox div {float:none;}
+
+div.lbox ul, div.rbox ul {margin: 0 0 0 15px; padding: 0 15px 0 0;}
+
+#lmenu {width: 116px; margin-bottom: 10px; line-height: 14px;}
+#lmenu a.m_forum, #lmenu a.m_impressum {margin-top: 23px;}
+
+/* Font Settings, Colors and Backgrounds
+-----------------------------------------*/
+.headline {display: block; text-align: center; padding-bottom: 3px;}
+.headline img {width: 468px; height: 60px;}
+.subhead { width: 160px; height: 15px; display: block; margin-bottom: 19px;}
+
+#ltop1 {background: url(img/m.gif) repeat-x;}
+#lmid1 {background: url(img/rand.gif) repeat-y}
+#lmid2 div {font-size:9pt; line-height: 140%;}
+
+#lfooter1 {background: url(img/btm.gif) repeat-x 0 15px;}
+#lfooter2 {font-size:8pt; color:#666; text-align:center;}
+
+a {text-decoration: none; font-weight:bold;}
+a, a:visited {color: #71D000;}
+a:active {color: #FF8000;}
+a:hover {color: #00BC00;}
+a.clink {font-weight:normal;}
+a.clink, a:visited.clink, a:active.clink {color:#666;}
+a:hover.clink {color:#00C000;}
+
+/* Schriftgroessen */
+.f16 {font-size:16pt;}
+.f135 {font-size:13.5pt;}
+.f10 {font-size:10pt;}
+.f9 {font-size:9pt; line-height:140%; font-weight:normal;}
+.f8 {font-size:8pt;}
+.f75 {font-size:7.5pt;}
+.f7 {font-size:7pt;}
+.f6 {font-size:6pt;}
+
+/* e Schriftfarbe fuer Fehlermeldung Login/Anmeldung */
+.e {color:#FF8000;}
+
+/* Schriftfarbe fuer Inaktive Links */
+.c {color:#C0C0C0;}
+.c0 {color:#000000;}
+.c1 {color:#000;}
+.c2 {color:#0018FF;}
+.c3 {color:#FE1004;}
+.c4 {color:#F2C700;}
+.c5 {color:#F60ACC;}
+.c6 {color:#B500A3;}
+
+/* Dicke Schrift */
+.b {font-weight:bold}
+
+/* Duenne Schrift */
+.t {font-weight:normal;}
+
+/*opacity:0.4;            /*      W3C-konform     */
+/*-moz-opacity:0.4;       /*      Mozilla und Derivate    */
+/*FILTER:progid:DXImageTransform.Microsoft.Alpha(opacity=40); /*IE*/
+}
