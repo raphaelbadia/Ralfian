@@ -1,29 +1,47 @@
-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
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_VIL3_T1", "deserted valley" );
+define( "LANGUI_VIL3_T2", "land distribution" );
+define( "LANGUI_VIL3_T3", "Htabon" );
+define( "LANGUI_VIL3_T4", "mud holes" );
+define( "LANGUI_VIL3_T5", "iron mines" );
+define( "LANGUI_VIL3_T6", "wheat fields" );
+define( "LANGUI_VIL3_T7", "Options" );
+define( "LANGUI_VIL3_T8", "»Center map" );
+define( "LANGUI_VIL3_T9", "»building a new village" );
+define( "LANGUI_VIL3_T10", "/ 3 settlers are available" );
+define( "LANGUI_VIL3_FARM", "» Add To Farm Lists" );
+define( "LANGUI_VIL3_FARM2", "» Add to Farm Lists ( Should Active Club)" );
+define( "LANGUI_VIL3_T11", "capital" );
+define( "LANGUI_VIL3_T12", "tribe" );
+define( "LANGUI_VIL3_T13", "Alliance" );
+define( "LANGUI_VIL3_T14", "Owner" );
+define( "LANGUI_VIL3_T15", "population" );
+define( "LANGUI_VIL3_T16", "Reports" );
+define( "LANGUI_VIL3_T17", "no information" );
+define( "LANGUI_VIL3_T18", "»send troops (Forbidden)" );
+define( "LANGUI_VIL3_T19", "»Send troops" );
+define( "LANGUI_VIL3_T20", "»send troops (your building rally point)" );
+define( "LANGUI_VIL3_T21", "»Send dealers (Forbidden)" );
+define( "LANGUI_VIL3_T22", "»Send a traders" );
+define( "LANGUI_VIL3_T23", "»Send dealers (build your market)" );
+define( "LANGUI_VIL3_T24", "Oasis owned" );
+define( "LANGUI_VIL3_T25", "loyalty" );
+define( "LANGUI_VIL3_T26", "increase" );
+define( "LANGUI_VIL3_T27", "at" );
+define( "LANGUI_VIL3_T28", "village" );
+define( "LANGUI_VIL3_T29", "Oasis is not occupied" );
+define( "LANGUI_VIL3_T30", "units" );
+define( "LANGUI_VIL3_T31", "none" );
+define( "LANGUI_VIL3_T32", "increase" );
+define( "LANGUI_VIL3_T33", "»looted and abandoned oasis" );
+define( "LANGUI_VIL3_T34", "»Oasis looted and abandoned (build your rally point)" );
+define( "LANGUI_VIL3_T35", "This Oasis Have a Adventures" );
+?>

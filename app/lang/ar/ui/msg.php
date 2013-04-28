@@ -1,20 +1,21 @@
-HR+cPpawaQrh76g2Pe84Zh2reEgmu/u3mt6PBC+2IB8O+nC1R0Hbay6AWJGe/lLleLz2t2eM8hX9
-tq228l9PZOtq7t2heDtuU6lRU3sTurtAJY572PCbXcWfuJNVWpU+fsnZ4biAkXXnX3hSNIaFA1/b
-q5MVSycvn8y6R5IkSKlemScF4XA/+qWJxz2M8uzu34CfFdhNwI+Pl6s/7u+4Q8efsOxPw28uD4dE
-ecs/OvH2iIwU/J2AEc4k/warxbDaRk5K43t3YrhMWyLcO8nfdyj7a2FUHlRpRgymQthmOCzu7+ro
-x1tFSSTtw/GAjwzeTTQSj6fI3jEe7KimUxgZ3EmmxRumAmthMs800h26r2d9IyxkH1wfK34KU6we
-at6Cvh2bN542BEYgpePPvFCWHueqmWmHwtoy5EGXWY3WhXr8k7dIC1ZxaAVxo87FC4z7Ukbhj76D
-zulPC83vNh4OZITwZC6j7J7ydFPYLIZ+OqeQEOIcxAh42ABjsYNsiCRFlQ+XMXarU+A8IT9zCtN6
-SSMfL+nRaMbRHQ2XgOKESpLwnKHMY3FsZk/SY1zWgw1swWr62KECLRS3ZmxRxWWim4oTOVajHTaw
-hxZ/lgHyMiGkE8fOGcMxvgti0v27Q0Dip0Tu9WHklhjW9hjCq1k4SiH4jldEPtXLlgNA8o/uWKVa
-ZldxoyESngbDcCDPs0Mtl712QefR6fNixN3MUyMEht5Hl5gJBYsTCMzFgVCkDVr+QX06CVS4frKX
-yOsP5YrJ0CWAtyjlPumFwXCspDLp03FpP056ehIq2UItSeDkuLRt/S9RLk9JY0gdzyFUZHuFZy1c
-HnhazKhtx7UyEOE5zem5a1SPQrpUiWIC/+l/EDgFx/ZJBYB+WPfcFxWfMzOQjzRLxR+73PFBbWAi
-62FSkc0m4U9iSlc+pB5d3k1TjtHnr4TbUuIKUnR29ky81PhO/R3T2qfw6DNPGdF0ZK21+zfiJOIZ
-hHekQeC616MNkkl0riYAq7mc4BicfPLc/bDCW8q+TiPZi7n4uK1iYEi0T6URHqI9EPfUCKdVmNzt
-8UUX9rWnYScGnB6u9R+lNQ47ZNTWZ4HHBuve3rytKQ3aWfKMVKioAMtlxyRr2HxDPaAx84hex4VJ
-tukd13tdtbj1lPP8aQXsDvF1GrOJfWY+4twddBLqS9QhB/0cuut+3PBWo1JSoQwtsE1jfoPRgDnb
-snAjSZNdAF6hrtAOI2QMDM5EweR7tiqQesgePM9valkwkwqefmNsTM1Mkt8VWkporvEjjmD2UDjI
-Qglmb/FoIYeDaXAisvFYSqBijP+rVuCWPVcGEFZ62+iPg67fq8UqD5x44A0SVjf97qlW3lTeWgql
-yZvL1//HTm898GmiF+SE6n3lncTrwdPHJKb8b9HQ4L7RCZrzTegkGsQUqrKtAGxvKlxqiUNny8m9
-uUP2yWP6jG8ggJDwHbUbl7JItMJbbCX31sfPyhU1h5MXAydL30==
+﻿<?php
+define( "LANGUI_MSG_T1", "پیام‌ها" );
+define( "LANGUI_MSG_T2", "صندوق پیام" );
+define( "LANGUI_MSG_T3", "نوشتن" );
+define( "LANGUI_MSG_T4", "فرستاده شده" );
+define( "LANGUI_MSG_T5", "موضوع" );
+define( "LANGUI_MSG_T6", "دریافت کننده" );
+define( "LANGUI_MSG_T7", "فرستنده" );
+define( "LANGUI_MSG_T8", "فرستاده شده" );
+define( "LANGUI_MSG_T9", "(جديد)" );
+define( "LANGUI_MSG_T10", "(خوانده نشده)" );
+define( "LANGUI_MSG_T11", "هیچ پیامی موجود نیست" );
+define( "LANGUI_MSG_T12", "حذف" );
+define( "LANGUI_MSG_T13", "دفترچه اسامی" );
+define( "LANGUI_MSG_T14", "پاسخ دادن" );
+define( "LANGUI_MSG_T15", "فرستادن" );
+define( "LANGUI_MSG_T16", "بستن دفترچه مخاطبين" );
+define( "LANGUI_MSG_T17", "براي فرستادن نامه به اعضاي اتححاد در گيرنده <b>[ally]</b><br/>بزنيد<br>Travian.100100@Yahoo.Com" );
+define( "LANGUI_MSG_T18", "کد امنیتی" );
+
+?>

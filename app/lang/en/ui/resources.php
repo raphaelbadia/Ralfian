@@ -1,11 +1,17 @@
-HR+cP+ffjN7Pomr6iDSWKgP7xEV3ZWAURsKnBe2i6dsuOrylRf2ZfevobzA/HQUuaUImgA/YayWT
-OFfMT0gJAT7yPxZXBmboB6pf4/OFQ+oG4TVUFLFMmzk7yPuHEeQxDhUxfNJtQVSsdW3LqTbaGM4G
-6hdTTbU/ayG/EI95qiR6kVUlZ3JY72OdxQIl072elQszGHMH5eCTVxtNfpdmF+JQ8jc6f8ynA3zX
-/vtTBHxt63iD/89Zp/oogJNkKsHkuLGGFSEBMjQ3nHPevhG1HJZXGf0yPyCkMJ92/zq8a+wMhCPf
-q7tu5SqjaAv8O+0tcZWOTx15DLNEFvzoNeTOMpEC48+/CSiiBR5HH0bUSLQpU7KRK2z5pHEt2Bes
-qTEDnna+euUusnlH4/2gtwUE6a3bdCKiLYQ5IE3We2OeNwApFfUdRotJ5OIrjp63/WvoDdksULLb
-TT4p2FtyVW5qH6xSUbRZRPRW80luNJ0V1Htx3dNEdUnH768xOZYdCm8jJ9ESOdNO0Wx118E7jB9E
-6i2v0JTEtuSZ5Re7aniTRGjPES9IQvDowYnJ1BOODq8QVAevGnWfou914YY2YW8q7OOzxr0Fu6oq
-KvYgrv/bNc7wVE+zcN6NMHOu5WE11S9J+E+wYJTmPumL2AHeIVlhCEzs2yZvG8hJY/aga8VfiFA3
-Rl1j0C6FTnByoUJcsf2Ak2Oej+mY776pV1zAbHbFQFFOJUtaLjKOoHXHUDaYo9RH05roZqMiFPjz
-yrfnGsskKeZNEs5MBRn+mKmAUTk5Vk5iLPRPAEXC7LzTbNc1lA2rolW=
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_RES_T1", "resource allocation" );
+define( "LANGUI_RES_T2", "data the village" );
+define( "LANGUI_RES_T3", "name" );
+define( "LANGUI_RES_T4", "player" );
+define( "LANGUI_RES_T5", "resource" );
+define( "LANGUI_RES_T6", "capacity" );
+define( "LANGUI_RES_T7", "quantity" );
+?>

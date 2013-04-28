@@ -1,17 +1,27 @@
-HR+cPwm0S8dPqqYliB/bghGOYF3e3Qxmd2n9Oj6MjZF2DrUCbJOKsmnoiqlraDE2EGU8CsKvQMVP
-wdMHI4swEkZ332SxzndudZ1eDwXN37ro7JWqsyID5SnicUZ73c19KncI9S2fhhbkM64SS0dsAsCs
-p0aLZ/nP1G7suG9SvW+OPsgemYD43idWUN9VUdcHNArbho/3tB/DktWjfnduKP7Uaq6ulzsEe6JR
-wfljL7DmpWu7eXKrByC62AarxbDaRk5K43t3YrhMWyNSOF8LOwbjSoDJFZFpfjOkKvtt/OBudQO7
-WV677mUSRKG7fctAV2WaPa6kiDgY8pOv8GcVrS6VUO7+XSaZMm96iRLB/mqAP+XrOe5NzYvJVKo9
-oP0Op/C0L8DYXnV9nfhrd50Sno/gB1N8gmLdZG6wMrnzBPJZP5vjNDRjCqhWGOULqyen0uebA+Zx
-MpOcViX2Kb2vTPlGyunJSAxsCtRZIQeP4jgIeu8r2JrXWAdDarzCOVBCWAEy3CE9GlBXn8fRzig8
-GgC7lwdkq0wPWJMf7lNlzrmOWpEnD6EO9vTyu6lwwEkN5ISbZM28jBgPbYWEDSc6BkCw9vu4j58l
-8kaDFqDnoSzS2zl14TQxqUaio4JJnp9jIJlgAV39ybVnDjA6vLFuS9Wcz1mExMj2iH8RgJbTKw53
-BN/pIennOIncd+SvEzPGHmhkztzVNlXn8+wnY8+RL4LWnNUuj8DK66EDdcwr8p/ktdG9P4DBVqQc
-EbE2IvjiuKy0yDDrczgQ9C4ZArUas+YhFd339Uj+wA0Ptrq7fj8f+KdvHr3xaYLTsGpdL4Orsg81
-zPn7mdB8V/+j9bjDqs3GqyRCpgNpN2HAMvW9fAi3TP3y/QxW2OsnXDBrIpfaktI5s49gON1Xe21e
-zKDlXKKebqWUFoOEkWMCaSqjuwBjdO1WdmB5LD1VjAm44sYDj+aVYMwqPPbraugjxdCG85fN3akt
-PEgK+8QPsQiGqfi6y82mQsawA/v23BXAu5kxVIpCGIwS9RPbkk5uLu5jAw634t1ZhTRdCIE0WIFR
-GPptut12hHVEARriiflCSnKPQcdMbHPS51R0DdmkvBLWXGDBhomu9ZftKUgpkNycXKbuNvoH4L3c
-Z0rdlDhe3fwcWMO4IlDCTT7bURoQBQHVTwssTrOQoS9+7fSffQuLhYMhFqdyZ4c4cDyz+Pr3uC5D
-J5S3SCLzMAZOTwA/irzTS8S=
+﻿<?php
+/*********************/
+/*                   */
+/*  by abdullah alinze  */
+/*  email : a99@hacker.ps     */
+/*   */
+/*                   */
+/*********************/
+
+define( "LANGUI_WARSN_T1", "شبیه ساز نبرد" );
+define( "LANGUI_WARSN_T2", "مهاجم" );
+define( "LANGUI_WARSN_T3", "نیروها" );
+define( "LANGUI_WARSN_T4", "تلفات" );
+define( "LANGUI_WARSN_T5", "مدافع" );
+define( "LANGUI_WARSN_T6", "نوع حمله" );
+define( "LANGUI_WARSN_T7", "حمله عادی" );
+define( "LANGUI_WARSN_T8", "حمله غارت" );
+define( "LANGUI_WARSN_T9", "تعداد" );
+define( "LANGUI_WARSN_T10", "سطح اسلحه سازی" );
+define( "LANGUI_WARSN_T11", "اضافات" );
+define( "LANGUI_WARSN_T12", "جمعیت" );
+define( "LANGUI_WARSN_T13", "تعداد جمعیت" );
+define( "LANGUI_WARSN_T14", "سطح " );
+define( "LANGUI_WARSN_T15", " " );
+define( "LANGUI_WARSN_T16", "دیوار شهر" );
+define( "LANGUI_WARSN_T17", "سطح دیوار شهر" );
+?>

@@ -1,70 +1,86 @@
-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
-WoIxdrlbtmzqvQ5XAyFJr/lwgAXs9wfKCRLO
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_HLP_T1", "Overview" );
+define( "LANGUI_HLP_T2", "Quick Guide helps you to find important information at any time" );
+define( "LANGUI_HLP_T3", "Forces" );
+define( "LANGUI_HLP_T4", "Buildings" );
+define( "LANGUI_HLP_T5", "Units" );
+define( "LANGUI_HLP_T6", "Resources" );
+define( "LANGUI_HLP_T7", "Army" );
+define( "LANGUI_HLP_T8", "Infrastructure" );
+define( "LANGUI_HLP_T9", "Help and FAQ" );
+define( "LANGUI_HLP_T10", "New Window" );
+define( "LANGUI_HLP_T11", "Quick Guide includes only summary information" );
+define( "LANGUI_HLP_T12", "Forces" );
+define( "LANGUI_HLP_T13", "Buildings (resources)" );
+define( "LANGUI_HLP_T14", "Buildings (the army)" );
+define( "LANGUI_HLP_T15", "Buildings (infrastructure)" );
+define( "LANGUI_HLP_T16", "Attack power" );
+define( "LANGUI_HLP_T17", "Defense against infantry" );
+define( "LANGUI_HLP_T18", "Defense against cavalry" );
+define( "LANGUI_HLP_T19", "Speed" );
+define( "LANGUI_HLP_T20", "Fields / hour" );
+define( "LANGUI_HLP_T21", "Payload" );
+define( "LANGUI_HLP_T22", "Maintenance" );
+define( "LANGUI_HLP_T23", "Consumption of wheat" );
+define( "LANGUI_HLP_T24", "Training period" );
+define( "LANGUI_HLP_T25", "Conditions" );
+define( "LANGUI_HLP_T26", "Nothing" );
+define( "LANGUI_HLP_T27", "Costs </ b> and <b> Construction Time </ b> at level 1" );
+define( "LANGUI_HLP_T28", "Plus account" );
+define( "LANGUI_HLP_T29", "Features Plus account" );
+define( "LANGUI_HLP_T30", "Waiting for the role of the building" );
+define( "LANGUI_HLP_T31", "Large map" );
+define( "LANGUI_HLP_T32", "Direct links to selected" );
+define( "LANGUI_HLP_T33", "Dfteralmlahzat" );
+define( "LANGUI_HLP_T34", "Speed of production of wood" );
+define( "LANGUI_HLP_T35", "ith this property can increase the production of all fields of wood to 25%. bonus was added to the fields of raw materials individually, but added to the sum of the total production" );
+define( "LANGUI_HLP_T36", "speed of production of clay" );
+define( "LANGUI_HLP_T37", "with this property can increase the production of all fields of mud to 25%. bonus was added to the fields of raw materials individually, but added to the sum of the total production" );
+define( "LANGUI_HLP_T38", "speed of production of iron" );
+define( "LANGUI_HLP_T39", "with this property can increase the production of all fields Alhaddidaly 25%. bonus was added to the fields of raw materials individually, but added to the sum of the total production" );
+define( "LANGUI_HLP_T40", "speed of production of wheat" );
+define( "LANGUI_HLP_T41", "with this property can increase the production of all wheat fields to 25%. bonus was added to the fields of raw materials individually, but added to the sum of the total production" );
+define( "LANGUI_HLP_T42", "end the construction of buildings and research off" );
+define( "LANGUI_HLP_T43", "present in the village all construction orders and research in academic and mourning and armory end immediately. the housing or the palace to the village as well as embracing the miracle of the world are excluded from the property of rapid activation" );
+define( "LANGUI_HLP_T44", "dealer swap" );
+define( "LANGUI_HLP_T45", "You can swap any raw materials with other raw materials in any village you choose" );
+define( "LANGUI_HLP_T46", "direct links" );
+define( "LANGUI_HLP_T47", "with direct links, you can put your ties and speed up browsing the site" );
+define( "LANGUI_HLP_T48", "examples of direct links" );
+define( "LANGUI_HLP_T49", "link name" );
+define( "LANGUI_HLP_T50", "target URL" );
+define( "LANGUI_HLP_T51", "notebook" );
+define( "LANGUI_HLP_T52", "* is added to the end of the link to open link in new window" );
+define( "LANGUI_HLP_T53", "stats top 10 players" );
+define( "LANGUI_HLP_T54", "Statistics Top 10 players to be recalculated each week and is calculated from 00:00 on Friday" );
+define( "LANGUI_HLP_T55", "Categories" );
+define( "LANGUI_HLP_T56", "Evolution" );
+define( "LANGUI_HLP_T57", "ranked player in the statistical" );
+define( "LANGUI_HLP_T58", "forward" );
+define( "LANGUI_HLP_T59", "points penalty" );
+define( "LANGUI_HLP_T60", "defender" );
+define( "LANGUI_HLP_T61", "point defense" );
+define( "LANGUI_HLP_T62", "thief" );
+define( "LANGUI_HLP_T63", "resources looted" );
+define( "LANGUI_HLP_T64", "at the end of each week will be awarded to Sam and all the top ten players. In preparing the identity card you will find code like [# 123] appears in the badge of membership card. An example of this" );
+define( "LANGUI_HLP_T65", "statistical best 10 alliance" );
+define( "LANGUI_HLP_T66", "Statistics Top 10 alliances be recalculated each week and is calculated from 00:00 on Friday" );
+define( "LANGUI_HLP_T67", "type" );
+define( "LANGUI_HLP_T68", "high number of population at all users" );
+define( "LANGUI_HLP_T69", "attack points" );
+define( "LANGUI_HLP_T70", "at the end of the week, pick the best coalition of ten Alawal and Sam when you modify the information appears under the Alliance Medal example code [# 123] and this code where you can add what you want in a membership card alliance" );
+define( "LANGUI_HLP_T71", "return" );
+define( "LANGUI_HLP_T72", "forward" );
+define( "LANGUI_HLP_T73", "pressure on the server please wait (00:00:0 ?)" );
+define( "LANGUI_HLP_T74", "<p> all events that arrive in a later time, Pettm assembled. and if the server is overloaded or badly between the servers and the database, it can get aggravated. </ p>\r\n<p> access as quickly as events per second, you must wait for an account (\"the end of construction\" or \"the arrival of soldiers\"). </ p>\r\n<p> chronology re"."C:\\Decoder\\bin\\rm\\file.php"."s with the troop movements. The first of these forces usually reach their goal in the correct order even with the additional aggravation. </ P>\r\n<p> One of the players can not do anything against any get aggravated, but wait. Usually solve the problem automatically after a few minutes. Currently awaiting <b title=\"0|0|0|0\"> 0 </ b> events for the account. </ P> " );
+define( "LANGUI_HLP_T75", "complete the troops training" );
+define( "LANGUI_HLP_T76", "in the current village all troops training orders are completed immediately, this feature not exists in the wonder land village" );
+?>

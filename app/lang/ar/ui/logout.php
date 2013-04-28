@@ -1,14 +1,7 @@
-HR+cPx2vK+XWcAZFQGR6opshdWbrAM5X9DG1XkyxtMmclyRHwWPnSOunEC71PDH5VcxND4uEREDk
-ms8Rcn09ibJgWqkQv6EKVcJBHdepE2CBSsxXao2LPZ2/S0W+mrzBHoWG5AcfrNFvYRLWTzKf4/rK
-r98HnC14X2EK19Lbbi+cPv18m2zKZrxd8L5Tk4TVK3fOdVcsfn2fOvUTi4SopxFL03RRR0FpabrZ
-PrHwckLe3yaAssjZtSBM9QarxbDaRk5K43t3YrhMWyMFNn0IpdnrzrtCoi33FXipBE7PGGV3la+V
-5/GBVdqarlyHgi7NvHBifx42vvQMmExytSGZGMbd1z/6sd9znPhq35O/wSFP4ZMVe8bcX9HNHTei
-BFCsZ7cEhsBQOmv4KI9o8IjPHIIfIHA068OUwzM7uJ6HS0yLGbp+A6WqGm+TGiFDpu0DBEdpklwx
-1SZbvrEBi92+CNutIqD3j8xAZ5bVZo/FFuhJMyjfwDRNbTEETpKuBxh8/v50d14VdH4kuRhaP297
-v2mn9GEUy3rjz8dYVRKqMfm58mjzIJE8tWj321RKPUI2OKS3y+LQmPBU5qo4ZnwCkoGTaHZY+i7E
-y35H9BUhIqXnkyduuCYkSadZFl5IpPHI3BdcjWd54p7pir6IPvBmTF2bjmB8sl/uaPDJus+c9xlj
-LgTD00RETwHckIAXDsyGn+14JF/4gFvl+V8wOzFVoQSSR59UpSQi/OWFKCDko29htFGB1yHo9dF7
-TotowHCThvkkAWQ0wVCASA5tr+eun3GLCXz/JpDNbdSTW2LZvwl7IXnheDuecew7W5DD/Jb0QXmA
-uUWilcJO2koy4sRsxu2Wh3u3YJDqYMY/v4AMhRT59YtAStGbJyFP0eBxDET9LEAZTOfFwLxSW3ka
-s1KWdbu2BrZHJpXPd3NhlyEBvQJAymROeNJ+Fc5N+vcvRuqe1McbJo0rbarCp6RsJudFz8oXaGL6
-jG==
+﻿<?php
+
+define( "LANGUI_LOGOUT_T1", "شما با موفقیت از سایت خارج شدید!" );
+define( "LANGUI_LOGOUT_T2", "حذف کوکی ها" );
+define( "LANGUI_LOGOUT_T3", "برای اینکه قادر به بازی باشید باید کوکی های مرورگر خود را فعال کرده باشید. اگر افراد دیگری نیز از این سیستم استفاده می کنند شما باید بعد از بازی حتماً از اکانت خود خارج شوید" );
+define( "LANGUI_LOGOUT_T4", "با استفاده از گزینه زیر کوکی های موجود را پاک نمائید" );
+?>

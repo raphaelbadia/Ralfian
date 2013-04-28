@@ -1,14 +1,14 @@
-HR+cPtl2U6hv4K5Ea7tjILpgjhgS4aDCcCpXGvUiuE0VMw8www/bbAuR4IhOyamYoXrw0eiVp0nh
-6GGRwi8SeXkN9Muu4WJYdTm1iIq9cXdwCmr6XGaa4TTrIH2nC+FG3Y/YFU3XbYO16FiBdU9RsH1l
-zHuOQ+x6l8qNdlb1PFJ2nfUoFL/VTuMzod+sWH8SZ0UhyRm3HQcsOFJeS79L+p98ZbUaMAc5AW1g
-4NuETu3HTDh9wlcZuT8zgJNkKsHkuLGGFSEBMjQ3nIXW9sfPXPPKQlH43VCkOaitNiWXA2M/jj2W
-Z1iqfy6zmHj++RzrEnPwJwpwt8XD2H5bbGAiZTOx6nwn6fCDFrF8fO/Hqqj5qskh4M6r2reezGul
-7/YreAKEtkjzE0WxmTVcf/gX7oSglXGRc8z68cENl5YW6Oq/8flIkJO1EXRILwe+erRJuiJM3mFl
-Cm7a5skzz3Nq5FaEAMdzGcADgSXgb+y/xHwhqliznYC6aAuhDPausiSR/iNvyDy/lxjPeUB7C+Ce
-/RZzWs4Da3vVpYhzhoeiPVQ9u/zAiCecbrNS2i8MbgIT7Ka0uMuBg/UH+qaQN/uIYkjM3XuMPnEP
-VnSFa3V+DA9wK5oFNqnhhrj+2oROGe8DHkTErsrNV1uTSTlc9XMrBINEYeTVQVoXfDJNCE3UqlFY
-NWpxYFk6LQk+6YtIcUkgsPD09s6Yx1ndvqXDc6H+CRj3H+GYVXH6X8YiQTvKhzaJo2w0PRoGY1/M
-sb74vIxSlvqHyjMJLi0NgMzNmToQ/Sy8+ri5fkcP5OeYe30ICGvxCec8ewD2K6ZCIJe5ELbYkbCb
-QUHAnfxAXDFJuKpaeaNottEeG/rgq9p6kcb1dwIVa2pQNNI24qB64V/EBRCu78s6458/SAOl83DR
-19wpn0zEl6zFV8127ONmPz6R8UT8yw5Z++2gnpE6Zs4M5xJDhIJRmeiHGE8KxRMQjyjDGmCYso8e
-0cmpZmIUeZfTj8Cej2DgTnnWj88RX9TsSTQ2a81RnrNT+/sPcOQ4EO81gPGL+Se=
+﻿<?php
+define( "ADMIN_LANG_01", " تنظیمات ادمین " );
+define( "ADMIN_LANG_02", " تنظیمات خرید سرباز " );
+define( "ADMIN_LANG_03", " تنظیمات مرخصی " );
+define( "ADMIN_LANG_04", " تنظیمات طلای قهرمان " );
+define( "ADMIN_LANG_05", "تنظیمات طلای گریز" );
+define( "ADMIN_LANG_06", "تنظیمات تغییر اسم" );
+define( "ADMIN_LANG_07", "تنظیمات بانک" );
+define( "ADMIN_LANG_08", "تنظیمات تغییر رنگ" );
+define( "ADMIN_LANG_09", "" );
+define( "ADMIN_LANG_10", "" );
+define( "ADMIN_LANG_11", "" );
+define( "ADMIN_LANG_12", "" );
+?>

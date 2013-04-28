@@ -1,137 +1,235 @@
-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
+﻿<?php
+###############################  S  T  A  R  T   ################################
+##              -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-                 ##
+##  Version        2.0.0                                                       ##
+##  Developed by:  Saeed                                                       ##
+##  License:       Travian.100100@yahoo.com                                    ##
+##  Copyright:    Travian.100100@yahoo.com All rights reserved.                ##
+##                                                                             ##
+#################################################################################
+
+
+define( "LANGUI_CUSTBU_CRANNYEXTRA", "اندازه کلي از منابع پنهان شده" );
+define( "LANGUI_CUSTBU_M_DROP", "تخريب ساختمان" );
+define( "LANGUI_CUSTBU_M_DROPDESC", "اگر شما دیگر نیازی به ساختمانی ندارید،می توانید آنرا تخریب نمائید" );
+define( "LANGUI_CUSTBU_M_CANCEL", "لغو تخريب" );
+define( "LANGUI_CUSTBU_M_EMPTY", "خالي" );
+define( "LANGUI_CUSTBU_M_DROPBTN", "تخریب" );
+define( "LANGUI_CUSTBU_TRP_t1", "در حال حاضر" );
+define( "LANGUI_CUSTBU_TRP_t2", "در حال حاضر" );
+define( "LANGUI_CUSTBU_TRP_t3", "اسیردر تله" );
+define( "LANGUI_CUSTBU_TRP_t4", "نام سرباز" );
+define( "LANGUI_CUSTBU_TRP_t5", "تعداد" );
+define( "LANGUI_CUSTBU_TRP_t6", "حداکثر" );
+define( "LANGUI_CUSTBU_TRP_t7", "مقدار فعلی " );
+define( "LANGUI_CUSTBU_TRP_t8", "در حال حاضر نیرویی برای تربیت وجود ندارد" );
+define( "LANGUI_CUSTBU_TRP_t9", "تربیت" );
+define( "LANGUI_CUSTBU_TRP_t10", "در توليد" );
+define( "LANGUI_CUSTBU_TRP_t11", "تحت آموزش" );
+define( "LANGUI_CUSTBU_TRP_t12", "آماده خواهد شد بعد" );
+define( "LANGUI_CUSTBU_TRP_t13", "تله" );
+define( "LANGUI_CUSTBU_TRP_t14", "وحدت" );
+define( "LANGUI_CUSTBU_TRP_t15", "تمام شدن زمان آموزش نیروهای این دهکده\r\n هزينه %s طلا" );
+define( "LANGUI_CUSTBU_TRP_t16", "تمام شدن زمان تربیت سرباز ها" );
+define( "LANGUI_CUSTBU_TRP_t17", "هزينه" );
+define( "LANGUI_CUSTBU_TRP_t18", "طلا" );
+define( "LANGUI_CUSTBU_TRP_t19", "سربازان به دهکده شما ارسال شد" );
+define( "LANGUI_CUSTBU_TRP_t20", "شما طلا به اندازه کافي ندارید" );
+define( "LANGUI_CUSTBU_EMB_t1", "اتحاد" );
+define( "LANGUI_CUSTBU_EMB_t2", "نام اتحاد" );
+define( "LANGUI_CUSTBU_EMB_t3", "ورود به اتحاد" );
+define( "LANGUI_CUSTBU_EMB_t4", "ایجاد اتحاد" );
+define( "LANGUI_CUSTBU_EMB_t5", "نام اتحاد الزامی است" );
+define( "LANGUI_CUSTBU_EMB_t6", "این نام قبلا گرفته شده است" );
+define( "LANGUI_CUSTBU_EMB_t7", "شرح" );
+define( "LANGUI_CUSTBU_EMB_t8", "نوشتن شرح اتحاد الزامی است" );
+define( "LANGUI_CUSTBU_EMB_t9", "دید کلی" );
+define( "LANGUI_CUSTBU_EMB_t10", "پیوستن به اتحاد" );
+define( "LANGUI_CUSTBU_EMB_t11", "رد دعوت" );
+define( "LANGUI_CUSTBU_EMB_t12", "پذیرفتن" );
+define( "LANGUI_CUSTBU_EMB_t13", "هیچ دعوتنامه ای جهت وارد شدن به اتحاد وجود ندارد" );
+define( "LANGUI_CUSTBU_EMB_t14", "این اتحاد پر شده است" );
+define( "LANGUI_CUSTBU_TWH_t1", "تالار " );
+define( "LANGUI_CUSTBU_TWH_t2", "فعاليت" );
+define( "LANGUI_CUSTBU_TWH_t3", "جشن کوچک" );
+define( "LANGUI_CUSTBU_TWH_t4", "امتیاز فرهنگی" );
+define( "LANGUI_CUSTBU_TWH_t5", "برگزاری جشن" );
+define( "LANGUI_CUSTBU_TWH_t6", "جشن بزرگ" );
+define( "LANGUI_CUSTBU_TWH_t7", "برگزاری جشن" );
+define( "LANGUI_CUSTBU_BLK_t1", "فعاليت" );
+define( "LANGUI_CUSTBU_BLK_t2", "هیچ نیرویی در حال تربیت وجود ندارد" );
+define( "LANGUI_CUSTBU_BLK_t3", "توسعه" );
+define( "LANGUI_CUSTBU_BLK_t4", "تحقیق" );
+define( "LANGUI_CUSTBU_ACD_t1", "داراالفنون نظامی" );
+define( "LANGUI_CUSTBU_ACD_t2", "فعاليت" );
+define( "LANGUI_CUSTBU_ACD_t3", "در حال حاضر هیچ نیرویی جهت تحقیق وجود ندارد. می توانید با استفاده از اطلاعات بازی پیش نیاز های سربازان را مشاهده نمائید " );
+define( "LANGUI_CUSTBU_ACD_t4", "بيشتر" );
+define( "LANGUI_CUSTBU_ACD_t5", "پیش نیاز" );
+define( "LANGUI_CUSTBU_ACD_t6", "کمتر" );
+define( "LANGUI_CUSTBU_ACD_t7", "پژوهش" );
+define( "LANGUI_CUSTBU_ACD_t8", "تحقیق" );
+define( "LANGUI_CUSTBU_RPLC_p1", "تحقیق" );
+define( "LANGUI_CUSTBU_RPLC_p2", "امتیاز فرهنگی" );
+define( "LANGUI_CUSTBU_RPLC_p3", "وفاداري" );
+define( "LANGUI_CUSTBU_RPLC_p4", "توسعه" );
+define( "LANGUI_CUSTBU_RPLC_p1_t1", "اسم" );
+define( "LANGUI_CUSTBU_RPLC_p1_t2", "تعداد" );
+define( "LANGUI_CUSTBU_RPLC_p1_t3", "حداکثر" );
+define( "LANGUI_CUSTBU_RPLC_p1_t4", "در دسترس" );
+define( "LANGUI_CUSTBU_RPLC_p1_t5", "تربیت" );
+define( "LANGUI_CUSTBU_RPLC_p1_t6", "شما نمي توانيد دهکده هاي ديگر از اين روستا ايجاد کنيد" );
+define( "LANGUI_CUSTBU_RPLC_p1_t7", "براي ساخت و يا تصاحب يک روستاي ديگر ، شما نيازدارید به توسعه ساختمان به سطح" );
+define( "LANGUI_CUSTBU_RPLC_p1_t8", "می توانید دهکده جدید بسازید" );
+define( "LANGUI_CUSTBU_RPLC_p1_t9", "براي ساخت و يا تصاحب يک روستاي ديگر ، شما نياز به توسعه ساختمان به سطح  10دارید" );
+define( "LANGUI_CUSTBU_RPLC_p1_t10", "تحت آموزش" );
+define( "LANGUI_CUSTBU_RPLC_p1_t11", "زمات خاتمه" );
+define( "LANGUI_CUSTBU_RPLC_p1_t12", "این دهکده پایتخت است" );
+define( "LANGUI_CUSTBU_RPLC_p1_t13", "تغییر این دهکده به پایتخت" );
+define( "LANGUI_CUSTBU_RPLC_p2_t1", "برای گسترش امپراطوری خود ، شما نیاز به امتیاز فرهنگی دارد، هر چه سطح ساختمان هایتان بالاتر برود امتیاز فرهنگی روزانه شما بیشتر می شود" );
+define( "LANGUI_CUSTBU_RPLC_p2_t2", "تولید این دهکده ");
+define( "LANGUI_CUSTBU_RPLC_p2_t3", "امتیاز فرهنگی امروز" );
+define( "LANGUI_CUSTBU_RPLC_p2_t4", "تولید تمامی دهکده ها" );
+define( "LANGUI_CUSTBU_RPLC_p2_t5", "تولید این دهکده" );
+define( "LANGUI_CUSTBU_RPLC_p2_t6", "امتیاز فرهنگی در روز" );
+define( "LANGUI_CUSTBU_RPLC_p2_t7", "ایجاد یا تصاحب دهکده ها نیازمند است" );
+define( "LANGUI_CUSTBU_RPLC_p2_t8", "امتیاز فرهنگی" );
+define( "LANGUI_CUSTBU_RPLC_p3_t1", "حمله با رئیس و سناتور باعث کااهش وفاداری دهکده ها می شود. هنگامیکه وفاداری به 0 کاهش یافت ؛ دهکده به مهاجم وفادار خواهد شد" );
+define( "LANGUI_CUSTBU_RPLC_p3_t2", "وفاداری کنونی" );
+define( "LANGUI_CUSTBU_RPLC_p4_t1", "دهکده ایجاد شده یا تصرف شده است" );
+define( "LANGUI_CUSTBU_RPLC_p4_t2", "دهکده" );
+define( "LANGUI_CUSTBU_RPLC_p4_t3", "جمعیت" );
+define( "LANGUI_CUSTBU_RPLC_p4_t4", "مختصات" );
+define( "LANGUI_CUSTBU_RPLC_p4_t5", "تاريخ" );
+define( "LANGUI_CUSTBU_RPLC_p4_t6", "ایجاد یا تصرف دهکده دیگر از این دهکده ممکن نیست، دستورالعمل بازی را مطالعه نمائید" );
+define( "LANGUI_CUSTBU_HRO_p1", "قهرمانان" );
+define( "LANGUI_CUSTBU_HRO_p2", "واحه ها" );
+define( "LANGUI_CUSTBU_HRO_p1_t1", "قهرمان" );
+define( "LANGUI_CUSTBU_HRO_p1_t2", "نیرویی برای تربیت وجود ندارد" );
+define( "LANGUI_CUSTBU_HRO_p1_t3", "در حال حاضر قهرمان شما در حال آموزش است و آماده می شود در" );
+define( "LANGUI_CUSTBU_HRO_p1_t4", "تجربه" );
+define( "LANGUI_CUSTBU_HRO_p1_t5", "نام قهرمان" );
+define( "LANGUI_CUSTBU_HRO_p1_t6", "دید کلی" );
+define( "LANGUI_CUSTBU_HRO_p1_t7", "آموزش" );
+define( "LANGUI_CUSTBU_HRO_p2_t1", "واحه" );
+define( "LANGUI_CUSTBU_HRO_p2_t2", "اسم" );
+define( "LANGUI_CUSTBU_HRO_p2_t3", "مختصات" );
+define( "LANGUI_CUSTBU_HRO_p2_t4", "وفاداري" );
+define( "LANGUI_CUSTBU_HRO_p2_t5", "منابع" );
+define( "LANGUI_CUSTBU_HRO_p2_t6", "خروج از واحه" );
+define( "LANGUI_CUSTBU_HRO_p2_t7", "سرزمین تسخیر شده" );
+define( "LANGUI_CUSTBU_HRO_p2_t8", "لغو ترک واحه" );
+define( "LANGUI_CUSTBU_RP_p1", "دید کلی" );
+define( "LANGUI_CUSTBU_RP_p2", "ارسال نیرو" );
+define( "LANGUI_CUSTBU_RP_p3", "شبيه ساز نبرد" );
+define( "LANGUI_CUSTBU_RP_p4", "فارم لیست" );
+define( "LANGUI_CUSTBU_RP_t1", "نیروهای وارد شده" );
+define( "LANGUI_CUSTBU_RP_t2", "بازگشت به" );
+define( "LANGUI_CUSTBU_RP_t3", "حمله به" );
+define( "LANGUI_CUSTBU_RP_t4", "غارت از" );
+define( "LANGUI_CUSTBU_RP_t5", "حیوانات" );
+define( "LANGUI_CUSTBU_RP_t6", "نیروها" );
+define( "LANGUI_CUSTBU_RP_t7", "زمان رسیدن" );
+define( "LANGUI_CUSTBU_RP_t8", "غنائم" );
+define( "LANGUI_CUSTBU_RP_t9", "نیروهای در راه" );
+define( "LANGUI_CUSTBU_RP_t10", "ارتقاء" );
+define( "LANGUI_CUSTBU_RP_t11", "جاسوسی از" );
+define( "LANGUI_CUSTBU_RP_t12", "ایجاد دهکده جدید" );
+define( "LANGUI_CUSTBU_RP_t13", "سرزمین تسخیر شده" );
+define( "LANGUI_CUSTBU_RP_t14", "سرزمین تسخیر نشده" );
+define( "LANGUI_CUSTBU_RP_t15", "منابع" );
+define( "LANGUI_CUSTBU_RP_t16", "نیروهای در دهکده" );
+define( "LANGUI_CUSTBU_RP_t17", "نیروها" );
+define( "LANGUI_CUSTBU_RP_t18", "نگهداري و تعميرات" );
+define( "LANGUI_CUSTBU_RP_t19", "ساعت" );
+define( "LANGUI_CUSTBU_RP_t20", "بازگشت" );
+define( "LANGUI_CUSTBU_RP_t21", "اسیر" );
+define( "LANGUI_CUSTBU_RP_t22", "خروج اسیرها" );
+define( "LANGUI_CUSTBU_RP_t23", "سربازان در روستاهاي ديگر" );
+define( "LANGUI_CUSTBU_RP_t24", "خروج" );
+define( "LANGUI_CUSTBU_RP_t25", " که سربازان اسير شده در" );
+define( "LANGUI_CUSTBU_RP_t26", "آبادی تسخیر شده" );
+define( "LANGUI_CUSTBU_RP_t27", "لغو" );
+define( "LANGUI_CUSTBU_MKT_p1", "تاجران در راه" );
+define( "LANGUI_CUSTBU_MKT_p2", "خريد" );
+define( "LANGUI_CUSTBU_MKT_p3", "پیشنهاد" );
+define( "LANGUI_CUSTBU_MKT_p4", "تعدیل منابع" );
+define( "LANGUI_CUSTBU_MKT_p1_t1", "تاجر" );
+define( "LANGUI_CUSTBU_MKT_p1_t2", "دهکده" );
+define( "LANGUI_CUSTBU_MKT_p1_t3", "بازیکن" );
+define( "LANGUI_CUSTBU_MKT_p1_t4", "دهکده ای با این مشخصات وجود ندارد" );
+define( "LANGUI_CUSTBU_MKT_p1_t5", "منابع کافی نیست" );
+define( "LANGUI_CUSTBU_MKT_p1_t6", "منابع انتخاب نشده است" );
+define( "LANGUI_CUSTBU_MKT_p1_t7", "تعداد تاجر کم است شما نیاز دارید به" );
+define( "LANGUI_CUSTBU_MKT_p1_t8", "تعدیل منابع" );
+define( "LANGUI_CUSTBU_MKT_p1_t9", "تاجران حاضر در دهکده" );
+define( "LANGUI_CUSTBU_MKT_p1_t10", "هر يك از تاجرهای شما، توانايي حمل" );
+define( "LANGUI_CUSTBU_MKT_p1_t11", "عدد از منابع را دارد " );
+define( "LANGUI_CUSTBU_MKT_p1_t12", "تاجران می رسند" );
+define( "LANGUI_CUSTBU_MKT_p1_t13", "انتقال از" );
+define( "LANGUI_CUSTBU_MKT_p1_t14", "رسیدن " );
+define( "LANGUI_CUSTBU_MKT_p1_t15", "ساعت" );
+define( "LANGUI_CUSTBU_MKT_p1_t16", "منابع" );
+define( "LANGUI_CUSTBU_MKT_p1_t17", "تجار در راه" );
+define( "LANGUI_CUSTBU_MKT_p1_t18", "دریافت از" );
+define( "LANGUI_CUSTBU_MKT_p1_t19", "انتقال به" );
+define( "LANGUI_CUSTBU_MKT_p1_t20", "تعداد تجار" );
+define( "LANGUI_CUSTBU_MKT_p2_t1", "نمایش بازار" );
+define( "LANGUI_CUSTBU_MKT_p2_t2", "پیشنهاد" );
+define( "LANGUI_CUSTBU_MKT_p2_t3", "دریافت" );
+define( "LANGUI_CUSTBU_MKT_p2_t4", "بازیکن" );
+define( "LANGUI_CUSTBU_MKT_p2_t5", "فعالیت" );
+define( "LANGUI_CUSTBU_MKT_p2_t6", "منابع شما کافی نیست" );
+define( "LANGUI_CUSTBU_MKT_p2_t7", "تجار کم هستند" );
+define( "LANGUI_CUSTBU_MKT_p2_t8", "قبول پیشنهاد" );
+define( "LANGUI_CUSTBU_MKT_p2_t9", "پیشنهادی در بازار نیست" );
+define( "LANGUI_CUSTBU_MKT_p2_t10", "بازار" );
+define( "LANGUI_CUSTBU_MKT_p2_t11", "پیشنهاد قبول شد از" );
+define( "LANGUI_CUSTBU_MKT_p2_t12", "به سمت دهکده شما حرکت کرده اند" );
+define( "LANGUI_CUSTBU_MKT_p2_t13", "تاجران شما اعزام شدند" );
+define( "LANGUI_CUSTBU_MKT_p3_t1", "پیشنهاد" );
+define( "LANGUI_CUSTBU_MKT_p3_t2", "حداکثر زمان انتقال" );
+define( "LANGUI_CUSTBU_MKT_p3_t3", "جستجو" );
+define( "LANGUI_CUSTBU_MKT_p3_t4", "فقط متحدان" );
+define( "LANGUI_CUSTBU_MKT_p3_t5", "پیشنهای شما غیر منطقی است." );
+define( "LANGUI_CUSTBU_MKT_p3_t6", "پیشنهاد درست نیست" );
+define( "LANGUI_CUSTBU_MKT_p3_t7", "منابع مشخص نشده است" );
+define( "LANGUI_CUSTBU_MKT_p3_t8", "به طور کامل" );
+define( "LANGUI_CUSTBU_MKT_p3_t9", "پیشنهادات من" );
+define( "LANGUI_CUSTBU_MKT_p3_t10", "اتحاد" );
+define( "LANGUI_CUSTBU_MKT_p3_t11", "حذف پیشنهاد" );
+define( "LANGUI_CUSTBU_MKT_p3_t12", "خیر" );
+define( "LANGUI_CUSTBU_MKT_p3_t13", "بله" );
+define( "LANGUI_CUSTBU_MKT_p4_t1", "تعدیل منابع(مرحله1 از 2)" );
+define( "LANGUI_CUSTBU_MKT_p4_t2", "مجموع" );
+define( "LANGUI_CUSTBU_MKT_p4_t3", "باقیمانده" );
+define( "LANGUI_CUSTBU_MKT_p4_t4", "طلای شما برای انجام این کار ،کافی نیست" );
+define( "LANGUI_CUSTBU_MKT_p4_t5", "پایان تعدیل" );
+define( "LANGUI_CUSTBU_MKT_p4_t6", "هزينه" );
+define( "LANGUI_CUSTBU_MKT_p4_t7", "بازگشت" );
+define( "LANGUI_CUSTBU_MKT_p4_t8", "طلا" );
+define( "LANGUI_CUSTBU_MKT_p4_t9", "شما می توانید منابعتان را از طریق تاجران مبادله نمائید<br><br>\r\n اولین سطر مقدار منابع است که در انبار شما موجود است<br>\r\nدر سطر دوم مقدار منابع است که بعد از تعدیل در انبار های شما قرار خواهد گرفت<br>\r\nدر سطر سوم حجم کلی تفاوت منابع موجود در انبار و منابع تعدیل شده را نمایش می دهد" );
+define( "LANGUI_ARTIFACT_01", "کتیبه شما" );
+define( "LANGUI_ARTIFACT_02", "کتیبه کوچک" );
+define( "LANGUI_ARTIFACT_03", "کتیبه بزرگ" );
+define( "LANGUI_ARTIFACT_04", "کتیبه شما" );
+define( "LANGUI_ARTIFACT_05", "نام بازیکن" );
+define( "LANGUI_ARTIFACT_06", "دهکده" );
+define( "LANGUI_ARTIFACT_07", "" );
+define( "LANGUI_ARTIFACT_08", "شما هیچ کتیبه ای ندارید" );
+define( "LANGUI_ARTIFACT_09", "کتیبه منطقه شما" );
+define( "LANGUI_ARTIFACT_10", "نوع کتیبه" );
+define( "LANGUI_ARTIFACT_11", "فاصله" );
+define( "LANGUI_ARTIFACT_12", "کتیبه کوچک حمله" );
+define( "LANGUI_ARTIFACT_13", "اسم دهکده" );
+define( "LANGUI_ARTIFACT_14", "اتحاد" );
+define( "LANGUI_ARTIFACT_15", " کتیبه کوچک دفاع" );
+define( "LANGUI_ARTIFACT_16", "کتیبه ها هنوز آزاد نشده است " );
+define( "LANGUI_ARTIFACT_17", "جمعیت" );
+define( "LANGUI_ARTIFACT_18", "سطح خزانه شما پائین است" );
+define( "LANGUI_ARTIFACT_19", "تصاحب نشده " );
+define( "LANGUI_ARTIFACT_20", "کتیبه بزرگ حمله" );
+define( "LANGUI_ARTIFACT_21", "کتیبه بزرگ دفاع" );
+define( "LANGUI_ARTIFACT_22", "کتیبه بزرگ چکمه" );
+define( "LANGUI_ARTIFACT_23", "کتیبه کوچک چکمه" );
+
+?>

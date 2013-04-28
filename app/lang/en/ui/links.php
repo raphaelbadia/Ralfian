@@ -1,9 +1,14 @@
-HR+cP/EvYEXVct7FCWSTovCDefzxTuvNnO1Xig2iydIzmybdZaB5rC/wUMyZqbCWbBwtBIsawxAc
-3wqFnfP5HwrVHvxMo92CyN3ikMba9539pqFN9Y9K664/ftzpwd2OUxBnu3fJUk/314niOlFZQSnA
-/t/NU0NuuizCdRtj/4wKjAj0DfP7jKo+bCdvEGM9uzMTRzP/yZEu1KMTUsDCWp89bu1oskT99M/e
-WmY5VLZqV0FVRwOc/lvogJNkKsHkuLGGFSEBMjQ3nOrg1D+zZlojOZLFXVFsk+0z/xh8JDytJZQf
-DKgVyfUntWaI+Q+3xpMWFwmXtl7h5nCd1/vBWgwsGhicB3LLGRsuONdamTxe+e6tS/C2YUNFOQNd
-9qsmwdbbIhESg+Rzv3flEYXE3vx02dUT32GxSgZdcWD94Ip5sy4goDxcjeBbvH8aW8aGzvTTcNVs
-WnrwAJruwB9MJ2PuQ6cZIJ1tk3LaDNLXyxnbj/raJbtoyD0cSDCSMIPYhqiJo9rOv+OfqlGL29Qa
-OYQgWDRHcjsC4WtTBkABvW9xbvsrfWI4MPsk9367qs9CtgGJU1BJ/a7axZSZyub4hnQJO/N26N4x
-SFmd9KZFhLknmWjg4ruRtYXk12iSuP9RVbDLj+u+/eB64xnBhP2S+d/u++5hBaUuqAyaai33
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_LNKS_T1", "Direct links" );
+define( "LANGUI_LNKS_T2", "Number" );
+define( "LANGUI_LNKS_T3", "Link title" );
+define( "LANGUI_LNKS_T4", "Target link" );
+?>

@@ -1,24 +1,19 @@
-HR+cPm9McOhLes6jjEyCgNHr/h2A7srGv8gRE96iG+Ncsh9Vh8/bgxGZVUmTYxPU8CFyZRng+xZF
-HQi/FdCgNE43Q2MSqJEm29M1v5bLwadCoL6k4lWKZGZGvD06Jzgu/9BTSixLX54tp4E4tRFi+i6M
-bO/FjctVn8HYMzd5Mds/EGb2CQa4QJOxCysCpmRI+daOBpPp1zh/+fnYacNio8XamiziXtfkNxGq
-QZeNUD4PEzBKTyeXMu7WgJNkKsHkuLGGFSEBMjQ3nTXfCEBwTcUtYi+u3SCkmabzDKnI4h5B+lc1
-bqFaFs73ORDwpk6tu0whDUr9PEc//kY3p1jhBcF6/iWDHCh/kpyz8M6MOCG9dP1UoO3MRinAXgvY
-k0yHfoWbJp8JArYfad5WeJ9ERPKMOFIUjiVUOD/RlaAWOnFvHunWQ7GUuMoHMMNRjNS7xpCMSK0q
-/Q83WzfZ1Qyoy2ZRFGFp4BEMN3EjHUh6AVllPkIu2jbM8aL0Ch5HD5SbQvwrjON5KHrIag2ZSiSC
-9ZbkUQ90Q9LJdKZ22jYFHfH8nsMU1TlPT0SY6YNo2DL671NQICyRqU0K/53SFlnbdpCheynyeb7t
-OWfkV1X9MMkZ885TyHuaShHEIIjiRnTcfKTZnfcEkscbClsp2+aLwbjMZoFj+RVCFeNBNHGQeBHX
-2114JED+cBzNi6PRGQdGljBW7KmCnB07u2Z64BiK1l+5cHatXWsnNHtZZsY5sStvZ0bG+kRkFI+G
-DWw11sid5Y5iBZSDbzjP57juEkhbYuyz8cfGHMIDa8CpncjhcU8eW/rU42xMil/OqLaSIjKN7Y2j
-quUO7XzL4rJBsZgKJpCdVEqk0x2Nu1rojHfec+ilBmMpVe3+vm+QqzA9nky/oxyixSz6LbMdnpj7
-0RmP2x9Oie6H6R5W0nPdUyDDQk6isV8wVRd1UWZ9XmnmeV8iEtaG54t5ACgHufXgFZ7XWkK5vTh3
-L/y7nV8ozJ557S2d1yllAsgLWlycx91BcMfqZT1rS+XgKufyUK35GgqAS+uwuhYy5nrbms0hPy6U
-hiKf3NIQpQuSXErUZE6W59KtkD88Q0Y6yJMeqQDLgnv+RTrx6rU+ec5CQWGNQ8ehqjAa1xM9ESXZ
-r/tYXseQ7EukpvX30VQqTjT20czGPzHaXcDGrgovsYknd2JQp24gD57hmimco8nQu6sLLXqI0SGI
-9mJ/20Z+wSFKBZwJ/smildEz6ZwFCQqkpd7DyVCQlTUWwevLuxX0KjgHH8fC3O4CBIAz/ovmpE4h
-PHfNcfCdLuk5pUbL/GTbvSU/XFd9COdsV5JcIfXIZH/s3bJl32KZDGxX+/FrHQTbOpzeZ28b7UND
-aIItFVzD1SNlUM/ZWert7snopsqVvE96bGcxlhwA6hmJoYwBwuMbNnIw0hbWpDx36UyqqcoJnG/T
-U/aeZSFVdZ5jLt2lj8JoPxSbofWFoc9XmnmmLQq1co7XknlYnbsuZrJUHz8VZFDGQYhSx6mEOV/E
-9v8lN74YlqZWrZIl8zPNfXQDYAL3AIuWnfXkkSdJRjbHrqkIYcfxvuHOxw73Iln2oUNM3Xosgx1K
-yzDtw7VYoRvJOYywZGi6jLjDLxU5dXa3uLTHHHNh12e0+2LgHzSJ/+WIKxB25j9kKEanO5du50Rh
-BtwTypLMvTp8h32rng8Tfkv6pY4dfZ7wOwVHQEgSx0uPwrJ0Z1usnTbHow0qy4XCYKfkxzaAg2+e
-NpMCBgtAn6M6E1r3bvog6L1B7T8ryECmvGwZCc3i/unmS9kcaogf5G==
+﻿<?php
+define( "LANGUI_ACTIVATE_T1", "هیچ ایمیلی دریافت نشد؟" );
+define( "LANGUI_ACTIVATE_T2", "برای وارد شدن به بازی تراوین نیاز به یک آدرس ایمیل معتبر دارید که کد فعال سازی به آن آدرس فرستاده شود. موارد خاصی وجود دارد که این ایمیل فرستاده نشود." );
+define( "LANGUI_ACTIVATE_T3", "مشکلات زیر ممکن است رخ داده باشد :" );
+define( "LANGUI_ACTIVATE_T4", "اشکال تایپی در آدرس ایمیل" );
+define( "LANGUI_ACTIVATE_T5", "صندوق پیام شما پر شده باشد" );
+define( "LANGUI_ACTIVATE_T6", "دامین اشتباه وارد کرده باشید gmail.com , hotmail.com" );
+define( "LANGUI_ACTIVATE_T7", "ایمیل به اسپم فولدر (بالک میل) شما منتقل شده باشد" );
+define( "LANGUI_ACTIVATE_T8", "شما میتوانید ثبت نام قبلي خود را باطل کرده و با یک آدرس ایمیل متفاوت ثبت نام کنید. سپس کد فعال سازی به آدرس جدید فرستاده خواهد شد.." );
+define( "LANGUI_ACTIVATE_T9", "نام کاربری" );
+define( "LANGUI_ACTIVATE_T10", "رمز عبور" );
+define( "LANGUI_ACTIVATE_T11", "حذف" );
+define( "LANGUI_ACTIVATE_T12", "ثبت نام با موفقیت لغو شد. حالا میتوانید دوباره ثبت نام کنید" );
+define( "LANGUI_ACTIVATE_T13", "» ثبت نام" );
+define( "LANGUI_ACTIVATE_T14", "اکانت شما با موفقیت فعال شد" );
+define( "LANGUI_ACTIVATE_T15", "اینجا را کلیک کنید" );
+define( "LANGUI_ACTIVATE_T16", "ورود" );
+define( "LANGUI_ACTIVATE_T17", "نام کاربری شما از قبل فعال شده است" );
+?>

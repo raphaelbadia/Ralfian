@@ -1,15 +1,15 @@
-HR+cPzHNa6c6fMXEI+W5IbYTTNyXnKQlduoGtAMihs01ad7FwctdmSzA+GYwbtNJDQXgQ+mo8fcm
-VkUsnGhT/ESrdi91zhdkajRqvjxM1rwfHWpFoijGz8ZhWNU9vScm2LWKhHXl05u8WqJZTBYeAC+9
-yMtIGFRMTcEUu8XnkdMrlqvi4+MmsiBUPx2eYu07vbwjBC7/UNYYb3aegkl+jCApI9p2nHZk3koi
-1otn7QovUTVSBFNECho7gJNkKsHkuLGGFSEBMjQ3nH5lCW0uegLS+PJZfSEkuDCWPWb6AbCEToc/
-RyusDJY723ACdfqmyM08jBXsv/4/heO6BcTAcU2LHXQ7Qv4pjKR6v9tN0fatHSRggB+d4Yzzdmst
-nYyjON2D0JT5eJ2Di4aeAKHThYRhASKaKKOGi5bwlrZWyYAYEO3tNafFANFPbER3/tT+Cn5QjvKz
-desjVczMvD5GgmQevMlx93l2jCvhLpYj5IH5asBUnL5plwMv/2dT4AlTKYnqeR2I8DXCNdgI+Gq1
-3fuM9asO4B8+Y5SnA1BQ0IeZHyCrdawzcC5xwMaO8PtYm5FFgrRzeGzgstKL/pvCJ0YWUS8PpEj0
-dKYGxIxQ8ilQP9UOSORAV92xomUQ/Av/N3V/pMSmM2pXPpgZrDqqSdfLaN13wbFfPksSW9gOzat9
-3+v9I7VScxMS1scuh9UEoH1NCOclDP2gCqx81BNxTrezdk+txYGDTdv+o9HfSlR/xfDI9FmnHozw
-4j9HVOfMoEGtvDniOHN+uWhDMsIXPGfH3qUNvcYwxcZvL1vNhDPVj1h1p1f2PoUNlCUygz57OzmE
-QHl72cRMCT9JhsLhW0EBC3+/NfWgjkJ9FfFHBWyuB/zOuSsqTzV8VGtKgQ+ZkHZypCumZyBE3tlg
-0gcwxCDponalX6fQCdDHnFwqXgOQFI50YcXCb+HR3S0kTXrjNG/jNYNRNN80D17kLzCDVxRQEH+o
-CoJ49TJe6CtUDAGrRkWb7tgC70T+d0+aUA2Ib9UJcRf45280/pRcNtUDQKv48S+6FJOgQgUBk2aM
-Ryi=
+<?php
+define( "LANGUI_FIND_T1", "Find" );
+define( "LANGUI_FIND_T2", "Adventures" );
+define( "LANGUI_FIND_T3", "You Can find Adventures In Game" );
+define( "LANGUI_FIND_T4", "Search" );
+define( "LANGUI_FIND_T5", "Results" );
+define( "LANGUI_FIND_T6", " Row" );
+define( "LANGUI_FIND_T7", "X" );
+define( "LANGUI_FIND_T8", "Y" );
+define( "LANGUI_FIND_T9", "Location" );
+define( "LANGUI_FIND_T10", "Village" );
+define( "LANGUI_FIND_T11", "Page" );
+define( "LANGUI_FIND_T12", "End" );
+define( "LANGUI_FIND_T13", "Page No :" );
+?>

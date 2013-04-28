@@ -1,42 +1,69 @@
-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
+<?php
+
+define( "LANGUI_STAT_T1", "<br><br><br>Statistics" );
+define( "LANGUI_STAT_T2", "Players" );
+define( "LANGUI_STAT_T3", "Alliances" );
+define( "LANGUI_STAT_T4", "Villages" );
+define( "LANGUI_STAT_T5", "Heroes" );
+define( "LANGUI_STAT_T6", "Natars" );
+define( "LANGUI_STAT_T7", "General" );
+define( "LANGUI_STAT_T8", "Are you sure you want to delete this player?" );
+define( "LANGUI_STAT_T9", "Largest Players" );
+define( "LANGUI_STAT_T10", "Top 10" );
+define( "LANGUI_STAT_T11", "Defender" );
+define( "LANGUI_STAT_T12", "Attacker" );
+define( "LANGUI_STAT_T13", "Alliance" );
+define( "LANGUI_STAT_T14", "Population" );
+define( "LANGUI_STAT_T15", "Gold" );
+define( "LANGUI_STAT_T16", "Gold" );
+define( "LANGUI_STAT_T17", "Delview's GameMaster" );
+define( "LANGUI_STAT_T18", "adjusting the amount of gold" );
+define( "LANGUI_STAT_T19", "Delete player" );
+define( "LANGUI_STAT_T20", "No." );
+define( "LANGUI_STAT_T21", "Name" );
+define( "LANGUI_STAT_T22", "Largest Alliances" );
+define( "LANGUI_STAT_T23", "Points" );
+define( "LANGUI_STAT_T24", "Largest Villages" );
+define( "LANGUI_STAT_T25", "Village" );
+define( "LANGUI_STAT_T26", "Coordinates" );
+define( "LANGUI_STAT_T27", "Modify the village resources" );
+define( "LANGUI_STAT_T27a", "Modify the village troops *WIP" );
+define( "LANGUI_STAT_T28", "The most experienced heroes" );
+define( "LANGUI_STAT_T29", "Hero" );
+define( "LANGUI_STAT_T30", "Experience" );
+define( "LANGUI_STAT_T31", "Registered players" );
+define( "LANGUI_STAT_T32", "Active players" );
+define( "LANGUI_STAT_T33", "Online players" );
+define( "LANGUI_STAT_T34", "Tribes" );
+define( "LANGUI_STAT_T35", "Registered" );
+define( "LANGUI_STAT_T36", "Percent" );
+define( "LANGUI_STAT_T37", "The Most Successful Defenders" );
+define( "LANGUI_STAT_T38", "The Most Successful Attackers" );
+define( "LANGUI_STAT_T39", "The best alliance in defense" );
+define( "LANGUI_STAT_T40", "The best alliance in the attack" );
+define( "LANGUI_STAT_T41", "Top 10 players" );
+define( "LANGUI_STAT_T42", "Top 10 alliances" );
+define( "LANGUI_STAT_T43", "Quick Guide" );
+define( "LANGUI_STAT_T44", "Attackers" );
+define( "LANGUI_STAT_T45", "Defenders" );
+define( "LANGUI_STAT_T46", "Climbers" );
+define( "LANGUI_STAT_T47", "Robbers" );
+define( "LANGUI_STAT_T48", "Resources" );
+define( "LANGUI_STAT_T49", "Tribe" );
+define( "LANGUI_STAT_T50", "Ranks" );
+define( "LANGUI_STAT_T51", "Unsuspend player" );
+define( "LANGUI_STAT_T52", "Suspend player" );
+define( "LANGUI_STAT_T53", "Time remaining To the medals  " );
+define( "LANGUI_STAT_T54", "   Day " );
+define( "LANGUI_STAT_T55", " H " );
+define( "LANGUI_STAT_T56", " Min " );
+define( "LANGUI_STAT_T57", " Sec " );
+define( "LANGUI_STAT_T58", " Next Week : " );
+define( "LANGUI_STAT_T59", "Send Message" );
+define( "LANGUI_STAT_T60", "Tribe" );
+define( "LANGUI_STAT_T61", "Status" );
+define( "LANGUI_STAT_T62", "Golden Club" );
+define( "LANGUI_STAT_T63", "Active" );
+define( "LANGUI_STAT_T64", "Inactive" );
+define( "LANGUI_STAT_T65", "Activation" );
+?>

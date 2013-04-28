@@ -1,132 +1,232 @@
-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
-GZJEZcoXSoIST65Vz8BzrL9LUKGrcImgqEixWEG=
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_CUSTBU_CRANNYEXTRA", "Number of resources hidden" );
+define( "LANGUI_CUSTBU_M_DROP", "Destroy a building" );
+define( "LANGUI_CUSTBU_M_DROPDESC", "If you no longer need a building, you can set it to be demolished by the builders." );
+define( "LANGUI_CUSTBU_M_CANCEL", "Cancel the demolition." );
+define( "LANGUI_CUSTBU_M_EMPTY", "empty" );
+define( "LANGUI_CUSTBU_M_DROPBTN", "destruction" );
+define( "LANGUI_CUSTBU_TRP_t1", "You currently have" );
+define( "LANGUI_CUSTBU_TRP_t2", "traps and" );
+define( "LANGUI_CUSTBU_TRP_t3", "have prisoners." );
+define( "LANGUI_CUSTBU_TRP_t4", "Name" );
+define( "LANGUI_CUSTBU_TRP_t5", "Number" );
+define( "LANGUI_CUSTBU_TRP_t6", "Maximum" );
+define( "LANGUI_CUSTBU_TRP_t7", "Available" );
+define( "LANGUI_CUSTBU_TRP_t8", "No troops currently training" );
+define( "LANGUI_CUSTBU_TRP_t9", "Training" );
+define( "LANGUI_CUSTBU_TRP_t10", "under the production" );
+define( "LANGUI_CUSTBU_TRP_t11", "Being trained" );
+define( "LANGUI_CUSTBU_TRP_t12", "Next troop will be ready in " );
+define( "LANGUI_CUSTBU_TRP_t13", "trap" );
+define( "LANGUI_CUSTBU_TRP_t14", "unity" );
+define( "LANGUI_CUSTBU_TRP_t15", "Complete troop training in this village immediately. Cost %s Gold " );
+define( "LANGUI_CUSTBU_TRP_t16", "Complete troops training immediately" );
+define( "LANGUI_CUSTBU_TRP_t17", "Cost" );
+define( "LANGUI_CUSTBU_TRP_t18", "Gold" );
+define( "LANGUI_CUSTBU_TRP_t19", "Troops were sent to your village" );
+define( "LANGUI_CUSTBU_TRP_t20", "You do not have enough gold" );
+define( "LANGUI_CUSTBU_EMB_t1", "Alliance" );
+define( "LANGUI_CUSTBU_EMB_t2", "Code" );
+define( "LANGUI_CUSTBU_EMB_t3", "The Alliance" );
+define( "LANGUI_CUSTBU_EMB_t4", "Alliance building" );
+define( "LANGUI_CUSTBU_EMB_t5", "write code" );
+define( "LANGUI_CUSTBU_EMB_t6", "user code from someone else" );
+define( "LANGUI_CUSTBU_EMB_t7", "Name" );
+define( "LANGUI_CUSTBU_EMB_t8", "Type the name" );
+define( "LANGUI_CUSTBU_EMB_t9", "completely" );
+define( "LANGUI_CUSTBU_EMB_t10", "to join the alliance" );
+define( "LANGUI_CUSTBU_EMB_t11", "Deny" );
+define( "LANGUI_CUSTBU_EMB_t12", "Accept" );
+define( "LANGUI_CUSTBU_EMB_t13", "There are no invitations to join now" );
+define( "LANGUI_CUSTBU_EMB_t14", "This alliance does not have room." );
+define( "LANGUI_CUSTBU_TWH_t1", "Celebration" );
+define( "LANGUI_CUSTBU_TWH_t2", "Start" );
+define( "LANGUI_CUSTBU_TWH_t3", "Small celebration" );
+define( "LANGUI_CUSTBU_TWH_t4", "culture points" );
+define( "LANGUI_CUSTBU_TWH_t5", "Begin" );
+define( "LANGUI_CUSTBU_TWH_t6", "Large celebration" );
+define( "LANGUI_CUSTBU_TWH_t7", "Begin" );
+define( "LANGUI_CUSTBU_BLK_t1", "Start" );
+define( "LANGUI_CUSTBU_BLK_t2", "No force is currently developing" );
+define( "LANGUI_CUSTBU_BLK_t3", "developments" );
+define( "LANGUI_CUSTBU_BLK_t4", "update" );
+define( "LANGUI_CUSTBU_ACD_t1", "Research Troops" );
+define( "LANGUI_CUSTBU_ACD_t2", "Start" );
+define( "LANGUI_CUSTBU_ACD_t3", "You can not develop new forces now. To review the terms of the development of new troops look in the manual." );
+define( "LANGUI_CUSTBU_ACD_t4", "More" );
+define( "LANGUI_CUSTBU_ACD_t5", "Conditions" );
+define( "LANGUI_CUSTBU_ACD_t6", "Less" );
+define( "LANGUI_CUSTBU_ACD_t7", "Research" );
+define( "LANGUI_CUSTBU_ACD_t8", "Search" );
+define( "LANGUI_CUSTBU_RPLC_p1", "Training" );
+define( "LANGUI_CUSTBU_RPLC_p2", "Culture Points" );
+define( "LANGUI_CUSTBU_RPLC_p3", "Loyalty" );
+define( "LANGUI_CUSTBU_RPLC_p4", "Expand" );
+define( "LANGUI_CUSTBU_RPLC_p1_t1", "Name" );
+define( "LANGUI_CUSTBU_RPLC_p1_t2", "Amount" );
+define( "LANGUI_CUSTBU_RPLC_p1_t3", "Maximum" );
+define( "LANGUI_CUSTBU_RPLC_p1_t4", "Available" );
+define( "LANGUI_CUSTBU_RPLC_p1_t5", "Training" );
+define( "LANGUI_CUSTBU_RPLC_p1_t6", "You can not create another village from this village." );
+define( "LANGUI_CUSTBU_RPLC_p1_t7", "To build or occupy another village, you need to develop the building to level" );
+define( "LANGUI_CUSTBU_RPLC_p1_t8", "You can now build a new village." );
+define( "LANGUI_CUSTBU_RPLC_p1_t9", "To build or occupy another village, you need to develop the building to level 10" );
+define( "LANGUI_CUSTBU_RPLC_p1_t10", "Under training" );
+define( "LANGUI_CUSTBU_RPLC_p1_t11", "the next unit to be ready yet" );
+define( "LANGUI_CUSTBU_RPLC_p1_t12", "This village is the capital of the kingdom" );
+define( "LANGUI_CUSTBU_RPLC_p1_t13", "To make this village is the capital city" );
+define( "LANGUI_CUSTBU_RPLC_p2_t1", "To be able to expand your kingdom you need the culture points. These points accumulate over time and are added to your village, which is you get faster with a higher level Palace or Residence." );
+define( "LANGUI_CUSTBU_RPLC_p2_t2", "Production of this village" );
+define( "LANGUI_CUSTBU_RPLC_p2_t3", "culture points a day" );
+define( "LANGUI_CUSTBU_RPLC_p2_t4", "Production of all the villages" );
+define( "LANGUI_CUSTBU_RPLC_p2_t5", "You currently have" );
+define( "LANGUI_CUSTBU_RPLC_p2_t6", "culture points." );
+define( "LANGUI_CUSTBU_RPLC_p2_t7", "The establishment of a new village or occupation requires" );
+define( "LANGUI_CUSTBU_RPLC_p2_t8", "culture points." );
+define( "LANGUI_CUSTBU_RPLC_p3_t1", "When leaders, elders, or superiors attack a village they reduce its loyalty. When the loyalty reaches zero the village joins the kingdom of the attacker." );
+define( "LANGUI_CUSTBU_RPLC_p3_t2", "The loyalty of this village is " );
+define( "LANGUI_CUSTBU_RPLC_p4_t1", "Villages founded or colonized from this village" );
+define( "LANGUI_CUSTBU_RPLC_p4_t2", "Village" );
+define( "LANGUI_CUSTBU_RPLC_p4_t3", "Population" );
+define( "LANGUI_CUSTBU_RPLC_p4_t4", "Coordinates" );
+define( "LANGUI_CUSTBU_RPLC_p4_t5", "Date" );
+define( "LANGUI_CUSTBU_RPLC_p4_t6", "You have not founded any other village from this village." );
+define( "LANGUI_CUSTBU_HRO_p1", "Hero" );
+define( "LANGUI_CUSTBU_HRO_p2", "Oasis" );
+define( "LANGUI_CUSTBU_HRO_p1_t1", "List of heroes" );
+define( "LANGUI_CUSTBU_HRO_p1_t2", "No troops in village." );
+define( "LANGUI_CUSTBU_HRO_p1_t3", "Your hero is being trained and will be ready in" );
+define( "LANGUI_CUSTBU_HRO_p1_t4", "Experience" );
+define( "LANGUI_CUSTBU_HRO_p1_t5", "Name of the hero" );
+define( "LANGUI_CUSTBU_HRO_p1_t6", "Completely" );
+define( "LANGUI_CUSTBU_HRO_p1_t7", "Training" );
+define( "LANGUI_CUSTBU_HRO_p2_t1", "Oasis" );
+define( "LANGUI_CUSTBU_HRO_p2_t2", "Name" );
+define( "LANGUI_CUSTBU_HRO_p2_t3", "Coordinates" );
+define( "LANGUI_CUSTBU_HRO_p2_t4", "Loyalty" );
+define( "LANGUI_CUSTBU_HRO_p2_t5", "Resources" );
+define( "LANGUI_CUSTBU_HRO_p2_t6", "left Oasis" );
+define( "LANGUI_CUSTBU_HRO_p2_t7", "Oasis occupied" );
+define( "LANGUI_CUSTBU_HRO_p2_t8", "Leave this oasis" );
+define( "LANGUI_CUSTBU_RP_p1", "Overview" );
+define( "LANGUI_CUSTBU_RP_p2", "Send troops" );
+define( "LANGUI_CUSTBU_RP_p3", "Battle Simulator" );
+define( "LANGUI_CUSTBU_RP_p4", "Farm List" );
+define( "LANGUI_CUSTBU_RP_t1", "Incoming troops" );
+define( "LANGUI_CUSTBU_RP_t2", "Return to" );
+define( "LANGUI_CUSTBU_RP_t3", "Attack on" );
+define( "LANGUI_CUSTBU_RP_t4", "Attack of the loot on" );
+define( "LANGUI_CUSTBU_RP_t5", "Monsters" );
+define( "LANGUI_CUSTBU_RP_t6", "Units" );
+define( "LANGUI_CUSTBU_RP_t7", "Access" );
+define( "LANGUI_CUSTBU_RP_t8", "Bounty" );
+define( "LANGUI_CUSTBU_RP_t9", "Forces on the road" );
+define( "LANGUI_CUSTBU_RP_t10", "Promote" );
+define( "LANGUI_CUSTBU_RP_t11", "Spy on" );
+define( "LANGUI_CUSTBU_RP_t12", "Building a new village" );
+define( "LANGUI_CUSTBU_RP_t13", "Oasis owned" );
+define( "LANGUI_CUSTBU_RP_t14", "Oasis is not occupied" );
+define( "LANGUI_CUSTBU_RP_t15", "Resources" );
+define( "LANGUI_CUSTBU_RP_t16", "The troops in the village" );
+define( "LANGUI_CUSTBU_RP_t17", "Forces" );
+define( "LANGUI_CUSTBU_RP_t18", "Maintenance" );
+define( "LANGUI_CUSTBU_RP_t19", "hourly" );
+define( "LANGUI_CUSTBU_RP_t20", "Return" );
+define( "LANGUI_CUSTBU_RP_t21", "Captured" );
+define( "LANGUI_CUSTBU_RP_t22", "The launch of the family" );
+define( "LANGUI_CUSTBU_RP_t23", "Troops in other villages" );
+define( "LANGUI_CUSTBU_RP_t24", "Withdrawal" );
+define( "LANGUI_CUSTBU_RP_t25", "my troops when captured" );
+define( "LANGUI_CUSTBU_RP_t26", "Oasis colony" );
+define( "LANGUI_CUSTBU_RP_t27", "Cancel" );
+define( "LANGUI_CUSTBU_MKT_p1", "Send resources" );
+define( "LANGUI_CUSTBU_MKT_p2", "Purchase" );
+define( "LANGUI_CUSTBU_MKT_p3", "Sale" );
+define( "LANGUI_CUSTBU_MKT_p4", "Dealer swap" );
+define( "LANGUI_CUSTBU_MKT_p1_t1", "Traders" );
+define( "LANGUI_CUSTBU_MKT_p1_t2", "Village" );
+define( "LANGUI_CUSTBU_MKT_p1_t3", "Player" );
+define( "LANGUI_CUSTBU_MKT_p1_t4", "Not found on the map" );
+define( "LANGUI_CUSTBU_MKT_p1_t5", "Insufficient resources" );
+define( "LANGUI_CUSTBU_MKT_p1_t6", "No selection of raw materials" );
+define( "LANGUI_CUSTBU_MKT_p1_t7", "Not enough merchants" );
+define( "LANGUI_CUSTBU_MKT_p1_t8", "Dealer" );
+define( "LANGUI_CUSTBU_MKT_p1_t9", "Merchants already in the village" );
+define( "LANGUI_CUSTBU_MKT_p1_t10", "Able to carry resources" );
+define( "LANGUI_CUSTBU_MKT_p1_t11", "Raw materials" );
+define( "LANGUI_CUSTBU_MKT_p1_t12", "Traders movement" );
+define( "LANGUI_CUSTBU_MKT_p1_t13", "Transport" );
+define( "LANGUI_CUSTBU_MKT_p1_t14", "Access" );
+define( "LANGUI_CUSTBU_MKT_p1_t15", "Hours" );
+define( "LANGUI_CUSTBU_MKT_p1_t16", "Resources" );
+define( "LANGUI_CUSTBU_MKT_p1_t17", "Traders travelers" );
+define( "LANGUI_CUSTBU_MKT_p1_t18", "Return" );
+define( "LANGUI_CUSTBU_MKT_p1_t19", "To transport" );
+define( "LANGUI_CUSTBU_MKT_p1_t20", "Number of traders" );
+define( "LANGUI_CUSTBU_MKT_p2_t1", "Offers in the market" );
+define( "LANGUI_CUSTBU_MKT_p2_t2", "Before me" );
+define( "LANGUI_CUSTBU_MKT_p2_t3", "Wanted me" );
+define( "LANGUI_CUSTBU_MKT_p2_t4", "Players" );
+define( "LANGUI_CUSTBU_MKT_p2_t5", "Activity" );
+define( "LANGUI_CUSTBU_MKT_p2_t6", "You do not have sufficient resources" );
+define( "LANGUI_CUSTBU_MKT_p2_t7", "Few traders" );
+define( "LANGUI_CUSTBU_MKT_p2_t8", "Accept the offer" );
+define( "LANGUI_CUSTBU_MKT_p2_t9", "Offers no market" );
+define( "LANGUI_CUSTBU_MKT_p2_t10", "Market" );
+define( "LANGUI_CUSTBU_MKT_p2_t11", "Was to accept the offer of" );
+define( "LANGUI_CUSTBU_MKT_p2_t12", "On its way to you" );
+define( "LANGUI_CUSTBU_MKT_p2_t13", "The merchants were sent" );
+define( "LANGUI_CUSTBU_MKT_p3_t1", "Width" );
+define( "LANGUI_CUSTBU_MKT_p3_t2", "Maximum transfer time" );
+define( "LANGUI_CUSTBU_MKT_p3_t3", "Search" );
+define( "LANGUI_CUSTBU_MKT_p3_t4", "Only members of my allianc" );
+define( "LANGUI_CUSTBU_MKT_p3_t5", "This offer is exaggerated and is fit" );
+define( "LANGUI_CUSTBU_MKT_p3_t6", "Show Invalid" );
+define( "LANGUI_CUSTBU_MKT_p3_t7", "is not specified, the resources" );
+define( "LANGUI_CUSTBU_MKT_p3_t8", "completely" );
+define( "LANGUI_CUSTBU_MKT_p3_t9", "MY" );
+define( "LANGUI_CUSTBU_MKT_p3_t10", "Alliance" );
+define( "LANGUI_CUSTBU_MKT_p3_t11", "Delete view" );
+define( "LANGUI_CUSTBU_MKT_p3_t12", "No" );
+define( "LANGUI_CUSTBU_MKT_p3_t13", "Yes" );
+define( "LANGUI_CUSTBU_MKT_p4_t1", "The distribution of raw material (Step 1 of 2)" );
+define( "LANGUI_CUSTBU_MKT_p4_t2", "Total" );
+define( "LANGUI_CUSTBU_MKT_p4_t3", "rest" );
+define( "LANGUI_CUSTBU_MKT_p4_t4", "You do not have enough gold to cover the opperation." );
+define( "LANGUI_CUSTBU_MKT_p4_t5", "Complete swap" );
+define( "LANGUI_CUSTBU_MKT_p4_t6", "Cost" );
+define( "LANGUI_CUSTBU_MKT_p4_t7", "Return" );
+define( "LANGUI_CUSTBU_MKT_p4_t8", "Gold" );
+define( "LANGUI_CUSTBU_MKT_p4_t9", "You can distribute the raw materials in the market with swap dealers as they want. <br> <br>\r\nThe first row shows the current contents of the store. <br>\r\nIn the second row you can distribute various resources. <br>\r\nThird row shows the difference between the quantities of old and new " );
+define( "LANGUI_ARTIFACT_01", "Your Artifact" );
+define( "LANGUI_ARTIFACT_02", "Small Artifact" );
+define( "LANGUI_ARTIFACT_03", "Large  Artifact" );
+define( "LANGUI_ARTIFACT_04", "Your  Artifact" );
+define( "LANGUI_ARTIFACT_05", "Player" );
+define( "LANGUI_ARTIFACT_06", "Village" );
+define( "LANGUI_ARTIFACT_07", "" );
+define( "LANGUI_ARTIFACT_08", "You Haven't Any  Artifact" );
+define( "LANGUI_ARTIFACT_09", "Artifact In Your Area" );
+define( "LANGUI_ARTIFACT_10", " Artifact Type" );
+define( "LANGUI_ARTIFACT_11", "Distance" );
+define( "LANGUI_ARTIFACT_12", "Small Attack Artifact" );
+define( "LANGUI_ARTIFACT_13", "Village" );
+define( "LANGUI_ARTIFACT_14", "Alliance" );
+define( "LANGUI_ARTIFACT_15", "Small Defense Artifact" );
+define( "LANGUI_ARTIFACT_16", "Artifact are not released yet " );
+define( "LANGUI_ARTIFACT_17", "People" );
+define( "LANGUI_ARTIFACT_18", "Level of Treasury is low" );
+define( "LANGUI_ARTIFACT_19", "Free" );
+define( "LANGUI_ARTIFACT_20", "Large Attack Artifact" );
+define( "LANGUI_ARTIFACT_21", "Large Defense Artifact" );
+
+
+?>

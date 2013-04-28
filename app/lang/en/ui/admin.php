@@ -1,14 +1,14 @@
-HR+cPmSvcoKN660A+eOE1aUDgjd1Z/0moDpLYAAiDwDms7DGYC9CPLqHf35Mgmu+DEcE60h2aT05
-PZ2aK6nbFlQ+j+tJJecEzzWV9zSUhTa1QiO9j5ARyIq61qvO4LqxLaTCi8XB0xnBMRgPSTzKiooT
-EXdraQVj52RTLUpWxAZLZndghrIgI+AsJhmNCoTpjcGlZwuRL1EKnJGOBMG7HUs2ozcNgEjDT++R
-BoHWsSyElCkDa6YK+zJWgJNkKsHkuLGGFSEBMjQ3nIrWM/mE/fRhb0QqnSFc7ZKMXs/1yMx5Eakl
-0BWtr0w+/XHpHgqTEUFhpmBecryPBDxEwKjQgfL1jFgPt1RkBcc36Q6lIjEQk/Mfszql02teitIa
-KPdGAOZc9x3BuRmxJGbYf7CwOI821L17pejyvu16ZdIckDjX9Ga3ib2rQKjj3u+RORjnAFZoMVy5
-AJdRtrF5i9dD7Mo8qfQMGmHCZhLWWqaDSDT20wLhihwB95icz/YbPNLi443JhMcF+fIS8Fxg9vQo
-q6Ctkb9tr6PBxXTAeSTob15hAU0GivPpTQNYpRgwa8XNcDT3satCv7nzjVpHgXPnTE82LUGIx1W8
-cD5a33UQ0QZTKfgGP9WP8BC0Dbub5ywDq581RGSmk6Oti3CBBVzgJrwiQS6mVJImBbWHUrZQFvc8
-0SXa2J1Wpo2GZF6jvBwndvVYww/UXpffgiH58QZISKIOvICN4JREztOlDcRWyuzFoAlQKA6kVe/l
-JfT0+MIa3hXDkVsJJXKWIjbFf+sf1TtMXwjDeR4rE5GvY8FEaoNYZZT58EvJ2Dr63xdWhpX8urWN
-6KiqH4Zxw0AVvn2b/Nhg1Qt6nS7s+CZ++0AprFyXc9SAkNih0Qzea2RJA+lEH+oAi2m1PYLCRxBN
-3iDgZs4vyI+RAueaAR2+Gqch3uHsty/IYRjT8nnCEsVNNvgc7FBpvZsO4NGS1YXU+zGvxOpgG2BX
-yFFPrRWdG1357+hkI+rZlzbddgUgauitiFWIJpK=
+﻿<?php
+define( "ADMIN_LANG_01", " Admin Settings " );
+define( "ADMIN_LANG_02", " Manage Troops " );
+define( "ADMIN_LANG_03", " Manage Vacation " );
+define( "ADMIN_LANG_04", " Manage Hero " );
+define( "ADMIN_LANG_05", " Manage Escape " );
+define( "ADMIN_LANG_06", " Manage Rename " );
+define( "ADMIN_LANG_07", "Manage Bank" );
+define( "ADMIN_LANG_08", "Manage Change Color" );
+define( "ADMIN_LANG_09", "" );
+define( "ADMIN_LANG_10", "" );
+define( "ADMIN_LANG_11", "" );
+define( "ADMIN_LANG_12", "" );
+?>

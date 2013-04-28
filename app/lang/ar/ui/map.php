@@ -1,16 +1,17 @@
-HR+cPxiOhR4L+nM6zASuaY57gURAsS0IZmr6X+vynwHBvuXHDvzGtfc2DdDlPdAgHTkzbsGhe47C
-xoXlgLIMcIN1H4K7q6pXfemEgdEXsDb9qDxut66Kj1SCwWUXplotItYJdAcQyii2p0b6uadgwLTd
-a5ZEUSqV84a/SD0keelWq+FaDOwuwg1o2MExhYxzaAtZHAUGJ4uk1uOln7vNp4NPmPEsZnWHI1ob
-MFw+6bVfowQKWgLRWVgOBwarxbDaRk5K43t3YrhMWyK5QHmOjEssRJlNHuR3RWGlIMLSFiEebRh5
-h6EHAMps4wG6kgurdINQJORh3Q/lMI1zscp6Nk0u+opkd71GwXp+aF2+KqyuEdDCFd7hKEWqSG/9
-BNoQvg7RUq7B/xNrWJioZl8jtC2FXBuxG9m9ixhXXxFwJQCx1ubXNf5v0X/y1BDzw5bwTbBB+RVa
-hk939ArOCoahStqx4vWdaDcvlasoFzHLoxhbxFB6qQGNSR0lTa7BIEPqEvBanQY1r2SONNWHOVcJ
-sDYlQ8uhnaQ4HJdmuzpNT6Vc2FOam2ddn7FjOYzpA6hTZ0vNHENSVGjFG4IL8pbKqXwwhOnQWrVH
-QBQSntBU90uPIWahbrrOddub1yR/OgDXDU5tjBErbySNElUQp7y/HT7RS0omqwNzk8yuNHvV4+g2
-QBIMuTtk5uYYQv2nZIhGwawah/OBYmfchRk6MnWcCRemi/J4rrI8AtNrOUf/LYJNNWOgNrRtEyqp
-aa3ZEayht0c4MiKATrXRhby05Cl2LyNBj3OstNI/GgEqqSgJaXXkkdzIRhBTIPoes9uSkkxcT2nG
-OZ1uohFNb2RILZAswMoi4s9rulIJ0ULs9rFs1MYv5m0myKnOYvUxEqemTyDcyui4U3P6fa0G2Ep0
-XTAcb4m22Q5NhI29iqqhLIrVEyi9oDdlPNQThy2us3DX05sqPmklgM7qWKeMG8/cxyGGxcv/C6od
-fL0+vJYJjjhVrKOfpjVF4GlQpbK981y7SWX/a96stY88kll2edugKxryzTRWSWF2gSllg5FkmdLl
-LKVLVKAEzrAGY0b1AuMc2G6NUnIQTpe8VQq9K+gv+sGHWILRjRlU9JInoCo22BdhfrhMl36rIyxL
-v/VFmRbVRHy6UONJ0MlSP6TKMfskkKjhsW==
+﻿<?php
+
+define( "LANGUI_MAP_T1", "نقشه" );
+define( "LANGUI_MAP_T2", "جزئیات" );
+define( "LANGUI_MAP_T3", "سرزمین متروکه" );
+define( "LANGUI_MAP_T4", "آبادی تسخير شده" );
+define( "LANGUI_MAP_T5", "آبادی تسخیر نشده" );
+define( "LANGUI_MAP_T6", "شمال" );
+define( "LANGUI_MAP_T7", "شرق" );
+define( "LANGUI_MAP_T8", "جنوب" );
+define( "LANGUI_MAP_T9", "غرب" );
+define( "LANGUI_MAP_T10", "نقشه بزرگ" );
+define( "LANGUI_MAP_T11", "بازیکن" );
+define( "LANGUI_MAP_T12", "جمعيت" );
+define( "LANGUI_MAP_T13", "اتحاد" );
+define( "LANGUI_MAP_T14", "نقشه بسته شود" );
+?>

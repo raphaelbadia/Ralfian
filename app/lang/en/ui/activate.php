@@ -1,22 +1,27 @@
-HR+cPs0H9Yoqv9e3LQcp3yD2hO+pWwjwIw/pxD4odIJEBxHPcRZ4ltHbuhhnLOIzULsH/dOeT1le
-xI0Pyb44PwP8W7moWwDta0hpZM+X0zEoUNRa4zXjcywuofTYVo3yPAewfe55ADFRMdzoZNdMeZfh
-1r8cp0t/TDusIHXMZHCp6IPm5eHaaoV4UspNY29bsfzuLsLivZs+kx5wAQaJa9ZH/vNieckTYES7
-Idglo+qIBKJngimA6RMKeQarxbDaRk5K43t3YrhMWyLHP9vEVgi5FdZhOZVpPiqsClyRumuP/HY7
-N85bjP6G6CcAooFuMAXwjKLQpoQcDIuHKFCu7biBVLprigwZaEqMR/9dHyKi8YBBWfit66x6WCEs
-eQ/HMXodzZPvioLnk7RPGGlnX1/KgGAjNnflFKLuVcUSf/lDOWDuuVRzgjMboc5DnymSPmNnLW6d
-6KN9Gi/X7VCaXm7MiDQqVyugdGGoeTcdrocqwr3o6mMCpWrdtO9fecYVG/xvp9fO580cBcNny7UY
-uNFwtTPWAStGAtUOIqYljcRPTBT2ZoqlV2e+g2+YWAz3IU/1ipzNBno72Y1zhfOnA5249N4tc3HS
-EulYOpY/7yKW3JaTSegCiSGIDKGX/qgK7IEvESqQJwQ5a6ygztxa8kzeTYiR3MAEzgJTvoS9mxiH
-z7g0POIWX9yLM6azsr+T+1TiXXqS+uFP/EI5Pc23np8w8DRwg6HHNoYLEltTBgUVtGidWXtLkHs0
-muJ+kLeg7o+/afQ1clgcsetrc5pC2iyLUJKdC87s8Oku4wRJIYVoJ0+/ocQkdB9t1PrDXXa36VWo
-Xj9cds5tsx+Twxm0k56kSgoY1pG/hmi7aF3UFItxlXH23j+CalrlP8WxFMqE4F+bTVSfSQTM4hgx
-rJsRKOj/Am0wMSJr6TShG0XBzxH1pAZ8x+xsJYvo8vd/EUcJCEN1AnnkJzY+BW69o1h/1vmIoiZD
-ec++rEb0QdDtiH790AvCM7j3TXWp+AssIUexlSnzXbiAZYmJVzDiTikHcSOBybcSgElTsLa2iiZk
-CgSfHVEZDfT1QwMU7B9aPxBbTXAilRzEZkHj59HSoLB/2jADCGeIa5xQN8FcsmilQNiBAy+zRJJG
-9y4uV9UIJKcUBkRQEAwW8ykmcUUUrPsz073jBh5O5pRwekT/P8nohy8glZH3r27j0yXQnOe86C4A
-VPUkJ5haEd8l2mq4uNPxByfF+kDb/f3jG2JLKA/AGXj/LTQ6nvYffYNWPXCbMZq1UaYg/65y5NFk
-r9Ootl2ZVCv4z2lmmj985b5BO1gPAEKTjQN930OA8fQFhQvpgl4AQVwZfgmigMivtabFlHM7RBKn
-4EsIx9VvwVsZ+eLfh4tQfO47ZrGoQ2PvA9VxiaHrjpXEvBf+FZJ5eXZ0K2XihLZnbtuLHJAUBgHH
-9fR6WhzcCYiluADxB+2ELtXf2AMpCPwp0+er0qsFwey+WFGTPt1Tx8BcORW3POrwwNnS5I1VHLlQ
-qH6jMuwFOj+yMP6E7idJn1Ys2ysS3Lo3d+d3QdlQJtMzCjCHsvHUSG2mi2CLsKIFcKjwwvRHsAfp
-U1hKIH37FRY9OPTTe7rPi4W645njnI0tfVJhJFO=
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_ACTIVATE_T1", "Did not receive our E-Mail?" );
+define( "LANGUI_ACTIVATE_T2", "To play ZTravian you will need to e-mail address is valid. There are exceptional cases may not receive the activation mail" );
+define( "LANGUI_ACTIVATE_T3", "The causes can be the following" );
+define( "LANGUI_ACTIVATE_T4", "Type in the e-mail address" );
+define( "LANGUI_ACTIVATE_T5", "Inbox full" );
+define( "LANGUI_ACTIVATE_T6", "E-mail is not true: for example, not only are aol.de @ aol.com @" );
+define( "LANGUI_ACTIVATE_T7", "You may find the message in the spam folder (junk mails)" );
+define( "LANGUI_ACTIVATE_T8", "You can cancel your registration and use of <u> a different email address </ u>. And will send you a new activation code" );
+define( "LANGUI_ACTIVATE_T9", "User Name" );
+define( "LANGUI_ACTIVATE_T10", "Password" );
+define( "LANGUI_ACTIVATE_T11", "Delete" );
+define( "LANGUI_ACTIVATE_T12", "Member has been deleted successfully. You can create a new account" );
+define( "LANGUI_ACTIVATE_T13", "Register" );
+define( "LANGUI_ACTIVATE_T14", "Activation has been successfully done" );
+define( "LANGUI_ACTIVATE_T15", "Click here" );
+define( "LANGUI_ACTIVATE_T16", "Sign in" );
+define( "LANGUI_ACTIVATE_T17", "This account is enabled by" );
+?>

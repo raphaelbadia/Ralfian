@@ -1,18 +1,31 @@
-HR+cPrtwc6weN651eK8DJJ7YelOVMguFrcLrbxQi/KEvyHIl7f5Dp1RE4bYcI8oBJwlRbaACuy8C
-6hrvJUUNaw9+Awldf48RWt1uQHnHRFs/pr7v5Dv2RbxxWXW7lDKIE1WAE04XtFkExsgqmpP0sF5Y
-kbLvhs/itGmEDFG+hkmnenctV2sfmdHzo6LUeCrkhOtk+KIELzQiKc6R8S3GorAI3i+Uon+6Legb
-BMNdueQzUtDOkKTXW9blgJNkKsHkuLGGFSEBMjQ3nUnaUAm8zPnU2PeY/VDcpJPj/xpqhwDw8eFU
-JOXsLp3fQNE0XQHrOoSxPBSnVSGbQ0SPrjLMx8glj8vlbRffjjHN78dJKf1ykGvN3OKo15M+NKqz
-Un3zIFzYjRdowOVtBLXuv3ZxIM6mwX8qTkjB74ejtqgSu4xvbXxWqhsXZuQY3PwhtOcT0BVqKWuj
-lcDtPSee8oG/epYq0gTVzKbZbXvvdWv6Y6DVFg+7jHEK/5CT2kkGnvSKSlTyRvDbPJCpDymIPs60
-6QTPjFQrdBHTZSfyuUTc1WZ7V++sFP4AsRWOg6mjtE0zh13u0uIJSfkB9GzsgOeGh0Q40BTL6i2C
-DCKA70rN74hedBoeCqhFo53am7F/VtxXCFD6WPiedcuAktjfApKL+aO5B8mBwu7ncLyPibFaBvq/
-JtGnAeshMqzKozdL9x2GuzPRxJe4J6BM4r9SmSJv4JLZ3FgmuYM5SeCXtbaOOBiwhSFlGUCrAQHm
-Fhpm2G/Edt2Wb1ub5PapOkUbJgvahGdjwZ9Mb35qAai4Ewk6fRtvSm+sy+WTmyosQONTyifNJlUR
-ZXpOP2/6P1U+I6ZpZanJGkzvZyoXrSxNtbns2R2hPzySnPpcr9NmDg9Lm8zBdwN8HvhU6TTLNFlw
-zau5M62f/gD7YzfmZlH0SLTXddkqeUP4deZD8UcuJ4bLVXV0c7zrZBXsM8vxAjyKRZXQQjPRpf0s
-2wz+yzmdnGFrO7TsIeJmqhBUEclDu/cGYtHWbnhBKIVek0SFxBq67O8C9Y4Sxx/ohewz9Pc5M4fx
-VKgNM9CN7kWAougkhwZIq7wNhRR9EGGjEfrpiJzGpTEO0hpGJBrZuMiWhJ4VTOucaGG+kva7iHtB
-XY6JUbkFLBmmSIknIF1HX+XkXTUJs+bxN4ifS6476suACg1TXDljXc3uQ8JCzMD77mVSUBK02eLu
-PIvag07GXuwreMbb+PHcUaQQ7JjiyMjttbyTYxdXvzq1b2s5i0iiCgc+96V6zm33S/F6M0f5fmuD
-PCM5V7PGrRWAMRwbtoLG3T1AL/5nuEYyKweP5x0B6DOoKEOKhGGdxJd9FgcIY2O1oAthiHgBqS4=
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_ADV_T1", "Advertising Management" );
+define( "LANGUI_ADV_T2", "Edit an ad" );
+define( "LANGUI_ADV_T3", "Add advertising" );
+define( "LANGUI_ADV_T4", "Add new" );
+define( "LANGUI_ADV_T5", "Name" );
+define( "LANGUI_ADV_T6", "Image" );
+define( "LANGUI_ADV_T7", "Add link to an image or flash file" );
+define( "LANGUI_ADV_T8", "Ad link" );
+define( "LANGUI_ADV_T9", "Section" );
+define( "LANGUI_ADV_T10", "Home" );
+define( "LANGUI_ADV_T11", "Game" );
+define( "LANGUI_ADV_T12", "Advertising" );
+define( "LANGUI_ADV_T13", "Number" );
+define( "LANGUI_ADV_T14", "Hits" );
+define( "LANGUI_ADV_T15", "Show" );
+define( "LANGUI_ADV_T16", "Control" );
+define( "LANGUI_ADV_T17", "Show advertising " );
+define( "LANGUI_ADV_T18", "Delete advertising" );
+define( "LANGUI_ADV_T19", "Edit advertising " );
+define( "LANGUI_ADV_T20", "Ok" );
+define( "LANGUI_ADV_T21", "Guidance" );
+?>

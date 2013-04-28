@@ -1,76 +1,109 @@
-HR+cPrHLWEh82ddDWPWLoMD0B01L59M0W4hhLhkiHZDzABl6oKOJ+4Y0GdqXOxEGRqMDRFKTiTQG
-xeK+O6Li0FiW71lshRwdcWr5+9Yfwfd8AR8kyI0jLXmfR5rjh7leQGSPhPZj5X+THCTM+vtAk+6k
-hKnFXM0LtynY3ATHXuUlM1wxWOuA6sY6ZD8GqZKIk87QLjaAGunFMLIKPeiGSp+gYKcqHUDSw8aN
-ncKaK1BlHAZ+L0fJmuTqgJNkKsHkuLGGFSEBMjQ3nV9TMLWwgCw+vbBiS/CkP4ih//sWJFmXt0S0
-QCuF43zA15YorWYakcPPssIAndZqTYPlZZNPgRBbQpJS702w8ZCY784aC2gKnQh/GgJh+2nhRxi5
-vRblbnZ39zBszfFtXJzaSdlotGcGCk1CSVkfWAc+ZqZQXNf8szLJOWovEpP0H+pm7ZJ43OWLkGEM
-VvpItmMk3JLyauqF1eyfjcB53YJNAVCIhIs24bX2IyudhtJOSEBwGbpAeAonXNfcpr0622dJiuDm
-iBuhzmAmwzBZR0nflGCKv3lOeZcR5/PsV8d9ZOwD3xVJp4WG/R+EypvusRw9cQdFxP3Y7C/UCtZJ
-Jqc8+KWHPSVOqE7RhQPkc/sji5ybYHtzROT158yQWXodS5yGVYeaufSgvRi/+/YevvO2muhnr5bQ
-Kv+DOxdcKCgFRZBPiqsdPJcUwFSFFhUGQZg9JZPoRIvKuhKtItjIbloQsKzp1tAVuktVKgTsL5tJ
-+ovn2s4DNsOHA1pSqQoyihKzBqsK5J7IFIjZ8Y+FlJzUZ94D+sO8fx6bSjr275DluRjDqLBEboh9
-SB6F0KURg4uFSN/hAvtJHa9vjvsK9ImJ8wPhOOdjJvKiZ3DalueLrVN3wHBlWUMycZ82aZ3yyiWP
-UCZruKP1o8F4qsxeizWBHrsPfOCt8H/V1r8fLJAJaLazO9yOd+vp9vmngZlBTbjpehC3MlxOG+z2
-+ivXceIYg+NOw/OSmybuGGtxRwE6a4Lt9HGGbjVDujaUJ+e+Czkn0wgogpV4r0hRik5UDPf68btc
-CthO2tCjq3jzDwVV4OQ6otI4dKi/S01jl0bXl9F62cszUx9XJ/631oCmYKcIEVxYHvgLByCO7UQP
-M3qzsJ/jd0K+z4C2jA182iOJRzphkoznu/KlwugSINgiKLqi7o/uhAYxTqxfHf7a26mXBcVKkhAX
-E/gCrQx1kvMhhOlR+qa1lwStO6IpCGwL91q6KnwWSZgBeuS8/O9haXD8WsFHXlxoJWIBt575wE5M
-7xRe8uaj1KRUO8ECOGyAWITkUp2DBXIm7BDNV8eO/x3tCfzXFl+Q0yBMOWwkJ60NX7secxSrt0DO
-1XPA+wUnnunhD8Cz0xCGAws44GcmZPFRLnJxdx9rtYYIx9cM2r9RLWQUjwk6Fnrgn3JCJj2U12Mz
-WMyFyyrdNYr+N3qWoB6TUs5p5/tj3vnNZnnbrz/22u/mCBzqyawImINTfQ5xrZDFsfzDMk5S9q8x
-KDswBDZg51lXk9FvGVLrQjtNSqaa1u0Ii38xONWF3eL72CFfwHQoDREXasb63qPrJ6weNRHh5WbV
-jV3FTCie6A0t7TbL2EpGUcZnsU+AJ8VcqlSL1SNx+8Xk4yxBJo7F3Y39JB2jLFiI7ZffXOnC+/od
-mJ0tKDXqts1lnHkzLcqwN/SmDv0Ok0hM+Vt5Sg8bax+tDO+/jHyW3Qo8SE3O5URzw2db0tP/zEpl
-BP1mCGnx3bhjMdB3V8mEjE+H76gwwGJryvycGCpYWE086Cla89BAUW3qydVj3vUQPw+1GVN9dUU2
-k4QcgRRoDv4O080HtgkdWI2X6hK/AcTpg72eZvBjq22YCpcgw9etUIusUBGaMdse5I/GgDg0BU63
-DqOSKc0aMBxRTq3wdcaFGy5zywUW/HYk0nzttWnQwPQz7ICgNo859KPU330vBMuhQjU7DqnSClKS
-sglQFlwT4DITlH18WSPcw1wmB6CIoW1TbO+Pq+kJpjlUrShQ1RWr2eVP16ZuhibwuYs5na7Fm333
-ilCKV4Qs8kPqC2VchSNWhfdyXDUuqzq6vAXEYKHg+4xSerdvfSqJDIAVGG2uiNAcQC00gXhqON42
-BL22yDTdUuBm1FvqXMx9Bv2Ic1Ryu/1Ys17az3cDcmE08mutrnnBrauH0H+iOHHYf95NrwSzrKhc
-sJiaxtArn48wVkHOCHTunraHfcGKCg4MnDwRcUdWWRAh+un1fTxC2S4TTuxbtlgbzQGMXN9172ck
-U08DKQ52+aJWhFSJwHg//D6vM4m6kMdOiwg1zquf+uqY5HLDckulEU9X135SBgOjbAkueE2K9ofT
-rU3Qhipi/HIl5PxyOAzj//wVKi94dM1cXexKb9nYOMNYfjjDLHYQgqrn/wREPoBQzgh14aklPY4L
-+k1L9CPCrhXTQTPDVVuSB91E4Bm/buezMmmKKuE/WoM7o/kHvHuAyZEoFaMpd9HH+8v8Q3zY/Vzo
-AJtX1srb5Ndv4WnpdzL/3NQUUJc+0ZCaxSz6yNO622ycp4XB+o177U4WxRhYYLDh/LoN8XxEGWjn
-+c7peYoyeO8jZZOh3HXw2z0fyITx4ZI+5rf2/qEeHPccYUM5KjmaETCVZGHyp5DzK/nwgoL5/3zI
-eOTMmIzY9VmC0uXrBe/GFOKf90ia0d43UoHBN1a7vFXEZpfisynpjoJvDaJ/iqNuNZJsoLgdchVX
-q2aPpcxdvdmL/UgMQwBlpN13U4uMWxZDQ/k0RlEpOJTtiSeYKVkZp3Nbnalk7m3lX6T+hCAPG5JL
-M+9WcjmngdKGNc5T04Z89t9l5vRCsf0c3bE/dMY2OR75HYaBaTGLFPON3SFyES6nIJ1ouQak4l6k
-SbnkbVGFuFd4DNQ3DgQkOyyEieOXB6D0edRVWdW067PnD3J721ECaNZxN0MvfGoDI8mg+xMohKac
-xsr7oJcWkGZwpZ92cbmK8jHfEWVe7MWS3kFICJfNxgo/liAAdISkQp8fwGxHt/IYUwaSTGidcxlb
-OUbZGrj1hql4aGHvhXoDIuiWuJ0Em1z3Fhun5Vy+OzUUvET0jIRYN52ogrwdPlPCJfhY8Miz9tRE
-c0fwdI1ddmVKrPIyuQPBo0KF7XQ9D9k9iSaaWsDCVUZqhZ+8R0EHvdT8qWHarZkSNIIdtq9o2ioO
-+Of/O7qpYutErOicKIM+5PHBnseJj2p0hExLGO+bofx2tWOWVzKV782cYm8ZLzz0mx8zfINPQS5c
-3q7SA+W9s1EP2ucUoj4lHc/f3wJMoHlVnLeXXzS0YX62neeSVRTjCcFLHrBpaAjdqdDqimZyJMKj
-wnAV8axSBC+LqBrjQJTshVuPjuFtTHjdFIo4y3l6X9tAamYG1GcD/iuEUgD1fRa0eOaw//cUtQXs
-IF+hNpXYv2HOk1qb7QgG/mR1wS8hAX1jCfDvSMoqw8flkE8JhBm1duRbkA711mZzQQ2OZGdMBfsL
-qQyjkWmOwBLuO0WKT/Gs4g73cPG/o1YF9yESY25rGNZ1LxV5kl71s+oMfQmHkELrpNxO1y5EGtpi
-0Y1m/I7kRWXCnRMHgLaQo1O8+XgM5GNngJIHXKDQlJCPcwRZGt/CJuy5KkhJhMjQKRRWazoBchBw
-BcQTqjb03u2i8esEEu2IPGT9el8UXVFykOGVKHAw5gwp5Ryb5EIldvMqN+vmqmJBtB49cQxasdk9
-BhtBNVJNYWPkGPLxXtvk8ogW1aqT3nucp9QGW2DsQKU6Xay7CwOuYPQHvYBs2qnNulwpNgpPptEj
-O/o0MmEU4teVJeNYqpZU8DA+PMDzcMUJdvO1OgEDvN13Q5c6pTdatPhA9LCNzUVOSMCSMNd3wC03
-7nJafRZD+gnS1gAd92xBwNLcJMalv7OaPa95QVsAjSSn1hz9jFPC/T/tfozcPaUIy1/voFAoVq3m
-S0upB//wZZ06aBvwnuNSQsIMLgg5XjOqy7xEkx0MYCs/oFl5VmhTsRLgsIz9HB+YdHfinvAZRjrh
-37+f8rictz5B94FSF/HJHj00g52fy/O3ZTOQe8rseIJQ8rs6eTCrAiejJEcv0cXJMo1Qo+/4AYzZ
-w5SjJV+71Xj86hrHqdU9DqdkQXCM6qARdXdilnc5HUqaUBT44mf1k76iYoQZvPHdyeHpWjBnPY/E
-m6yluFVUEeJVfV5XSkdtGMn6EVq9DJffBV0CQCulw1FZfzh8dtF2WaNHueK/suY3VH88Y/E9sDJL
-4G7dXhlnCthT6DvN3uWZh26fQatH39jwXjFDGAHSewX97k0aHKfGQsAZ9bn/mAx3nQVqm355KV3p
-kMt23792Zhmay1Zc9G2RrMRM5TrUQSiztadtV7i60hwVJba0Vg4pV08HPAuKfp2kgevWhg5/oaMn
-DVtBT9UOJa11G6Fn6YYxXCeCyHR5hptN3SIGobTGxNiz/xBfRAnOnKKTMXM5mp52lVCcV6N4qxXH
-sZttFhxHwzlzBhjo2PHS1UVrHy9u3V32HZlRUG5z3C4vdCLNPuufafUl5RpeGOp02JDjTVI3E/jv
-Uq8VLQv+Jrwpzy27Xndq4ei18X45tSc1Kv+tbGwTb68QVTJ5Y1V+CwXSnM/MpJlL3avfK1rYUbdA
-KFhRlddKW6+rOK6yaPRqRkeSvO95bTJ+IFFmD4/w0YMqi8LEO0/CrQ8spYI9Zyt0x1VcLpGew4vO
-IrMKFWVI+tLtFJchXEBXXIO9j7VnxPAiPZBN2krVWeks6tfFxnBxNPqLgHS3LUirr/K9CW+JhMS7
-NTc8hpR/vi4nbbqZdCkgglQUuvroqfU9DepQm8CQm7U7kmignhg/39ln42vKBMHq3XnbM/uMyB8F
-PyOVAMfjFqfKT4GQ83RPyrAez9V1iZad4uXECoO6zmTeh9YVyoTgEcnk2jbu1TKtOMSM/WDXmtTo
-152ViKO8o2Ub3DX2pdWiN/q0y2Z9bNsygYOWg37Ooad75CSgxKLsoUVLAl7s4HwblxO+R1k2dVdY
-wMKPgZ+M8v2/sOlJ171NxzQUoS2BOH6ydXEGOzP1sAFR24WgBO2zliKmqljuxd4zRM0zq0lRT3s1
-8hMaJQRnH6aFt3ZWZFJg1vFemdZ2QB/hLiv3a6GqkiYAOUMxBlN+b354ongSIPqDiwAkgRWR3+Ut
-OQ8IqLWCUyS9YdanpUZR6cHRNuPeGIguBh4YOLVT97zOg3LqRgTsmpyRnZHxtyb5Txei6FQ9Hn3b
-H6Y9VETklOFO0EkCyh82eYgdWcLAY9rOoqCGn7VWlRW0Xma4IpECkUqK0teVYbP/OV7Wymvs8bgR
-S9HG3P035+yzBHUxWtqNyVWecffcbEVRidZBt7987JAC/UA3tw2nk/QwwhZAFRPwK01WAv7gynDS
-/d1eiAaiNXXDgQZDiDnyi8b8gzyHAFGmfO99QmvZt5eBbJNAWLCi6OG/NOk4ILXDjnHGW7epkiP7
-x6ycLyBibKfTGLTwK3+5xxGq/AeMQ9zu/DC11pc+9730w777Y30Ns6MyTV4xFmC98sdbi6AEDxYH
-V9qWOuwFv/2R7D2eNkopJoOHdJSMZjMb3EdIPoH5UNsxrOd95obYh2ZEqRkSYouo5MfZuBL/DI5Z
-+guRvWtbiadLaGmp10B4bSD5fiA6T3IXn1rDlhzM+IHGkjqH2AJcOaVRhWPU5JsWWwzAdo1hKD10
-EVAXuVscT1HO1hd6dj6v++d3XlHscn6xstHQutQOQgoH2bUYtv6FIWTupEzRSL+Zm0Eqq/H1EW==
+<?php
+
+define( "LANGUI_GAME_ICO1", "دید کلی دهکده" );
+define( "LANGUI_GAME_ICO2", "مرکز دهکده" );
+define( "LANGUI_GAME_ICO3", "نقشه" );
+define( "LANGUI_GAME_ICO4", "آمار " );
+define( "LANGUI_GAME_ICO5", "گزارش ها" );
+define( "LANGUI_GAME_ICO6", "پیام ها" );
+define( "LANGUI_GAME_ICO7", "خرید طلا" );
+define( "LANGUI_GAME_GOLD", "طلا" );
+define( "LANGUI_GAME_Pa", "پارسی" );
+define( "LANGUI_GAME_EN", "English" );
+define( "LANGUI_GAME_GNAME", "تراوین" );
+define( "LANGUI_GAME_MORNING", "روز" );
+define( "LANGUI_GAME_AFTERNOON", "شب" );
+define( "LANGUI_GAME_MENU1", "صفحه اصلی" );
+define( "LANGUI_GAME_Login", "ورود " );
+define( "LANGUI_GAME_MENU2", "دستورالعمل" );
+define( "LANGUI_GAME_MENU3", "پروفایل" );
+define( "LANGUI_GAME_MENU4", "خروج " );
+define( "LANGUI_GAME_MENU5", "دفترچه یادداشت" );
+define( "LANGUI_GAME_MENU6", "لینک ها" );
+define( "LANGUI_GAME_MENU7", "اخبار" );
+define( "LANGUI_GAME_MENU8", "ارسال خبر به اعضا" );
+define( "LANGUI_GAME_MENU9", "<FONT color=#000000>مدیریت</FONT> <FONT color=#00cc66><FONT 
+color=#00cc66>پ</FONT></FONT><FONT color=#ff9933>ل<FONT color=#00cc66>ا</FONT> 
+</FONT><FONT color=#ff6633>س </FONT>" );
+define( "LANGUI_GAME_MENU10", "فیلتر لغات" );
+define( "LANGUI_GAME_MENU11", "آگهی ها" );
+define( "LANGUI_GAME_MENU12", "گفتگو" );
+define( "LANGUI_GAME_MENU13", "ایجاد اکانت بی نهایت" );
+define( "LANGUI_GAME_MENU14", "اهدای طلا" );
+define( "LANGUI_GAME_PLAYERDEL", "حذف بازیکن در" );
+define( "LANGUI_GAME_LMENU1", "وظیفه ها" );
+define( "LANGUI_GAME_LMENU2", "دهکده" );
+define( "LANGUI_GAME_LMENU3", "لینک" );
+define( "LANGUI_GAME_LMENU4", "پنجره جدید" );
+define( "LANGUI_GAME_CROPCONSUM", "مصرف گندم" );
+define( "LANGUI_GAME_CALCMS", "<P>محاسبه شده در" );
+define( "LANGUI_GAME_SRVTIME", "زمان سرور" );
+define( "LANGUI_GAME_T1", "انجمن" );
+define( "LANGUI_GAME_T2", "سایت" );
+define( "LANGUI_GAME_T3", "شبکه اجتماعی" );
+define( "LANGUI_GAME_T4", "دوستان" );
+define( "LANGUI_GAME_T5", "رفع باگ ساختمان" );
+define( "LANGUI_GAME_T6", "انتقال طلا" );
+define( "LANGUI_GAME_T7", "وارد کردن ناتار" );
+define( "LANGUI_GAME_T8", "وارد کردن فارم" );
+define( "LANGUI_GAME_T9", "مدیریت");
+define( "LANGUI_GAME_T10", "ساخت اکانت 2");
+define( "LANGUI_GAME_T11", "تقسیم مدالها");
+define( "LANGUI_GAME_T12", "بستن ثبت نام");
+define( "LANGUI_GAME_T13", "آنلاین");
+define( "LANGUI_GAME_T14", "ارسال پیام کلی");
+define( "LANGUI_GAME_T15", "<font  color=red><b>ریستارت بازی</b></font>");
+define( "LANGUI_GAME_T16", "ریستارت آبادی");
+define( "LANGUI_GAME_T17", "رفع باگ  00:00");
+define( "LANGUI_GAME_T18", "خرید ساختمان");
+define( "LANGUI_GAME_T19", "روز صلح");
+define( "LANGUI_GAME_T20", "خرید مرخصی");
+define( "LANGUI_GAME_T21", "تنظیمات طلا مرخصی");
+define( "LANGUI_GAME_K", "آزادسازی کتیبه");
+define( "Buy_Troops", "خرید سرباز");
+define( "Report", "گزارش سرور");
+define( "Email", "ارسال ایمیل");
+define( "Invit", "دعوت بازیکن");
+define( "HERO", "ارتقا قهرمان");
+define( "Rename", "تغییر اسم");
+define( "Change_Color", "تغییر رنگ");
+define( "LANGUI_GAME_V8", "رفع باگ منابع منفی");
+define( "LANGUI_GAME_V7", "رفع باگ قهرمان انجام نشد");
+define( "LANGUI_GAME_V6", "رفع باگ قهرمان انجام شد");
+define( "LANGUI_GAME_V5", "رفع باگ قهرمان");
+define( "LANGUI_GAME_V4", "رفع باگ گندم منفی");
+define( "LANGUI_GAME_V3", "رفع باگ نام دهکده ها");
+define( "Manage_Troops", "تنظیمات خرید سرباز");
+define( "Manage_Hero", "تنظیمات قهرمان");
+define( "LANGUI_GAME_POWERE", "اکانت شما کتیبه بزرگ حمله دارد");
+define( "LANGUI_GAME_DEFENE", "اکانت شما کتیبه بزرگ دفاع دارد");
+define( "LANGUI_GAME_POWER", "در این دهکده شما کتیبه قدرت دارید");
+define( "LANGUI_GAME_DEFEN", "در این دهکده شما کتیبه دفاع دارید");
+define( "LANGUI_GAME_WW", "&#1583;&#1585; &#1575;&#1740;&#1606; &#1583;&#1607;&#1705;&#1583;&#1607; &#1602;&#1575;&#1583;&#1585; &#1576;&#1607; &#1587;&#1575;&#1582;&#1578; &#1588;&#1711;&#1601;&#1578;&#1740; &#1580;&#1607;&#1575;&#1606; &#1607;&#1587;&#1578;&#1740;&#1583;");
+define( "LANGUI_GAME_ALL", "دید کلی ");
+define( "LANGUI_GAME_FARM", "فارم لیست");
+define( "LANGUI_GAME_CROP", "گندم یاب ");
+define( "LANGUI_GAME_BUY", "خرید نیرو و امکانات");
+define( "HERO_H", "ظاهر قهرمان");
+define( "LANGUI_GAME_DEBUG", "رفع باگ ها");
+define( "COPOUN", "ساخت کوپن");
+define( "NODEFEN", "گریز از حمله");
+define( "MNODEFEN", "تنظیمات گریز ");
+define( "ADMIN_SET", "تنظیمات ادمین");
+define( "LANGUI_GAME_club", "کلوپ طلایی");
+define( "LANGUI_GAME_farm", "فارم لیست");
+define( "LANGUI_GAME_vill4", "دید کلی");
+define( "LANGUI_GAME_vill5", "گندم یاب");
+define( "LANGUI_GAME_S01", "وضعیت یاب");
+define( "LANGUI_GAME_S02", "وظیفه ها بعد از شروع بازی فعال می شوند");
+define( "LANGUI_GAME_Hero1", "قهرمان مرد");
+define( "LANGUI_GAME_Hero2", "قهرمان زن");
+define( "LANGUI_GAME_Adventures", "ماجرایاب");
+define( "LANGUI_GAME_text1", "منابع شما رفع عیب شد");
+define( "LANGUI_GAME_text2", "گندم های شما برای این دهکده محاسبه و اعمال گردید؛ اگر دهکده دیگر دچار مشکل است آنرا انتخاب نموده و برنامه را برای آن دهکده نیز اجرا نمائید");
+define( "LANGUI_GAME_text3", "نحوه محاسبه گندم مصرفی = (تعداد گندمی مصرفی هر نیرو * تعداد نیرو  )+ جمعیت دهکده ");
+define( "LANGUI_GAME_text4", "اگر احساس می کنید مقدار گندم مصرفی این دهکده از فرمول بالا بیشتر است دکمه تائید زیر را بزنید ، در غیر اینصورت احتمال دارد گندم شما منفی شود ");
+define( "LANGUI_GAME_text5", "مختصات دهکده شما باز سازی گردید");
+
+
+?>

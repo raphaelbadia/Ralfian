@@ -1,41 +1,65 @@
-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
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_ALLIANCE_T1", "No invitations" );
+define( "LANGUI_ALLIANCE_T2", "You are not currently in any alliance. To join an alliance you need the Embassy at level 1, as well as an invitation from an alliance." );
+define( "LANGUI_ALLIANCE_T3", "Overview" );
+define( "LANGUI_ALLIANCE_T4", "About Us" );
+define( "LANGUI_ALLIANCE_T5", "Attacks" );
+define( "LANGUI_ALLIANCE_T6", "Options" );
+define( "LANGUI_ALLIANCE_T7", "Alliance" );
+define( "LANGUI_ALLIANCE_T8", "Details" );
+define( "LANGUI_ALLIANCE_T9", "Description" );
+define( "LANGUI_ALLIANCE_T10", "Card" );
+define( "LANGUI_ALLIANCE_T11", "Name" );
+define( "LANGUI_ALLIANCE_T12", "Rank" );
+define( "LANGUI_ALLIANCE_T13", "Points" );
+define( "LANGUI_ALLIANCE_T14", "Member" );
+define( "LANGUI_ALLIANCE_T15", "Are you sure you remove the player from the alliance?" );
+define( "LANGUI_ALLIANCE_T16", "Players" );
+define( "LANGUI_ALLIANCE_T17", "Population" );
+define( "LANGUI_ALLIANCE_T18", "Villages" );
+define( "LANGUI_ALLIANCE_T19", "Remove this player from the alliance" );
+define( "LANGUI_ALLIANCE_T20", "The distribution of positions" );
+define( "LANGUI_ALLIANCE_T21", "Medals" );
+define( "LANGUI_ALLIANCE_T22", "Category" );
+define( "LANGUI_ALLIANCE_T23", "Rank" );
+define( "LANGUI_ALLIANCE_T24", "Week" );
+define( "LANGUI_ALLIANCE_T25", "BB-code" );
+define( "LANGUI_ALLIANCE_T26", "Military events" );
+define( "LANGUI_ALLIANCE_T27", "Defender" );
+define( "LANGUI_ALLIANCE_T28", "Attacker" );
+define( "LANGUI_ALLIANCE_T29", "History" );
+define( "LANGUI_ALLIANCE_T30", "No Reports" );
+define( "LANGUI_ALLIANCE_T31", "Invite player to the alliance" );
+define( "LANGUI_ALLIANCE_T32", "Alliance diplomacy" );
+define( "LANGUI_ALLIANCE_T33", "Leave the alliance" );
+define( "LANGUI_ALLIANCE_T34", "For security reasons, please enter your password again to leave the alliance" );
+define( "LANGUI_ALLIANCE_T35", "Password" );
+define( "LANGUI_ALLIANCE_T36", "Password is incorrect" );
+define( "LANGUI_ALLIANCE_T37", "View Non-Aggression Pact" );
+define( "LANGUI_ALLIANCE_T38", "Signal" );
+define( "LANGUI_ALLIANCE_T39", "Diplomatic behavior make it imperative to communicate with each other before sending the coalition not to display aggression." );
+define( "LANGUI_ALLIANCE_T40", "Was presented with a non-aggression pact" );
+define( "LANGUI_ALLIANCE_T41", "Special Offers" );
+define( "LANGUI_ALLIANCE_T42", "Delete" );
+define( "LANGUI_ALLIANCE_T43", "Non-aggression pact with" );
+define( "LANGUI_ALLIANCE_T44", "Uncertain" );
+define( "LANGUI_ALLIANCE_T45", "None" );
+define( "LANGUI_ALLIANCE_T46", "Hint" );
+define( "LANGUI_ALLIANCE_T47", "To view the covenants not to write assaulted" );
+define( "LANGUI_ALLIANCE_T48", "In the description of the alliance" );
+define( "LANGUI_ALLIANCE_T49", "Offers foreign" );
+define( "LANGUI_ALLIANCE_T50", "Accept" );
+define( "LANGUI_ALLIANCE_T51", "Current relations" );
+define( "LANGUI_ALLIANCE_T52", "No player of that name" );
+define( "LANGUI_ALLIANCE_T53", "Invitation sent to" );
+define( "LANGUI_ALLIANCE_T54", "Referrals" );
+define( "LANGUI_ALLIANCE_T55", "Invite to" );
+?>

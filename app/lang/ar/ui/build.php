@@ -1,15 +1,13 @@
-HR+cPwIZ2CzoTl7W7noTxD4cHtntwjRjsN6nv9UiDb2/syY5zk4BwS+6LskPPpqOsiMXa1IcatDB
-cPfUiQeD7f6SnYeMAfLtkubzNkVaRZKIKBa5hoI3GIRXDapLDW+Yu/rNn2K1ExJRvlDvgkDtielk
-DcqEn1a1e5eteM3ZEHLGpj9upk7mQ64cJLRdAR0T585p0i9qnE32Cm+rlvQUrV/X5fNvTG/b39zk
-sMZ3qxY8oyNJcwtdGIrIgJNkKsHkuLGGFSEBMjQ3nHLeWvttfyoAwLqvHCD+Vabv/mHrNTUbH636
-UExjX8QACHudAiY6Rz3e+NdXmKsiJHsUM57goolRA8JnEYEnG/VDCq5YC5pTXzvwTaZNDAFU586t
-BlBEbls8ho7LMCU8/Cqlyh/MwFbK0Zf8N4cUDHwaQeJbAIAdUeOa9RDC3RqAcfNKHR7IzKF8VF0x
-K8sGaj90IQjBMCDjXqhEDc1TaTZK8eYNi33Dwm6krZvoqRoVDtbT/dgnMke+y/G8QV5f2+GrM/kH
-VPOHGAKOzDYyWhlFquYsZ8ITgk15Iug71DyCRtDTzOST5Q/PPZFaesRbJFKqMOP1ep739Xg+lK49
-8uF4xasLXJ0TgVrVXr4Z+wZ6O4yNebe+cfDSWQ0Jg3NY0AQdUwmHNC/O1uIFUJNdRzBn/Oei7j2x
-Q9P1jfSM6qEqPbuOIs+VeD9V/kADC60Krvl2RQ6shB/Y3ayFuvK10pzdfh8EiHx3xD1cXo3YJh6B
-7FnTOv4gIBGtXgrNRCj5jGL8JsmwKERbt53mNNjj3ztb+MH85R80IpVxGJ/TU5sdhJ+PUf5xG9fh
-2oTJ8NXsA3TEdpt1IbeIUl34tCoGMVrUtsWxd9gCdITHf/GluZFUwzEKdEje606V1Xyl6ZXIAKwn
-LslnQ/ST/kjfL1mKjovpR7lLjRAK+5/VdX6AZ98dQL1zmTPqKNjfOaRgCdHTqd3XziL5O5uikm4P
-wUOllSdoZRtDUIETGa5guZ0VGbudpIoZ3/xf/lsUPl1TXOZ5l+nHnZIYYsyqZybt4dI/71Z5tYlU
-xn/O7r7+nZKnGLKHtqAOM6T4GsOAiE5wrq9rSb0nKDDShneqyJO=
+﻿<?php
+define( "LANGUI_BUILD_T1", "ساختمان  کامل نشده است" );
+define( "LANGUI_BUILD_T2", "انجام شد" );
+define( "LANGUI_BUILD_T3", "" );
+define( "LANGUI_BUILD_T4", "کاملا" );
+define( "LANGUI_BUILD_T5", "هزینه" );
+define( "LANGUI_BUILD_T6", "ارتقا به سطح" );
+define( "LANGUI_BUILD_T7", "مصرف گندم" );
+define( "LANGUI_BUILD_T8", "عدم نمایش ساختمانهایی که بزودی قابل احداث خواهند بود" );
+define( "LANGUI_BUILD_T9", "نمایش ساختمانهایی که بزودی قابل احداث خواهند بود" );
+define( "LANGUI_BUILD_T10", "احداث ساختمان جدید" );
+define( "LANGUI_BUILD_T11", "پیش نیاز" );
+?>

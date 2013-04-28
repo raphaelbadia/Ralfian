@@ -1,15 +1,18 @@
-HR+cP+tGXs+E8dn0GsyIJ1jvwEIQpLFWZ/3708gia13MM4vpKXgc9dZRVW712iCKPmVxGEoySPMM
-6fE0+hoHETSLW3H4UEmTMqLaqFsYStLdJLa/TCbor7Olf+/bnYLQBGbydmcXGj4sLxfRf1UpceGf
-mXAhLZRmRruGIASI4ASpTu4PPqzHMyI14zV8YNxNbWJqd4B7Y2pIQnBPa4yWFjwgjyriPyrD8RtB
-n6pPEtqY19b02rpCRF4+gJNkKsHkuLGGFSEBMjQ3nQHUyzNcGm5j9Sc8zFFUwZHP6Q/GUDyJa06v
-GzMmvwFCfpa3QOnusbMIH+6P0ph3bZBE0GPF8tcw8UBGiwsc5fGUk1tLVHnWDSevKHOl9TDH0G+p
-h4IofiBI3zA9MWYgtqXnCMIlHMVrGW6EnHhE2boZWa9FfCS6hD/f2BY1VTnnUh23c3vSp5sdZc/6
-OHxWnA8awMA8jXg6PEcKwEccOoKtev0C/AwEocy7DINM5nieyaYx+V7JrxBxdG/Dfr3sEGkbKVMW
-K15ckoiHtANcn5Z/6gJ/p4LDPqriL7wwQqmQfEzY94fR+Q28f+Q5LrJ8LimVcgzq8NHw/5ZQwAoW
-JHgRgvZONFaPnGfs5UoaxP12+n0kQ9eYwKyxgSy8KSJ8QoesHvxUAVD7iXGKvznwxfbXCxzmgqOf
-gpUiJ7ZSznGCr0xrAM7SkVFbU8K4bCswu9fQL2Dh0HoBBmd2/VLn+NIcKOBCzLT7itvcUqBcITVM
-bw1jTc4/T9g4W5SsC5C5uzTbMcwBMB9yIUr+bdQMSTa8PLIYVsm9FK9IkbSXmgUM2309NinCxQxB
-v+2/YeuBusyIC6MarZVfENmVtXaHcpzjaZibXjmg/WqZpqd3tdnrgRkjjjc6Y1ie7WisDNgF/kJv
-azNW6uw5KUmR8ZTyhuF+xgYnf0jvxw0U6YiIcXX5Gek3jh4T8/buWiiRoca1cPEdZLToLtAZMru5
-YHfDOLzzWtj0Yd8iq8/5rViQfv+b41utVwM3sie6+tmzKJJIIH7IOFs4WA3dS9sf4Qf4IPh2jzSx
-L0xBbHK98/hHk7owqd9t9Od9ImSMKyUjjLVyCt7wv3k7y4dwL92scHAB+mM/33Mo+G==
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_PWD_T1", "New password" );
+define( "LANGUI_PWD_T2", "Forgot password" );
+define( "LANGUI_PWD_T3", "Please enter the e-mail that you used to register the first time.\r\n  <br> You will receive a new password in your e-mail. The password will not work until after the activation." );
+define( "LANGUI_PWD_T4", "Email" );
+define( "LANGUI_PWD_T5", "The e-mail address does not match the e-mail you used during registration." );
+define( "LANGUI_PWD_T6", "A new password has been sent to your email address. To activate the password prior to use click on the link in the e-mail." );
+define( "LANGUI_PWD_T7", "Password was changed successfully." );
+define( "LANGUI_PWD_T8", "Password was not changed." );
+?>

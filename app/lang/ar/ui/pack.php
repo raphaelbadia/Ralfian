@@ -1,31 +1,36 @@
-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
+﻿<?php
+
+
+define( "Tarrif", " تعرفه های خرید ساختمان و مرخصی" );
+define( "Dayv", "&#1605;&#1585;&#1582;&#1589;&#1740; &#1585;&#1608;&#1586;&#1575;&#1606;&#1607;" );
+define( "Hoursv", "&#1605;&#1585;&#1582;&#1589;&#1740; &#1587;&#1575;&#1593;&#1578;&#1740;" );
+define( "Lvelup", "سطح ساختمان" );
+define( "Backtobuildings", "بازگشت جهت خرید ساختمان" );
+define( "Backtorest", "بازگشت به مرخصی" );
+define( "GoldMover", " با اين برنامه شما قادر خواهيد بود که طلاي خود را به اکانتهاي ديگر منتقل نمائيد" );
+define( "Your_Gold", "مقدار طلای شما: " );
+define( "Movepay", "کارمزد انتقال: " );
+define( "percent", " درصد " );
+define( "Accounts", " اسم اکانت مقصد " );
+define( "Goldnu", " تعداد طلا :  " );
+define( "move", "انتقال" );
+define( "Error1", " جمعيت شما کمتر از حد مجاز براي انتقال طلا است" );
+define( "People", "جمعيت اکانت شما : " );
+define( "People2", "نفر" );
+define( "Error2", " نام اكانت مقصد وارد نشده است " );
+define( "Error3", " مقدار طلا وارد نشده است " );
+define( "Error4", "مقدار طلاي شما براي انجام اين عمليات کافي نيست " );
+define( "Error5", " اين نام وجود ندارد " );
+define( "OK", " طلا انتقال يافت " );
+define( "BuildingOK", "  مشکلی در ساختمانهای شما یافت نشد ، اگر مشکل اکانتتان برطرف نشد به ادمین نامه ارسال نمائید. " );
+define( "BuildingOK2", "مشکل اين دهکده با موفقيت حل شد. " );
+define( "CobfigOK", "با تشکر ، مشکل برطرف و تنظیمات بارگذاری گردید " );
+
+define( "Backtohero", "بازگشت به ارتقا قهرمان" );
+define( "Tarrifhero", "تعرفه ارتقا قهرمان" );
+define( "Heros", "ضریب در سطح قهرمان" );
+define( "GoldHeros", "مقدار طلا لازم" );
+
+	
+
+?>

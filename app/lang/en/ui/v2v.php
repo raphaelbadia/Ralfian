@@ -1,28 +1,45 @@
-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
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+define( "Action", "Select Continue to Continue" );
+define( "Cone", "Continue" );
+define( "Matn", "to Continue attack plase Select Continue " );
+define( "LANGUI_V2V_T1", "Send troops" );
+define( "LANGUI_V2V_T2", "Reinf." );
+define( "LANGUI_V2V_T3", "village" );
+define( "LANGUI_V2V_T4", "Attack: normal" );
+define( "LANGUI_V2V_T5", "Attack: raid" );
+define( "LANGUI_V2V_T6", "target" );
+define( "LANGUI_V2V_T7", "player" );
+define( "LANGUI_V2V_T8", "Units" );
+define( "LANGUI_V2V_T9", "Resources" );
+define( "LANGUI_V2V_T10", "Options" );
+define( "LANGUI_V2V_T11", "Scout resources and troops" );
+define( "LANGUI_V2V_T12", "Scout defences and troops" );
+define( "LANGUI_V2V_T13", "Random" );
+define( "LANGUI_V2V_T14", "will be attacking Palmqalie" );
+define( "LANGUI_V2V_T15", "Second target" );
+define( "LANGUI_V2V_T16", "Arrival" );
+define( "LANGUI_V2V_T17", "hours" );
+define( "LANGUI_V2V_T18", "Attack: Adventure" );
+define( "LANGUI_V2V_T19", "The Target Artifact" );
+define( "LANGUI_V2V_T20", "Wonder Artifact" );
+define( "LANGUI_V2V_T21", "little Defense Artifact" );
+define( "LANGUI_V2V_T22", "little Attack Artifact" );
+define( "LANGUI_V2V_T23", "Attack: Stealing Artifact" );
+define( "LANGUI_V2V_T24", "Attack: Stealing Artifact" );
+define( "LANGUI_V2V_T25", "Error" );
+define( "LANGUI_V2V_T26", "Large Attack Artifact" );
+define( "LANGUI_V2V_T27", "Large Defence Artifact" );
+define( "LANGUI_V2V_T28", "little Boots Artifact" );
+define( "LANGUI_V2V_T29", "Large Boots Artifact" );
+
+define( "Peace_day", "<p><br><<font size=4 color=blue>Today is Peace Day , You Can'T Attack to Player</font>" );
+define( "Javadis", "Java Script Is disable,To Attackt Should enable This " );
+
+?>

@@ -1,74 +1,82 @@
-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
+﻿<?php
+define( "LANGUI_PLUS_T111", "انتقال طلا" );
+define( "GOLD", "بدست آوردن طلا" );
+define( "CLUB", "<center><font color=#71D000><b>کلوپ طلایی</b></font></center>  امکانات : <br> لیست فارم با قابلیت جستجوی فارم <br> جستجوی 15 و 9 گندمی و امکانات دیگر..." );
+define( "GOLD_FOR_EVER", "تا پایان سرور " );
+define( "ACTIVED", "<b>فعال شده است </b>" );
+
+define( "LANGUI_PLUS_T1", "منوي" );
+define( "LANGUI_PLUS_T2", "سکۀ طلای تراوین" );
+define( "LANGUI_PLUS_T3", "تعرفه ها" );
+define( "LANGUI_PLUS_T4", "مزایا" );
+define( "LANGUI_PLUS_T5", "سکۀ طلای تراوین" );
+define( "LANGUI_PLUS_T6", "طلا" );
+define( "LANGUI_PLUS_T7", "» خريد" );
+define( "LANGUI_PLUS_T8", "فوايد<b><font color=\"#71D000\">  پ</font><font color=\"#FF6F0F\">ل</font>ا<font color=\"#71D000\">س </font></b>" );
+define( "LANGUI_PLUS_T9", "در انتظار برای ساخت" );
+define( "LANGUI_PLUS_T10", "دوره انتظار به معماران شما این امکان را می دهد که بعد از اتمام کار، ساخت ساختمان جدیدی را شروع کنند. بعد از استراحتی کوتاه (60 ثانیه) ، آنها شروع به ساخت ساختمان جدید خواهند نمود." );
+define( "LANGUI_PLUS_T11", "نقشه بزرگ" );
+define( "LANGUI_PLUS_T12", "شما می توانید برای اینکه دید بهتری داشته باشید، نقشه را بزرگتر کنید و بجای 7 در 7 داراي نقشه بزرگ 13 در 13 خواهيد بود. سایر اتحاد ها که با شما در آتش بس بسر می برند با رنگ دیگری نمایش داده می شوند." );
+define( "LANGUI_PLUS_T13", "لینکهای مستقیم" );
+define( "LANGUI_PLUS_T14", "شما می توانید به هر صفحه ای که می خواهید به آن دسترسي سريع داشته باشيد را مشخص كرده و با یک کلیک به آنجا بروید. صفحاتی چون اتحادتان، سربازخانه، پیشنهادات 1:1 در بازار و ..." );
+define( "LANGUI_PLUS_T15", "یادداشت" );
+define( "LANGUI_PLUS_T16", "کاغذ و خودکار همیشه در دسترس نیست. برای اینکه مطمئن شوید کارهای مهم از یادتان نخواهد رفت، می توانید از یادداشت استفاده نمایید." );
+define( "LANGUI_PLUS_T17", "مزایای سکۀ طلای تراوین" );
+define( "LANGUI_PLUS_T18", "افزایش تولید چوب" );
+define( "LANGUI_PLUS_T19", "شما با داشتن سکۀ طلای تراوین می توانید تولید چوب خود را 25 درصد افزایش دهید.<p>این درصد به مجموع اضافه می شود نه تولید تک تک ساختمانها. " );
+define( "LANGUI_PLUS_T20", "افزایش تولید خشت" );
+define( "LANGUI_PLUS_T21", "شما با داشتن سکۀ طلای تراوین می توانید تولید خشت خود را 25 درصد افزایش دهید.<p>این درصد به مجموع اضافه می شود نه تولید تک تک ساختمانها. " );
+define( "LANGUI_PLUS_T22", "افزایش تولید آهن" );
+define( "LANGUI_PLUS_T23", "شما با داشتن سکۀ طلای تراوین می توانید تولید آهن خود را 25 درصد افزایش دهید.<p>این درصد به مجموع اضافه می شود نه تولید تک تک ساختمانها. " );
+define( "LANGUI_PLUS_T24", "افزایش تولید گندم" );
+define( "LANGUI_PLUS_T25", "شما با داشتن سکۀ طلای تراوین می توانید تولید گندم خود را 25 درصد افزایش دهید.<p>این درصد به مجموع اضافه می شود نه تولید تک تک ساختمانها. " );
+define( "LANGUI_PLUS_T26", "ساخت بناها و تحقیقات را فورا به پایان برسانید" );
+define( "LANGUI_PLUS_T27", "شما می توانید ساخت ساختمانها، ارتقای آنها و تحقیقات دارالفنون و اسلحه سازی و زره سازی را فورا به اتمام برسانید.<p>قصر، اقامتگاه و دهکده ای که شگفتی جهان در آن ساخته می شود از این قانون مستثناست. " );
+define( "LANGUI_PLUS_T28", "تاجر تعدیل منابع" );
+define( "LANGUI_PLUS_T29", "با کمک این تاجر شما می توانید منابع خود را بصورت 1:1 در دهکده ای که حضور دارید تعدیل کنید. (منابع را با یکدیگر معاوضه کنید) " );
+define( "LANGUI_PLUS_T30", "شما در حال حاضر" );
+define( "LANGUI_PLUS_T31", " طلا دارید " );
+define( "LANGUI_PLUS_T32", "شما هیچ سکۀ طلای تراوین ندارید." );
+define( "LANGUI_PLUS_T33", "پلاس" );
+define( "LANGUI_PLUS_T34", "توضيح" );
+define( "LANGUI_PLUS_T35", "عمل" );
+define( "LANGUI_PLUS_T36", "حساب پ</font><font color=\"#FF6F0F\">ل</font>ا<font color=\"#71D000\">س</font></b>" );
+define( "LANGUI_PLUS_T37", "هم اکنون" );
+define( "LANGUI_PLUS_T38", "روز" );
+define( "LANGUI_PLUS_T39", "توليد چوب" );
+define( "LANGUI_PLUS_T40", "توليد خشت" );
+define( "LANGUI_PLUS_T41", "توليد آهن" );
+define( "LANGUI_PLUS_T42", "توليد گندم" );
+define( "LANGUI_PLUS_T43", "کار ساخت ساختمانهای در حال ساخت یا ارتقاء فورا تمام شود (در مورد قصر و اقامتگاه کار نمی کند)" );
+define( "LANGUI_PLUS_T44", "تعدیل منابع بصورت 1:1" );
+define( "LANGUI_PLUS_T45", "اتمام فوری سرباز های در حال آموزش" );
+define( "LANGUI_PLUS_T46", "با این ویژگی شما به راحتی می توانید سرباز هایی که در سرباز خانه ، اصطبل و کارگاه ، سرباز خانه بزرگ و اصطبل بزرگ در حال آموزش دیدن هستند ، بلافاصله در دهکده خود داشته باشید" );
+define( "LANGUI_PLUS_T47", "دعوت بازیکن" );
+define( "LANGUI_PLUS_T48", "انتقال طلا به بانک" );
+define( "LANGUI_PLUS_T49", "دریافت طلا از بانک" );
+define( "LANGUI_PLUS_T50", "مقدار طلا پس انداز" );
+define( "LANGUI_PLUS_T51", "فقط اعداد می تواند وارد شود" );
+define( "Your_Coupon", "کپن شما :   " );
+define( "LANGUI_PLUS_T52", "طلای شما کمتر از مقدار وارد شده  و کارمزد می باشد" );
+define( "LANGUI_PLUS_T53", "مقدار طلا وارد نشده است" );
+define( "LANGUI_PLUS_T54", "کد کپن   " );
+define( "LANGUI_PLUS_T55", "کوپن وارد نشده است" );
+define( "LANGUI_PLUS_T56", "انجام شد" );
+define( "LANGUI_PLUS_T57", "کوپن وارد شده صحیح نمی باشد" );
+define( "LANGUI_PLUS_T58", "شما در بانک قادر خواهید بود که طلای خود را بین سرورهای بازی این سایت جا به جا نمائید" );
+define( "LANGUI_PLUS_T59", "جهت دریافت طلا بایستی کوپن را در کادر زیر وارد نمائید" );
+define( "LANGUI_PLUS_T60", "کارمزد  :  " );
+define( "GOLD_NUM", "مقدار طلا  :  " );
+define( "ERROR_ADAD", "مقدار طلا را وارد کنید " );
+define( "Lock6", "در حال حاضر اين ماژول غير فعال است" );
+define( "LANGUI_PLUS_goldfew", "حداقل مقدار پس انداز   " );
+define( "LANGUI_PLUS_goldfew2", "  سکه می باشد  " );
+define( "LANGUI_PLUS_T61", "هر " );
+define( "LANGUI_PLUS_T62", "سکه نقره برابر 1 عدد طلا می باشد" );
+define( "LANGUI_PLUS_T63", "مقدار نقره وارد شده شما کمتر از مقدار مجاز است و حتی به یک طلا نیز تبدیل نمی شود" );
+define( "LANGUI_PLUS_T64", "موجودی نقره شما کمتر از عدد وارد شده است" );
+define( "LANGUI_PLUS_T65", "مقدار نقره برای تبدیل " );
+define( "LANGUI_PLUS_T66", "تبدیل نقره به طلا" );
+
+
+?>

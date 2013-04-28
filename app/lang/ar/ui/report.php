@@ -1,25 +1,31 @@
-HR+cP/46ywgzqyUDhBzcYSxKqIn1G9MmbLhal9siyRd+QteNwTPtkEPX87LaR3UuRdee/ivew0zS
-8enDHU06ZkkIy9Vmvk2A/14fu0bU7bHOEXI78Yg5sGkwVnaiU+zX+d0s1D3NV8AEO1897kj7UYdl
-ii0rq//2lGZNGgknmE2aK4ObO4XqZ0JvBaV+q7lfEuVZzfrldIwFI9JS9y9XJ8HyhowKZbnP1VAo
-Bk4kg20auuYDQZEcK8j7gJNkKsHkuLGGFSEBMjQ3nLLcHpU9H4KclEvjLyC6/2ubDOTLnj1/AUal
-3IcMPnd92OVXiSWojghYCqPOByil3tquzrv5XOgn2b87G55DpGR56IDdsHt8XMr+oQMpbCCL68Mg
-wWlm+qlOE2QNwSxZHwf7sX/QMg8fNPky7iL5ewjiGqXWJfCcY+5JsRkFd7spJuCGZSippugYE0Q0
-kYGjpNGHzKc1LqACYSvM19Iz7j+GB9k15y+kwNjyJFcfOZHX8w+YgIZzDbvUPzM0/iSQSQZsi2yk
-dfnYNmDlGIzWqeQ6GzNRMMAJUSh3AKlA9E8+jh6iJ4cSdc4naRl3Wwr6EOtZ629Oj4o3Q3W9VkeF
-R2Zq8TDCwLoEQaGndvqG40+UNL9kT1MMskI4rYZ9BxKA4Y0wEc53HSqetbd8v6j7YP/nd2YLpYdz
-agQXFkM7UmVhAUudGzyhHazK7MitPAj/12IUVxzfjaBRIu894I/a21hSHjcIJbKYP0QVR73pJ+TX
-Se/GA3SzrlEc+1dk70buLNHmrZPrIh1CoBJg7TA90KZ1sunjiBFlXAiVhG0PFqI8zEpnCA/aC606
-J7K5bGvlQ0+A0kANtbeR32927JaNubUCD/lEjK43Jq155XXR9/taTiYCOo9ZYa0Bu6mg18VpoR4G
-9H1WOZJ7mnieTm6Y7NBLL6/cVf1qwS4jslaLzAwx5hZDokmRFsLzGhPs6NoqgVPxk2tvgpbzOud6
-Ey+52LprPdsx/+QvDkAPqIOQ8AMLp6/Xp+M38QwFtaOzw3sBMI0GjA9LhHS/PZQccuu+2ak67+m+
-6HQiRsjZARvZ/t7KhnFGUXhZSAU0unkGt2CF14EHiUz3iPEKAyimFVpzILZBFmf3Jp+VIFqcud0F
-5HVGlDChG4ELe4BXl/tQ+XoQ9rWi7eDA5NMo0nVh2NQOn0Y6uf+zWiG6uwj0cZNxNmIwjTbx0sYn
-homrvXB06jU8oICIYO/3XAyMAw8W9jtAKVyByq+ZqsfnpNyHaCBr2zDHEh66IErOjrqTdsVFYkhX
-QQ47ysX9gcneEGPvOlHXXu3ePTzTKQdd2f5k97aul02P7QPIZJQddHyOX0UobvJiNFg/JJdE2Hyo
-6RRNcwcQQHAeKzsL2wacvHDZBm56gQk1PVBBXp5cnB6E0fzXZ4Oskn+JZtKFVEibpttK+/ML2JZb
-+IIDMcS81bmFZxaIiNbMDp6d5hi0eQdvD9cRJd3WDR9DdpRUWLXqrENC6T6J/pjk9FDdPSmc8iDz
-Ea/xRtsQ/gcTA4laumDhCJ019HYz1EjuM0MJsq4E88xkRK32nG7+3ZApHv/WDv5/cFiIGczIq2hZ
-aJMIIT/mzIeSivVxk40QxSarNrGfisC3zn4m+9AjZaUnuKNstkgZ2uPl1w4WrbtoZ+OWSTQ0uIUe
-amXKFYTn9we3hwA1xgJ6ot/8PNDhh6qC8Ma2FhWl5pwSGQqLLruKR52LKmYhz5r11Jk+soiqIwYG
-NzXxmIqrdEON3EAngiaT36teSvpeMEfl/t1U8qWf6i3CzxRZH3tAkc65r7XkrnoYmSfDb/LWlf7p
-GNimau6WyoRTc0==
+﻿<?php
+
+define( "LANGUI_RPT_T1", "گزارش ها" );
+define( "LANGUI_RPT_T2", "همه" );
+define( "LANGUI_RPT_T3", "تجارت" );
+define( "LANGUI_RPT_T4", "نیروی کمکی" );
+define( "LANGUI_RPT_T5", "حمله" );
+define( "LANGUI_RPT_T6", "متفرقه" );
+define( "LANGUI_RPT_T7", "موضوع" );
+define( "LANGUI_RPT_T8", "فرستاده شده" );
+define( "LANGUI_RPT_T9", "(خوانده نشده)" );
+define( "LANGUI_RPT_T10", "هیچ گزارشی موجود نیست" );
+define( "LANGUI_RPT_T11", "حذف" );
+define( "LANGUI_RPT_T12", "از دهکده" );
+define( "LANGUI_RPT_T13", "منابع" );
+define( "LANGUI_RPT_T14", "لشکريان" );
+define( "LANGUI_RPT_T15", "هزينه نگهداري" );
+define( "LANGUI_RPT_T16", "در هر ساعت" );
+define( "LANGUI_RPT_T17", "مهاجم" );
+define( "LANGUI_RPT_T18", "تلفات" );
+define( "LANGUI_RPT_T19", "مقدار قابل حمل" );
+define( "LANGUI_RPT_T20", "اطلاعات" );
+define( "LANGUI_RPT_T21", "هیچ یک از سربازانتان باز نگشت" );
+define( "LANGUI_RPT_T22", "مدافع" );
+define( "LANGUI_RPT_T23", "ارسال شده در" );
+define( "LANGUI_RPT_T24", "غنائم " );
+define( "LANGUI_RPT_T25", "اطلاعات حمله : " );
+define( "LANGUI_RPT_T26", "قهرمان شما تعداد " );
+define( "LANGUI_RPT_T27", "  نقره در ماجراجویی بدست آورد  " );
+define( "LANGUI_RPT_T28", "  نفر جمعیت در ماجراجویی بدست آورد  " );
+?>

@@ -1,15 +1,24 @@
-HR+cPzilvEzz0jt0R91np6TmqcPn78Ygp35w2wki3xhcnakiUG50cWKMwARL+DCKt0BqoipWD2B0
-Z8vy9DV0WNy2f3E4ZCiX2Yfa0kWgyBfiu4gU+ep3DphE+IpBXoJO4ai+0N8cexavZ8tw0UlJIAPF
-XefiqmTHTuY3z5LL96iwi6pTyGzoPit4I9j2TFSBH33isKKSuWSJk8u4qM44lf0eYSDj856Q9CHR
-+Ptvd0q1BlVwtvld780UgJNkKsHkuLGGFSEBMjQ3nRHYK+pvP4RfQMDp7FDkn3OxpLfldjNjlAdt
-ZMS7gENhed/ExgCQa2OzH+Hfis8N+CyRf84ndlPOi8epTE4l+ewnEYbIXsK8vf8bTwgP+Kv+TNNm
-jnpOq17Yj/5xRzBULpGcvHcweg8SpZAIigHcpgTmwcLabGOg8YJ/91qLWRTMaq+ZXFORGAkn2Vs0
-vz2FxyG+SF7TpDHqRAQ3E6WAOutS+Gcxn4UTS9duaGXhwI8G7eVg79cvWqHTsLC/44kog+LPpbRd
-L3xgmTCazbRgQ2hf2xx5INFRwm89L003/DERS4unGISDWLJuU6XRwrVeL7JD+DnoSsyYlrzwrKDP
-vz9QxYXWzCAdxbE1mwtQ9t+yRKmsV7rk9xXXq1iKWOEtYnVofoKhSTGkThZz8LmSshKG3vvUMEht
-0J33I1zifVtl3WLQSdYo+1le5BPpX5hoiRRDXxiQSytmkoVWSnX49NlCvHFWp/jht6mGTKQ5MON7
-/isc4739pxIrNnDZSInwayP3AG2TmIAG6Sjzhu3ACt0k2nATQ2uJTA+4x5D+VKouRzi00ueXFZsg
-JR14r1VXI/O/GuhcIBLZaUv2BZTK2/LB7+Dvg5pFBQrjdzoVC+LN3WDC5ibSEaSQjXfQdBn2IPq7
-QGogySqawmUV5kxjYv/sfoga+PeuvH/+Irs1Zrj+Z3iMWXcisRQM+A8sprKBWaor0py8pjPoQ41K
-DO9qWqoub2fv4HSSi2o9atEmqZydWROMGqkmK8hOtuJWjrBlUKj3zxh4oGRo1reJgI0pGr3848J6
-bMY/EMzlY7G/6xkoWefeBBQqM7kTu3D8P3J5KkeXVM6FIwiLCQ7VC2gs
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_MAP_T1", "Map" );
+define( "LANGUI_MAP_T2", "Details" );
+define( "LANGUI_MAP_T3", "Deserted valley" );
+define( "LANGUI_MAP_T4", "Oasis owned" );
+define( "LANGUI_MAP_T5", "Oasis is not occupied" );
+define( "LANGUI_MAP_T6", "North" );
+define( "LANGUI_MAP_T7", "Eastern" );
+define( "LANGUI_MAP_T8", "South" );
+define( "LANGUI_MAP_T9", "West" );
+define( "LANGUI_MAP_T10", "Large map" );
+define( "LANGUI_MAP_T11", "Player" );
+define( "LANGUI_MAP_T12", "population" );
+define( "LANGUI_MAP_T13", "Alliance" );
+define( "LANGUI_MAP_T14", "Close the map" );
+?>

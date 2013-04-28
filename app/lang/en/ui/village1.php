@@ -1,19 +1,28 @@
-HR+cP//t5sldDkDloTkl/iJLFj0FFO+0Gw4zMg+itvrMeskfQ2Q6yJk8E0vWxyPgPdqoAWhRdHj4
-lcsYGFZmjUdR7f+DAu0liZHT3c+HNQE62UwHUMno66TAtW/mT7mNaIQI+VPM0ctKstJYsls9ezxu
-wzljb2sHX1UKSPm1kU5lHMLSYsyktX0MQmaHx4V5H1TaaobE1vLrI///1g9EPlrQULN4/Zf6KPo9
-eQhAwHnWbvqkRz26tVcEgJNkKsHkuLGGFSEBMjQ3nRjbXknvwhdmqdrx+/Esq38o2iCanSczOCiB
-eRUIdLTexMxhxJuwlpqT+ZdXrw4T0Xl/D09uFh0qzRNKjriAcVq4Rkccz9jPP4g0WO2uJCb79jUu
-P/rHVAnTD9qu/I8FoXyhBlPKa/40ShzkG5LElKQyGAH5YXYYJJq9q63y6i+gfuExy0LUFwINfn4H
-tIdpjHUe0A1b8gcKgm2sTZsH7n9vYuEd7fX9Gqql1vc8V4se6jP993q2Cxq2Q5I/lzhm2GXN2Rfs
-Yqjwe3NSI7BE1HorF/J1xxiEWvTnTRTlGKEHU40mYbznPirgzmz+nfW4dZ6iTJt87VzF1E20ZKwt
-aSD3y1OxkOZ2PVt+O0FpBSGoh4g3bAH2n6u4EneJCywprEe8FuRJuigUSy08AcXW+vfpJ8++4Plj
-2fKvQU47g4unMhH7PPLJE/qUh8hkHDLkyqN5Fdj4z6ZCxINuSFnMLVkLueLrEkGEIgYxmWDwbd6l
-MBz8ECVUlAgNP6yaZPvZGlwC24odKDKHhnOJSGhJtHiG3rhFO8dVTCygNV57K1IZ8NKJxx/rTjFo
-0ASpJr3i5O35VIAC+r6YTn7W8EFFFt+ObOmoNbks3xyqsF42odcZ+W99iQhpI56Ah2cuioBe83cp
-cvHEESOwmz/4GIKLYzvU5O8qW/Jbjni3EIjv2OBtgE7w1r1BL+P/Y3RBPd9dbjD6qmjtcOYoxn8A
-OAuDkUrNU6/0L1MHzTqTWmg2qjB/HKBBbwOlS+FtAxHbHuJZoXpybQEcebo8G5QEg5UNVXA3W91e
-j0taMUP2e9oG0jOjyITL5sEf44WdLelnTZiY8YoIlnepSY6ZwuWHf2vyEj1Ghj3vA5Sw7Qk8sIBj
-bDtAovwOQbbYfbwkNqlz15ywbpPObUmt2B8InE51L577WoIL4+S7IRFqLQmquClz8E2FtWsU+lQm
-8eSX+Kue6esmy2T8sRMnEKdLHxZmSPMFsSHVBnQXlHoVrCtmpi5taXNLWiWVc6u1n3APErqiBS5a
-xqMnSbQF9i3xMq+gl9Qpa8j5jIuGv3FjeObbgcxFRX88ihuxvGzfE6LZ7yizwMLokIWjeVkXo3PB
-0046uKHDlluEQm7clt7IIqAjaP7J/W==
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_VIL1_T1", "loyalty" );
+define( "LANGUI_VIL1_T2", "Village Center" );
+define( "LANGUI_VIL1_T3", "troop movements" );
+define( "LANGUI_VIL1_T4", "attacking forces coming" );
+define( "LANGUI_VIL1_T5", "attack" );
+define( "LANGUI_VIL1_T6", "collaborating forces next" );
+define( "LANGUI_VIL1_T7", "Reinf." );
+define( "LANGUI_VIL1_T8", "attacking my troops" );
+define( "LANGUI_VIL1_T9", "my troops cooperating" );
+define( "LANGUI_VIL1_T10", "attacking forces of the oases" );
+define( "LANGUI_VIL1_T11", "collaborating forces of the oases" );
+define( "LANGUI_VIL1_T12", "Production" );
+define( "LANGUI_VIL1_T13", "Per hour" );
+define( "LANGUI_VIL1_T14", "Units" );
+define( "LANGUI_VIL1_T15", "None" );
+define( "LANGUI_VIL1_T16", "Construction" );
+define( "LANGUI_VIL1_T17", "Cancel" );
+define( "LANGUI_VIL1_T18", "Complete construction and research in this village immediately\r\nCost 2 Gold " );
+?>

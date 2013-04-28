@@ -1,34 +1,45 @@
-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
-C9KTio3OIjeLv3SZtgZ58RG+OYz1+A5wKnSz
+﻿<?php
+
+###############################  S  T  A  R  T   ################################
+##              -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-                 ##
+##  Version        2.0.0                                                       ##
+##  Developed by:  Saeed                                                       ##
+##  License:       Travian.100100@yahoo.com                                    ##
+##  Copyright:    Travian.100100@yahoo.com All rights reserved.                ##
+##                                                                             ##
+#################################################################################
+
+
+
+define( "LANGUI_REG_T1", "ثبت نام بازی" );
+define( "LANGUI_REG_T2", "ثبت نام" );
+define( "LANGUI_REG_T3", "قبل از اینکه ثبت نام کنید، بهتر است بخش " );
+define( "LANGUI_REG_T4", "راهنمایی" );
+define( "LANGUI_REG_T5", "تراوین را مطالعه کنید تا از برتری و ضعف هر یک از پنج نژاد مطلع شوید." );
+define( "LANGUI_REG_T6", "نام کاربری: " );
+define( "LANGUI_REG_T7", "ایمیل:" );
+define( "LANGUI_REG_T8", "رمز عبور:" );
+define( "LANGUI_REG_T9", "یک نژاد انتخاب کنید" );
+define( "LANGUI_REG_T10", "محل شروع" );
+define( "LANGUI_REG_T11", "تصادفی" );
+define( "LANGUI_REG_T12", "شمال غربی" );
+define( "LANGUI_REG_T13", "شمال شرقی" );
+define( "LANGUI_REG_T14", "جنوب غربی" );
+define( "LANGUI_REG_T15", "جنوب شرقی" );
+define( "LANGUI_REG_T16", "ثبت نام" );
+define( "LANGUI_REG_T17", "هر بازیکن در هر سرور، تنها یک اکانت میتواند داشته باشد" );
+define( "LANGUI_REG_T18", "تبریک می گوئیم" );
+define( "LANGUI_REG_T19", "به جمع  ما خوش آمدید ، در حال حاضر شما یک حساب کاربری ایجاد نموده اید<br><br>\r\nکه این  اکانت هنوز فعال نشده است. جهت فعالسازی اکانت خود<p>اگر لینک فعالسازی برایتان ارسال نشد <A href='reset/active.php' target=_Self><font color=#E9FD05>اینجا</font></A> را کلیک کنید " );
+define( "LANGUI_REG_T20", "<center><font color=red size=3><b>شما بايد از مرورگر موزيلا استفاده نمائيد </b></font></center>" );
+define( "LANGUI_REG_T21", "<p><br><center><font color=blue size=5><b><blink>ثبت نام در اين سرور بسته  شده است<blink></b></font></center>" );
+define( "LANGUI_REG_T22", "<p><center><font color=red size=3><b><blink>به زودی با سرور جدید تر در خدمت شما خواهیم بود<blink></b></font></center>" );
+define("BEFORE_REGISTER","قبل از اینکه ثبت نام کنید، بهتر است بخش <a href='manual.php' target='_blank'>راهنمایی</a> تراوین را مطالعه کنید تا از برتری و ضعف هر یک از سه نژاد مطلع شوید.");
+define("REGISTER_STARTER","اگر به تازگی با TRAVIAN آشنا شده اید، توصیه می شود که نژاد گول را انتخاب کنید.");
+define( "LANGUI_REG_T23", "معرف" );
+define( "LANGUI_REG_T24", "ورود" );
+define( "LANGUI_REG_T25", "انجمن" );
+define( "LANGUI_REG_T26", "صفحه اصلی" );
+
+
+
+?>

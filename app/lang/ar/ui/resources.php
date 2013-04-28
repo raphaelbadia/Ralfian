@@ -1,11 +1,20 @@
-HR+cPmDa2SIvj/7hKDgSvnRXaQQxuDHNwTTlFvQiGc8NxUp2FZD91CZeN5OVaaBNN51q4AmxOD/m
-T/vh4a6VYryxQDR3g0O5dhZCB5qNXR6HcbU/ZkS9myZpBRLyyVB8LqvT0lZQI9IdDAxHZv676OF3
-/BvZnLbrhAraY4UBZn7v4/Z6eHd24NNpYJAsvt3EfYLqsZADUyoJg3PMR+OVHQAldVw4WUlm8QdT
-mn6G91gipo8qBzOPmgpzgJNkKsHkuLGGFSEBMjQ3nMPfInmDmDBcZB62hFCciJ1M/mR1Xv6+Olwv
-cwcQNmv6yEJSGN1o7Gtt9lVO3Bl0vKQpQefuXbLOuUUs0QLT5vVjg74qaSe5eqMZhxmB8+H5cESc
-OmXR+4vDGnjJ8fMPnqGBGiT8z/zHmvbPmQ+fjDGLvoh/4PQxvlFWvviwiNo/tDjA+MY8j1nCNfpE
-oa7ZItmqPPeEdrADqidFbL5ZQ9bWH3OZfRfMUKe/oMlNk5XUMbpY7IsI1thNFNTvkv+RnmuPHm4o
-szPNVOnjeLO7zNpUQ+EGTFcZn39r0wJIqko+ZkS/CzoUW2YuX4JIGRRNMGfmMUEz1ZujrfCZ6vWb
-QbtRi+gUmRL3C+tRWLn52OTOgNqBGw0+hjlblID4YAsT3Hvx61iqEY71Q17RYRYj+Vy6SkRXrBgF
-MQVOSXpMIk0e2CnIXnFAaFcGydspTqegyLLl0617SXPOj39JUr4QN63gKdQ6yJWJ3HZzYxtFhztf
-4khr2jngQy9X0xEsvjRM36FRH/xF9ekZDasAga5Www2Yu+ywFYsbCVHvCCOulLdApv0=
+﻿<?php
+
+###############################  S  T  A  R  T   ################################
+##              -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-                 ##
+##  Version        2.0.0                                                       ##
+##  Developed by:  Saeed                                                       ##
+##  License:       Travian.100100@yahoo.com                                    ##
+##  Copyright:    Travian.100100@yahoo.com All rights reserved.                ##
+##                                                                             ##
+#################################################################################
+
+
+define( "LANGUI_RES_T1", "توزیع منابع" );
+define( "LANGUI_RES_T2", "اطلاعات دهکده" );
+define( "LANGUI_RES_T3", "نام" );
+define( "LANGUI_RES_T4", "بازيکن" );
+define( "LANGUI_RES_T5", "منبع" );
+define( "LANGUI_RES_T6", "فعالیت" );
+define( "LANGUI_RES_T7", "مقدار" );
+?>

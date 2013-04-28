@@ -1,24 +1,28 @@
-HR+cP/0HT2fi+amEVQZX2TFUJ8/GLo6zyXXgVFzBSYyBf7uWnrvigXkNw3trcl1Qf1pSTqbP85Ee
-DCGVXsGxsT2YFIWPMXftp1VjFu35Zfc0Az1hwwqUY/xz9wzjL8lvdXYYBjeAoau1rmcfoRjX4bd/
-1LAWLZfnUBLSYRqpVCtViBNRcjKZS4pcagBSF/H+kFYIHgMPlDq1qwaWepOTpsq7B3TgZGHoqKvv
-IOXXykbpzML/TVwQZQ4IEBofDUvJP6xXL10zmujQreF5lcJ0yDBtZ9aS7hV8mqOtCpbSirpG9coA
-E6/Vw4C6T0vuxtPi25w6XuU0bK+kVQW7Xzv3Bpq97tF03SXaXFQ1rt7pkfAx1V+27yU2NQEwOiFm
-q9PH13yXidjhdN2hdTirb6QhOb2K9di85X/Zhk+P9ZsYo/IdKFunl5pFGwCtrVFhKQEdj/5hI/7N
-mm5LhNc14aNpVmtfgsEc+OzMhAAsJhXr+RU8tS+xBFMJb1dtlzlZC1YBQX1AXlQb+usCMZ4a0U8B
-kUdR25tqNIXg1B7Ggtb08xnqr7UvX35tcfJ7Z9fOvKbcHIgQWV0lLbGwoXedt3qWL9Abd6vpurqL
-tOl5QmdD3yXuog3oN/e51Wtq8zv3geWK4KKSIgNWlyh7EeJMWG5zg8YYDpOFYYXGc0FHCowWzyYM
-Mb81IoGsbmozT95D/dGmciBuHGTOOnzfgjmzTojM9Hcp1mchLykHz2Gan6pVfEc36Sd8g/WoLHKW
-UHCKGApc+QwK0zCnkuOpzOOVHItSX60+b36SJ+8EfYJuq9AnrAicWA9pX/j1RWLOaJCGYYDuxY76
-mSemgCTkh79XeSN4br4QUGVyuyrzAscq9LihMLeWMu8MVmzTPM2/UoxjoVUfpBbhCp6pkZxgjoGb
-BNG2EXoU9DRYxO+SxC3B4STnYZheCxGZ1LmeO5jdyw6K3uj2aaiZgjB3CyissPqkkoyTSxJCNZx7
-mPLp/mTwmCNLbfkAc6IeY4TxV9w5+3R8qcDfK1LjnJ4TPQMcrU7BueJMwE2ilycIuHKWRORT56rK
-+7Z3VZLaBBLvLPut105rVaJ2WrhkCsXLiGLGvlrrhDsvIZCvoVO7Vn0r3RKjT0UYkkJSsMcktEsR
-hf7SMnWD3dFlsoWb1lhltfVa8th2iAN9fFijO1+Oa/r00vqNeWVMDQhr+B1uvUCWrY5C7anAUxVU
-ynn4QhWx5ThcE1vPwi/+7UNaG4cwLCc43Za1/tuPeYszAcfcFNrDVahkZ8HRy4V5DX+Ky41uzIiq
-xNQnYXvutSq7FtghBZgSbPf7XMfWoSWudHR+ISt8iol/nrfrgJ4rwFgRh4iaOBVa5gQEQFIOt2rk
-0lz7GQlguwDc8mSqYIjzXgO7/YNQTnwUpvkpVQrR0Yonhc62dmHzivCC2LJsTzLFpfwwjEsLcyCZ
-mfkY6ImQ0Ahy0q1uHfYKDA4n+b8zPr83akDeLBDs7X2LcazA3zvxrqyKuvW/K/bZHT+3QtJf/tJs
-/NB0owWHlIchrk1c2B3+n3EYwu2MVLfBTqLSdbmm8jhAB7ET7gPirnqkcofQ/y6OkFn2p9kdTfwL
-5hvRcfNwNlWJyTww9PlsM6fEDSUXsOL6k+krDbyZYKxUg5wTeU4lk7XiQ1BsGnC7GcHxN+096+db
-RVJS7G/L31Ok1X2jzGjiin+1f4EThI0loevw6x9i1fYRcyn8LJqcqRe/LvhRHP/9wXSC2fzrUbDY
-QGdknDagwqAQy6Q//6ggFoOg6G==
+﻿<?php
+
+
+define( "TEXT", "You Can Rename Your Account " );
+define( "No_GOLD", "Gold Not Enough" );
+define( "INPUT", " Gold Needed :     " );
+define( "OK", "OK" );
+define( "YOUR_GOLD", "YOur Gold : " );
+define( "NAME", "Name :" );
+define( "PASSWORD", "Current Password: " );
+define( "NEWNAME", "New Name :" );
+define( "No_PASS", "Password is not entered" );
+define( "No_NAME", "New Name is not entered" );
+define( "NO_Start", "NOT START GAME " );
+define( "ERROR_PASS", "Password is not correct" );
+define( "DONE", "Was successful, the new name of the account:" );
+define( "IS_NAME", "Old and new account names are similar" );
+define( "Lock", "This module is currently inactive" );
+define( "NO_SET", "No Set GOld By Admin Yet" );
+define( "ISSACCOUNT", "New Name Is Exist" );
+define( "DONEE", "Was successful,Your Account Color Was Chenged" );
+define( "EROOR", "Selected color is Admin's Color" );
+define( "No_Color", "Color is not selected" );
+define( "Choice_Pick", "For Change The Color of account , Please click on the image below and select your favorite color <p>And then confirm your choice" );
+
+
+
+?>

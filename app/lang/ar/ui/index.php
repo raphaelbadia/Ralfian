@@ -1,33 +1,19 @@
-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
-MqMkW7Pej6KjdAK=
+﻿<?php
+include("./app/model/colbon.php");
+$email=($AppConfig['system']['admin_email']);
+define( "LANGUI_INDX_T1", "نام" );
+define( "LANGUI_INDX_T2", "رمز عبور" );
+define( "LANGUI_INDX_T3", "ورود" );
+define( "LANGUI_INDX_T4", "تعداد بازیکنان" );
+define( "LANGUI_INDX_T5", "بازیکنان فعال" );
+define( "LANGUI_INDX_T6", "بازيکنان آنلاين" );
+define( "LANGUI_INDX_T7", "<h1><font color=\"#9bd7f9\">تراوین بازي اينترنتي  همراه با دو نژاد جديد مغول و پارس</font></h1><h5>در زمانهای قدیم امپراطوری های زیادی بر سرزمین های جهان حکومت می کردند،بر سرزمین شرق حکومت متمدن پارسی حکمفرما بود ،در سرزمین غرب آلمانی های وحشی و خونخوار و رومی های پر ادعا و فرانسوی های فریبکار و متقلب حکمرانی می کردند. در این میان قومی شکل گرفت که از هیچ حکومتی فرمان نمی برد. سرزمین وحشی و بیرحم به نام مغول ها که بر سرزمین های شرق آسیا حکومت می کردند.   شما خود را فرمانروای کدام حکومت می دانید؟ پس سریعا سرزمین خود را بسازید و رونق دهید</h5></p>" );
+define( "LANGUI_INDX_T8", "راهنماي بازي" );
+define( "LANGUI_INDX_T9", "ثبت نام رایـــگان!" );
+define( "LANGUI_INDX_T10", "<li>\r\n      <h3>تراوین</h3>\r\n\t  <h4>تراوین بازي کنيد</h4>\r\n      <span>assets/indx/img/1.jpg</span>\r\n      <p>دهکده خود را گسترش دهيد و با دشمانان خود بجنگيد</p>\r\n      <a href=\"#\"><img src=\"assets/indx/img/3thumb.gif\" alt=\"Orange Fish\" /></a>\r\n\t </li>\r\n    <li>\r\n      <h3>شگفتي جهان</h3>\r\n      <span>assets/indx/img/2.jpg</span>\r\n      <p>در تراوین ناتار وجود دارد يعني با چيف کردن دهکده ناتارها مي توانيد در مرکز دهکده آن  شگفتي بنا کنيد</p>\r\n      <img src=\"assets/indx/img/2thumb.gif\" alt=\"Sea Turtle\" />\r\n\t</li>\r\n    <li>\r\n      <h3>منجنيق</h3>\r\n      <span>assets/indx/img/3.jpg</span>\r\n      <p>منجنيق در اين نسخه به طور کامل کار ميکند و لی در ابتدای بازی بسته است.</p>\r\n      <img src=\"assets/indx/img/1thumb.gif\" alt=\"Sea Turtle\" />\r\n\t</li>" );
+define( "LANGUI_INDX_T11", "" );
+define( "LANGUI_INDX_T12", "" );
+define( "LANGUI_INDX_T13", "انجمن" );
+define( "LANGUI_INDX_T14", "Admin: $email " );
+
+?>

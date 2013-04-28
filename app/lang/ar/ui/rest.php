@@ -1,27 +1,39 @@
-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
+﻿<?php
+
+###############################  S  T  A  R  T   ################################
+##              -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-                 ##
+##  Version        2.0.0                                                       ##
+##  Developed by:  Saeed                                                       ##
+##  License:       Travian.100100@yahoo.com                                    ##
+##  Copyright:    Travian.100100@yahoo.com All rights reserved.                ##
+##                                                                             ##
+#################################################################################
+
+
+define( "YOUR_GOLD", "طلای شما : " );
+define( "OK", "انجام شود" );
+define( "No_GOLD", "مقدار طلا کافی نیست" );
+define( "NO_SET", "تنظیمات طلای مرخصی هنوز توسط ادمین انجام نشده است" );
+define( "Day_Rest", "مرخصی روزانه " );
+define( "Hours_Rest", "مرخصی ساعتی " );
+define( "NO_Enter_TimeRs", "مدت مرخصی مشخص نشده است" );
+define( "DONE", "مرخصی شما از هم اکنون آغاز شد ؛ خدا نگهدار" );
+define( "LOCK_DAY", "مرخصی روزانه توسط ادمین غیر فعال گردید" );
+define( "LOCK_HOURS", "مرخصی ساعتی توسط ادمین غیر فعال گردید" );
+define( "Notic", "در طول دوره مرخصی تمامی ساخت و ساز شما متوقف خواهد بود" );
+define( "Click", "تعرفه ها" );
+define( "Rest1", "در حال حاظر شما در مرخصي به سر مي بريد" );
+define( "Rest2", "در وارد کردن پسورد اکانت خود دقت فرمائيد " );
+define( "Rest3", "جهت بازگشت از مرخصی اطلاعات زیر را تکمیل و فعال نمائید" );
+define( "Rest4", " اسم اکانت :  " );
+define( "Rest5", "پسورد اکانت  :" );
+define( "Rest6", "فعال شود" );
+define( "Rest7", " گرامي " );
+define( "Rest8", "اکانت شما از حالت مرخصی خارج شد ؛ حال می توانید وارد بازی شوید " );
+define( "Rest9", "ورود به بازی" );
+define( "Rest10", "اکانت شما در حالت مرخصی نبوده است" );
+define( "Rest11", "پسورد شما اشتباه است" );
+define( "Rest12", "این نام کاربری وجود ندارد" );
+
+
+?>

@@ -1,26 +1,31 @@
-HR+cPokyZUKbcNRA90KOnjXC20D6lc5bkZa3K/CMtUQHfL4bnsqsyBe6JlMn1+JVMJfKGPYLWjlm
-qR61Rzr1qnPzGESo+dXMsMXtT9aMqQ8W3oxcLSU/mTlMvIFA8COUpICVOmRox2dib7B+LvVxGfzN
-jiXCONo0cul79VFjc16UYRs4pW5XC6tCWgF1/VbsbHljrdHss/0lwWOHDUQOhnnLJMk2ueWYyw3z
-O6iZ6Ln+c930LZqKLT6YsgarxbDaRk5K43t3YrhMWyNVPjwRW1XgCP7xiJBpFdvAP/ybGyswvDIe
-WNqPe8A2clJNVf9teYMtvs7fot08f0zx55xpBdsThf5FrfpCYh60OrC4hws2HTZKcWwt/oAsT/at
-MCQ2uf4Gc5RyHhHQQusK+vWGuV3jKDTXVY1hfHtgxyC9HqsDBhyS1AREZETZAOYsfqr6o9RSvazm
-IuWkIdt+jILK/PF5BOc8sO84/LVRJBxZ5vdNaXakoI2/o0DdstFdTjvCAEXWNAj8KSnfV8OZXuBf
-l882dVevYNvY+lb7ePGDLijy1lEW4cJseUmgteA3vuaPUVoR7BOIP4u9CgmoOssIKVb+jo1+Y6b7
-ojekDLX0HSaE5w3raUtoIH6OzSrs/f2Df1AiyP+fZxqzI8ZoFIN9Xn6Guf1ngROTC5qNnMVrQ73f
-QH1KhybcaG/asoxj+j4gZkz/OXKbHK96rAdMDVOKgJ1pOBz2fYcdLa6jkHWIQWpnct/NRiSxwhhy
-SU2dPUmApAKZzvoFOmput8tCNRbLoZb0ZmeSlWpXf0dS+n5ECqO99V/3Al5l64j94V8Zq4OG0TNp
-p76vz56SoUtCQaObxao59P3anY56huuslcs8YTqQpfhhDxTAUc0G3O5ayM1fZzXs0iio4sX6wc8j
-dMxieLP9zUAKqvm0p+Qb/dTsRVVjTmBrgepRgDYnfpAKWoz4jjuS9K2PT/tAtIyWbdDh8qYyMZFH
-nxpgjI0vGzWwxajGjM/byDG53J7WDcyTXJC5JsXAYxWmaagXaGO5Kq3J8ijcpyjdJiF3pTmq9Kqr
-eVVUeAqtP3A6vZJ0qxjLCE+KuwK1Ozt/KcIgIFw3g3MHPOz2jP/rFX2CKmoZtTArt6/9xGwhyLq8
-1mTpFl8RQB2xsUXvl5SAXibW90IIYd1HG2zKzYKKmIIrhna0+mtLTMuvYN4+rafvzeUCvDptMvzq
-8Eoasz3bBezpa61bI49YUBstQoG7YWVb2aTJAPvV0Xen+BCOuiSbEVXkon+3ayKnrCqtqjjZ3C45
-CDw/4YWkolrcS8szMaCEjwxbtH9uH69SLjz+qbvNP2bfvjT+H1iNFTONF/N+245M2yU8ijVMcaoF
-3vK5LGnY3dJEoQ0ZmwYH6APSwHpSBF3pRRliz+98gJzn8gxipJBXKT6eM0D34kSYNCTLHOgJrnBQ
-bNPUdh57drmKLOoW1gbR9wQBWnmAIVdqSmZdLe9ZWY2Q6ULF5Ib+DPSRkFqE5TZan87imD6C1n/w
-LocMc+HAtD2R+vo5rQMmIFh9EWL1U51dPlDAR+k7K8AO7GDEvQXyLf++SalOj4GPCksAPHrM6eB7
-24/K4EZAPde0yEPttIO+UaxWa2v9wYUuZTN9oFM4bWr529zm8ilhfsJsAgNzueLakdCgCOTi70To
-a4xG6X0N0nUpkKeDn5mHU0hIEJrfH6RTZcZeDi3FseDw5Q9cJS9Z75o7gRyY1rFAAIz91GN9busB
-cDxfvmKV8idTcQoiUe3XAkNh42F4ZeXMf7cVlIvwoUg68XMEqiM/Irx6i+ssf8Y20t94EAXjarHm
-qRGVRnom/Y9WmxBwcQ96y+ygE/lz0DkPsget4ujTfhltX4NfJ/n9iOUyxWthXXaTe0B6am61Y21k
-fKantDS1UL1AiUZF3D08TXzsk7jwGvEseYcuZskDTm==
+<?php
+
+
+define( "LANGUI_VIL2_T1", "Complete construction and research in this village immediately\r\nCost 2 Gold " );
+define( "LANGUI_VIL2_T2", "Cancel" );
+define( "LANGUI_VIL2_T3", "Construction" );
+define( "ERROR_LEVEL", "Authorized level is higher than the level of your choice" );
+define( "No_GOLD", "Not Enough Gold" );
+define( "NO_SELL", "This building is not available for purchase" );
+define( "No_Select_Package", "Please select a Package" );
+define( "No_Select_Soilder", "Please select Troop type" );
+define( "PACK", "Please Select one package to buy" );
+define( "Troops", "Please Select one Building" );
+define( "OK", "Done" );
+define( "DONE", "Buying Success" );
+define( "NO_SET", "Needed Gold has not been set By Admin Yet" );
+define( "YOUR_GOLD", "YOUR GOLD IS :" );
+define( "NO_Start", "NOT START GAME" );
+
+define( "MODEL", "<font color=blue>Number</font>" );
+define( "Piyadeh", "Infantry" );
+define( "Savareh", "Cavalry" );
+define( "Virangar", "Ravager" );
+define( "Click", "Tariff" );
+define( "Back", "Bak To Buy" );
+define( "Lock", "Troop Is disable" );
+define( "FOR_OTHER", "You Can't Shop Other Tribes " );
+define( "Change", " Tariffs will change every 24 hours." );
+
+
+?>

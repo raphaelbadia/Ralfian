@@ -1,158 +1,172 @@
-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
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_GUIDE_T1", " Welcome to DelviewTravian!" );
+define( "LANGUI_GUIDE_T2", "\"I see you have been made Senator of this little village. I will be your counselor for the first few days, and will never leave your side." );
+define( "LANGUI_GUIDE_T3", "To the first quest!" );
+define( "LANGUI_GUIDE_T4", "Look around on your own" );
+define( "LANGUI_GUIDE_T5", "Skip Quests" );
+define( "LANGUI_GUIDE_T6", "Quest 1: Woodcutter" );
+define( "LANGUI_GUIDE_T7", "Around your village there are four green forests. Construct a Woodcutter on one of them. Wood is an important resource for our new settlement." );
+define( "LANGUI_GUIDE_T8", "Construct a Woodcutter." );
+define( "LANGUI_GUIDE_T9", "Yes, this way you produce more wood." );
+define( "LANGUI_GUIDE_T10", "Continue with the next quest" );
+define( "LANGUI_GUIDE_T11", "Quest 2: Wheat" );
+define( "LANGUI_GUIDE_T12", "Now your subjects are hungry from working all day. Extend a Wheat Field to improve your wheat supply. Come back here once the building is complete." );
+define( "LANGUI_GUIDE_T13", "Order:" );
+define( "LANGUI_GUIDE_T14", "Extend one Wheat Field" );
+define( "LANGUI_GUIDE_T15", "Very good. Now your subjects have enough to eat again..." );
+define( "LANGUI_GUIDE_T16", "<b><font color=\"#71D000\">P</font><font color=\"#FF6F0F\">L</font><font color=\"#71D000\">U</font><font color=\"#FF6F0F\">S</font></b>." );
+define( "LANGUI_GUIDE_T17", "Quest 3: Your village's name" );
+define( "LANGUI_GUIDE_T18", "Use your creativity to grant your village the ultimate name!<br><br>Click on \"Profile\" on the left hand menu and then select Change profile ..." );
+define( "LANGUI_GUIDE_T19", "Change your village's name to something nice." );
+define( "LANGUI_GUIDE_T20", "Excellent, you have chosen a great name for your village." );
+define( "LANGUI_GUIDE_T21", "Prize:" );
+define( "LANGUI_GUIDE_T22", "Quest 4: Players" );
+define( "LANGUI_GUIDE_T23", "DelviewTravian is a war you play with thousands of other players, click on the icon \"statistics\" in the top menu and then enter your ranking here." );
+define( "LANGUI_GUIDE_T24", "Find your ranking in the statistics and then enter it here:" );
+define( "LANGUI_GUIDE_T25", "No, no. You must enter your ranking <i> </i> here. Ranking just a number" );
+define( "LANGUI_GUIDE_T26", "Well, if played well up to that place in one day. I m going to give you some resources" );
+define( "LANGUI_GUIDE_T27", "Well, you re better than that. I m going to give you some resources" );
+define( "LANGUI_GUIDE_T28", "Excellent! This is your correct ranking" );
+define( "LANGUI_GUIDE_T29", "Quest 5: Two applications for construction" );
+define( "LANGUI_GUIDE_T30", "Build an Iron Mine and a Clay Pit, the Iron and Clay of the village are wanted a lot.<br><br>All thanks to the <b><font color=\"#71D000\">P</font><font color=\"#FF6F0F\">L</font><font color=\"#71D000\">U</font><font color=\"#FF6F0F\">S</font></b> account that I gave you on our previous task." );
+define( "LANGUI_GUIDE_T31", "Create an Iron Mine" );
+define( "LANGUI_GUIDE_T32", "Create a Clay Pit" );
+define( "LANGUI_GUIDE_T33", "As noted, the construction orders take a long time for completion. The Natars are working even when you are not online in the server. After several months of playing you will find that there are new things to discover<br><br>The best thing to do is to enter the village from time to time and execute the orders and expanding your empire." );
+define( "LANGUI_GUIDE_T34", "Quest 6: Messages" );
+define( "LANGUI_GUIDE_T35", "You can communicate with other players through messages, I sent a test message to you. Please read it and then return here <br> <br> Note: Do not forget, the icon of the messages contain two parts, the left-hand section is the reports and the right-hand section is the messages" );
+define( "LANGUI_GUIDE_T36", "Read the new message." );
+define( "LANGUI_GUIDE_T37", "You have received the message? Very excellent" );
+define( "LANGUI_GUIDE_T38", "I will give you some gold as a gift, with the gold you can do several things, for example, extend the period of <b><font color=\"#71D000\">P</font><font color=\"#FF6F0F\">L</font><font color=\"#71D000\">U</font><font color=\"#FF6F0F\">S</font></b> accounts, or increase the production of your resources. To do so, click on" );
+define( "LANGUI_GUIDE_T39", "" );
+define( "LANGUI_GUIDE_T40", "<font color=\"#FF6F0F\">GOLD</font>" );
+define( "LANGUI_GUIDE_T41", "In the menu on the top right of the screen." );
+define( "LANGUI_GUIDE_T42", "Gold" );
+define( "LANGUI_GUIDE_T43", "Quest 7: Neighbor" );
+define( "LANGUI_GUIDE_T44", "Around you there are many villages, one of the village has the name" );
+define( "LANGUI_GUIDE_T45", "Click on the icon \"map\" in the top menu and look for that village. You can see the names of villages in the map by passing the mouse over the villages." );
+define( "LANGUI_GUIDE_T46", "Find the coordinates of the village" );
+define( "LANGUI_GUIDE_T47", "and then enter it here." );
+define( "LANGUI_GUIDE_T48", "The Quest" );
+define( "LANGUI_GUIDE_T49", "Error, this is not the correct coordinates for the village." );
+define( "LANGUI_GUIDE_T50", "Try Again." );
+define( "LANGUI_GUIDE_T51", "True, this is the correct coordinates for the village." );
+define( "LANGUI_GUIDE_T52", "Now I will provide you with free resources." );
+define( "LANGUI_GUIDE_T53", "Quest 8: Army" );
+define( "LANGUI_GUIDE_T54", "Now I have a special mission for you. I am hungry! Give me 200 wheat.<br><br>On the other hand I will try to arrange you a huge army to protect your village." );
+define( "LANGUI_GUIDE_T55", "Send 200 Of wheat to the Quest Manager." );
+define( "LANGUI_GUIDE_T56", "Send wheat" );
+define( "LANGUI_GUIDE_T57", "Insufficient Resources" );
+define( "LANGUI_GUIDE_T58", "Yummm, Delicious! Thank you for the delicious meal of wheat. Now you have a huge army to protect your village. The arrival of the army will take several hours." );
+define( "LANGUI_GUIDE_T59", "Huge Army" );
+define( "LANGUI_GUIDE_T60", "Quest 9: One of each type" );
+define( "LANGUI_GUIDE_T61", "There must be something to do in DelviewTravian while you wait for the arrival of the army. Upgrade a clay pit, an iron mine, a lumber yard, and a wheat field to level one." );
+define( "LANGUI_GUIDE_T62", "Upgrade additional field from each supplier of level 1" );
+define( "LANGUI_GUIDE_T63", "Very excellent. Your production of resources is beginning to flourish. <br> <br> Very soon we will be able to start construction of buildings in the village." );
+define( "LANGUI_GUIDE_T64", "Mission 10: Quest Managers Army" );
+define( "LANGUI_GUIDE_T65", "Now you have some time to rest until the arrival of the huge army which I sent you arrives. <br> <br> From now to the time of the arrival of the army you can explore the map or the upgrade several resource feilds." );
+define( "LANGUI_GUIDE_T66", "Wait for the arrival of Quest Managers Army." );
+define( "LANGUI_GUIDE_T67", "Protect... very strange! This is the cheapest available Army. Perhaps I should have paid better attention to that <br><br>How can I fix this error" );
+define( "LANGUI_GUIDE_T68", "days of <b><font color=\"#71D000\">P</font><font color=\"#FF6F0F\">L</font><font color=\"#71D000\">U</font><font color=\"#FF6F0F\">S</font></b>" );
+define( "LANGUI_GUIDE_T69", "Quest 11: Reports" );
+define( "LANGUI_GUIDE_T70", "Every time there is something important in your village a report will be sent to you. You can see the reports by clicking on the <i>left</i> icon of letters and reports (the fifth icon from right to left). Read the new report and then return here." );
+define( "LANGUI_GUIDE_T71", "Read the latest report." );
+define( "LANGUI_GUIDE_T72", "Yes, absolutely. You have opened the correct report." );
+define( "LANGUI_GUIDE_T73", "Quest 12: All to level 1" );
+define( "LANGUI_GUIDE_T74", "Now you must upgrade the production of your resources a bit. Upgrade all resource fields to level 1." );
+define( "LANGUI_GUIDE_T75", "Upgrade all resource fields to level 1." );
+define( "LANGUI_GUIDE_T76", "Very excellent, your production of resources has become prosperous. <br> <br> Very soon we will start building the buildings in the village." );
+define( "LANGUI_GUIDE_T77", "Quest 13: Dove of Peace" );
+define( "LANGUI_GUIDE_T78", "In the early hours of your registration in the game you are under protection from attacks by other players. To find out for your protection from attacks, add the code <b> [0#] </b> in your description. Click on profile in the left menu and then click on edit profile." );
+define( "LANGUI_GUIDE_T79", "Write the code" );
+define( "LANGUI_GUIDE_T80", "in the description in your profile." );
+define( "LANGUI_GUIDE_T81", "Well done! Now everyone can see you are a great warrior." );
+define( "LANGUI_GUIDE_T82", "Quest 14: The Cranny." );
+define( "LANGUI_GUIDE_T83", "It is time to build a bunker as DelviewTravian is a dangerous world.<br><br>Many of the players live on the plunder of others, you should build a bunker to hide at least part of your resources from enemy plundering." );
+define( "LANGUI_GUIDE_T84", "Build a Cranny." );
+define( "LANGUI_GUIDE_T85", "Great work, now it will be difficult for the players to pillage your village.<br><br>If you are looted the villagers will hide in the bunker in their homes." );
+define( "LANGUI_GUIDE_T86", "Quest 15: To the second level" );
+define( "LANGUI_GUIDE_T87", "There is always something to be done in DelviewTravian! Upgrade one clay pit, iron mine, wheat field, and lumber to level two." );
+define( "LANGUI_GUIDE_T88", "Upgrade a single field from each supplier to level two." );
+define( "LANGUI_GUIDE_T89", "Great, your village has began to grow and flourish." );
+define( "LANGUI_GUIDE_T90", "Quest 16: Quick Guide" );
+define( "LANGUI_GUIDE_T91", "In the Manual you can read brief information about the types of buildings and also the different types of troops available. <br> <br>Click on the \"Manual\" in the menu on the left of the page and try to find out how many units of wood are needed to build a barracks." );
+define( "LANGUI_GUIDE_T92", "Enter in the box below how many units of the wood you need to build a barracks." );
+define( "LANGUI_GUIDE_T93", "No, it costs less than that." );
+define( "LANGUI_GUIDE_T94", "No, the barracks is more expensive than that." );
+define( "LANGUI_GUIDE_T95", "Excellent! That is the barracks building costs." );
+define( "LANGUI_GUIDE_T96", "unit of wood" );
+define( "LANGUI_GUIDE_T97", "Quest 17: The Main Building" );
+define( "LANGUI_GUIDE_T98", "Some of the important buildings in the village require that the main building at a higher level so you can build a market or a barracks." );
+define( "LANGUI_GUIDE_T99", "Upgrade the Main Building to level three." );
+define( "LANGUI_GUIDE_T100", "Excellent. You completed the development of the main building to level three.<br> <br>This development can help build new types of buildings but you can also build buildings in your village faster." );
+define( "LANGUI_GUIDE_T101", "Quest 18: Rank (again)" );
+define( "LANGUI_GUIDE_T102", "Find your rank in the statistics again and enjoy your progress." );
+define( "LANGUI_GUIDE_T103", "No, no. you must enter your position here. order in just a number" );
+define( "LANGUI_GUIDE_T104", "If you are training will be a good day to this level. try again" );
+define( "LANGUI_GUIDE_T105", "You better try again." );
+define( "LANGUI_GUIDE_T106", "Excellent! This is current rank." );
+define( "LANGUI_GUIDE_T107", "Quest 19: Weapons or Money" );
+define( "LANGUI_GUIDE_T108", "Now we must make a decision: Either trade peacefully or become a scary warrior.<br> <br>To build a market you need to store grain, and to build the barracks you need to build a rally point." );
+define( "LANGUI_GUIDE_T109", "Trade" );
+define( "LANGUI_GUIDE_T110", "Army" );
+define( "LANGUI_GUIDE_T111", "Courageous decision, to be able to send soldiers you will need a rally point. <br> <br>You can build a rally point in only one place." );
+define( "LANGUI_GUIDE_T112", "Here." );
+define( "LANGUI_GUIDE_T113", "The assembly point is in the middle of the village center and a little bit down." );
+define( "LANGUI_GUIDE_T114", "Build a rally point." );
+define( "LANGUI_GUIDE_T115", "Trade is your choice, you are in waiting times is certainly a golden" );
+define( "LANGUI_GUIDE_T116", "Build a Granary." );
+define( "LANGUI_GUIDE_T117", "Well done building the rally point you have become a threat in the near future to launch battles." );
+define( "LANGUI_GUIDE_T118", "Well done building the Granary. You have potential to store more wheat" );
+define( "LANGUI_GUIDE_T119", "Quest 20: Warehouse" );
+define( "LANGUI_GUIDE_T120", "Quest 20: The Barracks" );
+define( "LANGUI_GUIDE_T121", "In addition to wheat storage you need to store the rest of the resources to avoid a overflow of resources. Build a warehouse now." );
+define( "LANGUI_GUIDE_T122", "Build a warehouse." );
+define( "LANGUI_GUIDE_T123", "Excellent! has been the construction of the warehouse is done.< br> <br>Now you have completed all the requirements for the construction of a market." );
+define( "LANGUI_GUIDE_T124", "You now have the Main Building at level 3 and a rally point. This means that the requirements of building a barracks have been met.<br> <br>In the barracks you can build troops to fight for you." );
+define( "LANGUI_GUIDE_T125", "Build a barracks." );
+define( "LANGUI_GUIDE_T126", "Well done! The barracks have been compiled." );
+define( "LANGUI_GUIDE_T127", "Quest 21: Market" );
+define( "LANGUI_GUIDE_T128", "Quest 21: Training" );
+define( "LANGUI_GUIDE_T129", "Build a Market to be able to trade with other players." );
+define( "LANGUI_GUIDE_T130", "Build your market." );
+define( "LANGUI_GUIDE_T131", "With the completion of building the market, you can now you can trade or buy resources from abroad! If you want to trade, try to produce the required resources in abundance in the market so you can profit better" );
+define( "LANGUI_GUIDE_T132", "Now you have the barracks and you can start training troops. Train 2" );
+define( "LANGUI_GUIDE_T133", "Train 2" );
+define( "LANGUI_GUIDE_T134", "You have finally finished building your great military. <br> <br>Before you send the army looting is recommended that you test them in the" );
+define( "LANGUI_GUIDE_T135", "combat simulator" );
+define( "LANGUI_GUIDE_T136", "to see how the number of units required to fight a rat without any loss by your army." );
+define( "LANGUI_GUIDE_T137", "Quest 22: All to level 2" );
+define( "LANGUI_GUIDE_T138", "Now it's time to lay the foundation for your strength! Level 1 is not enough ... I know that it will take a long time but in the end you will find that it is worth it. Upgrade all resource fields to level two." );
+define( "LANGUI_GUIDE_T139", "Upgrade all resource fields to level 2." );
+define( "LANGUI_GUIDE_T140", "Congratulations, your village grows and prospers greatly." );
+define( "LANGUI_GUIDE_T141", "Quest 23: Embassy" );
+define( "LANGUI_GUIDE_T142", "The world of DelviewTravian is dangerous. You have already built a bunker to provide better protection against thieves but he might prefer to organize the coalition. <br>Established an embassy to be able to accept invitations from alliances." );
+define( "LANGUI_GUIDE_T143", "Very good, the Embassy has been built." );
+define( "LANGUI_GUIDE_T144", "Quest 24: Alliance" );
+define( "LANGUI_GUIDE_T145", "Cooperation is important in DelviewTravian. The players are working together to organize themselves into alliances. <br>Try to get yourself an invitation. <br>You can also create a private alliance but for this you first need the embassy at level three" );
+define( "LANGUI_GUIDE_T146", "Joined a Alliance or the Alliance has been created." );
+define( "LANGUI_GUIDE_T147", "Great, but without joining the alliance, it will be hard for you to build a huge empire.<br> <br>You have completed the last Quest for you. The population of the village is to congratulate you, now celebrate it. From now on I will not be there to help you and you will finish the long haul on your own." );
+define( "LANGUI_GUIDE_T148", "No Quests" );
+define( "LANGUI_GUIDE_T149", "If you are not willing to do these Quests you can cancel the activation of Quests\r\nBut be careful, after the cancellation of missions, you will not be getting them in the field once again\r\nThe piece is well thought of and made ​​the right decision, you probably have the desire to complete the Quests in the later\r\nWhatever the decision taken by I want to make sure I give you resources and stand on your side, only if you want to piece. You know where to find me" );
+define( "LANGUI_GUIDE_T150", "Play Missions" );
+define( "LANGUI_GUIDE_T151", "Abolition of the Quests" );
+define( "LANGUI_GUIDE_T152", "Summary of the raw materials" );
+define( "LANGUI_GUIDE_T153", "Supply of raw resources of your own" );
+define( "LANGUI_GUIDE_T154", "Supply" );
+define( "LANGUI_GUIDE_T155", "Time of supply" );
+define( "LANGUI_GUIDE_T156", "Status" );
+define( "LANGUI_GUIDE_T157", "One day of" );
+define( "LANGUI_GUIDE_T158", "Invoke" );
+define( "LANGUI_GUIDE_T159", "Has" );
+define( "LANGUI_GUIDE_T160", "Waiting" );
+define( "LANGUI_GUIDE_T161", "On account" );
+define( "LANGUI_GUIDE_T162", "Build your embassy" );
+?>

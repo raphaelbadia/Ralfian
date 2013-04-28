@@ -1,42 +1,68 @@
-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
-envhp5Q7LAnSyzTChic6oqUesHaga0==
+﻿<?php
+
+###############################  S  T  A  R  T   ################################
+##              -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-                 ##
+##  Version        2.0.0                                                       ##
+##  Developed by:  Saeed                                                       ##
+##  License:       Travian.100100@yahoo.com                                    ##
+##  Copyright:    Travian.100100@yahoo.com All rights reserved.                ##
+##                                                                             ##
+#################################################################################
+
+
+define( "LANGUI_ALLIANCE_T1", "اتحادی وجود ندارد" );
+define( "LANGUI_ALLIANCE_T2", "در حال حاضر شما عضو هیچ اتحادی نیستید، جهت پیوستن به یک اتحاد به یک سفارت سطح 1 در یکی از دهکده هایتان نیاز دارید." );
+define( "LANGUI_ALLIANCE_T3", "دید کلی" );
+define( "LANGUI_ALLIANCE_T4", "تغییر اطلاعات" );
+define( "LANGUI_ALLIANCE_T5", "حملات" );
+define( "LANGUI_ALLIANCE_T6", "اختیارات" );
+define( "LANGUI_ALLIANCE_T7", "اتحاد" );
+define( "LANGUI_ALLIANCE_T8", "اطلاعات" );
+define( "LANGUI_ALLIANCE_T9", "شرح" );
+define( "LANGUI_ALLIANCE_T10", "نام اتحاد" );
+define( "LANGUI_ALLIANCE_T11", "اسم" );
+define( "LANGUI_ALLIANCE_T12", "رتبه" );
+define( "LANGUI_ALLIANCE_T13", "امتیاز" );
+define( "LANGUI_ALLIANCE_T14", "اعضاء" );
+define( "LANGUI_ALLIANCE_T15", "آیا برای خروج از اتحاد مطمئن هستید ؟" );
+define( "LANGUI_ALLIANCE_T16", "بازیکنان" );
+define( "LANGUI_ALLIANCE_T17", "جمعیت" );
+define( "LANGUI_ALLIANCE_T18", "دهکده" );
+define( "LANGUI_ALLIANCE_T19", "اخراج بازیکن" );
+define( "LANGUI_ALLIANCE_T20", "توزیع مسئولیت" );
+define( "LANGUI_ALLIANCE_T21", "مدال ها" );
+define( "LANGUI_ALLIANCE_T22", "گروه" );
+define( "LANGUI_ALLIANCE_T23", "رتبه" );
+define( "LANGUI_ALLIANCE_T24", "هفته" );
+define( "LANGUI_ALLIANCE_T25", "BB-کد" );
+define( "LANGUI_ALLIANCE_T26", "حوادث  نظامی" );
+define( "LANGUI_ALLIANCE_T27", "مدافع" );
+define( "LANGUI_ALLIANCE_T28", "مهاجم" );
+define( "LANGUI_ALLIANCE_T29", "تاريخ" );
+define( "LANGUI_ALLIANCE_T30", "گزارشی وجود ندارد" );
+define( "LANGUI_ALLIANCE_T31", "دعوت بازیکن به اتحاد" );
+define( "LANGUI_ALLIANCE_T32", "دیپلماسی اتحاد" );
+define( "LANGUI_ALLIANCE_T33", "ترک اتحاد" );
+define( "LANGUI_ALLIANCE_T34", "به دلایل امنیتی ، لطفا رمز عبور خود را دوباره  وارد نمائید" );
+define( "LANGUI_ALLIANCE_T35", "رمز عبور" );
+define( "LANGUI_ALLIANCE_T36", "رمز عبور صحیح نیست" );
+define( "LANGUI_ALLIANCE_T37", "عدم تجاوز هم پیمان" );
+define( "LANGUI_ALLIANCE_T38", "اشاره" );
+define( "LANGUI_ALLIANCE_T39", "قبل از حمله به اتحاد های هم پیمان نمایش داده شود" );
+define( "LANGUI_ALLIANCE_T40", "قرارداد پیمان برقرار شده است" );
+define( "LANGUI_ALLIANCE_T41", "پیشنهادات ویژه" );
+define( "LANGUI_ALLIANCE_T42", "حذف" );
+define( "LANGUI_ALLIANCE_T43", "پیمان  عدم تجاوز با" );
+define( "LANGUI_ALLIANCE_T44", "مردد" );
+define( "LANGUI_ALLIANCE_T45", "هیچ" );
+define( "LANGUI_ALLIANCE_T46", "اشاره" );
+define( "LANGUI_ALLIANCE_T47", "برای دیدن منشور حملات" );
+define( "LANGUI_ALLIANCE_T48", "در شرح اتحاد" );
+define( "LANGUI_ALLIANCE_T49", "تجاوز بیگانگان" );
+define( "LANGUI_ALLIANCE_T50", "پذیرش" );
+define( "LANGUI_ALLIANCE_T51", "روابط فعلی" );
+define( "LANGUI_ALLIANCE_T52", "بازیکنی با این اسم وجود ندارد" );
+define( "LANGUI_ALLIANCE_T53", "دعوت نامه ارسال شد برای" );
+define( "LANGUI_ALLIANCE_T54", "دعوتنامه ها" );
+define( "LANGUI_ALLIANCE_T55", "دعوت برای" );
+?>

@@ -1,26 +1,28 @@
-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
+﻿<?php
+
+
+define( "TEXT", "از طریق این برنامه می توانید نام اکانت خود را تغییر دهید" );
+define( "No_GOLD", "مقدار طلا کافي نيست" );
+define( "INPUT", " مقدار طلاي لازم :     " );
+define( "OK", "انجام شود" );
+define( "YOUR_GOLD", "طلاي شما : " );
+define( "NAME", "اسم اکانت :" );
+define( "PASSWORD", "پسورد فعلی: " );
+define( "NEWNAME", "اسم جدید :" );
+define( "No_PASS", "پسورد وارد نشده است" );
+define( "No_NAME", "نام اکانت جدید وارد نشده است" );
+define( "NO_Start", "بازي هنوز شروع نشده است " );
+define( "ERROR_PASS", "پسورد وارد شده صحیح نمی باشد" );
+define( "DONE", "با موفقيت انجام شد،اسم جدید اکانت :" );
+define( "IS_NAME", "اسم اکانت قدیمی و جدید مشابه هم هستند" );
+define( "Lock", "در حال حاضر اين ماژول غير فعال است" );
+define( "NO_SET", "تنظيمات طلا هنوز توسط ادمين انجام نشده است" );
+define( "ISSACCOUNT", "این نام وجود دارد" );
+define( "DONEE", "تغییر رنگ اکانت با موفقیت انجام شد" );
+define( "EROOR", "رنگ انتخاب شده ، رنگ ادمین بازی است" );
+define( "No_Color", "رنگی انتخاب نشده است" );
+define( "Choice_Pick", "جهت تغییر رنگ اکانت ؛ بر روی شکل زیر کلیک کرده و رنگ مورد علاقه خود را انتخاب نمائید <p>و پس از انتخاب تائید نمائید" );
+
+
+
+?>

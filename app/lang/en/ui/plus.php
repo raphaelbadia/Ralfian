@@ -1,69 +1,79 @@
-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
-WkpF7eWNtREdMmmnseg+9341YG==
+<?php
+define( "LANGUI_PLUS_T111", "Move Gold" );
+define( "GOLD", "Get Gold" );
+define( "CLUB", "<center><font color=#71D000><b>Golden Club</b></font></center>  facilities : <br> Crop Finder , Farm List , Review All villages,......" );
+define( "GOLD_FOR_EVER", "End server" );
+define( "ACTIVED", "<b>Actived </b>" );
+
+
+define( "LANGUI_PLUS_T61", "Each" );
+define( "LANGUI_PLUS_T62", "Silvers Equal to 1 Gold" );
+define( "LANGUI_PLUS_T65", "Silver Amount to Convert" );
+define( "LANGUI_PLUS_T66", "Converting Silver to Gold" );
+define( "LANGUI_PLUS_T1", "Travian" );
+define( "LANGUI_PLUS_T2", "Plus Menu" );
+define( "LANGUI_PLUS_T3", "Packages" );
+define( "LANGUI_PLUS_T4", "Advantages" );
+define( "LANGUI_PLUS_T5", "Plus" );
+define( "LANGUI_PLUS_T6", "Gold" );
+define( "LANGUI_PLUS_T7", "» next" );
+define( "LANGUI_PLUS_T8", "Features<b><font color=\"#71D000\">  P</font><font color=\"#FF6F0F\">l</font>u<font color=\"#71D000\">s </font></b>" );
+define( "LANGUI_PLUS_T9", "Waiting loop for constructions" );
+define( "LANGUI_PLUS_T10", "The waiting loop enables you to give your builders another order to raise or extend a second building. After completing their first task and a short break (60s), they will start to take care of this second job." );
+define( "LANGUI_PLUS_T11", "Large map" );
+define( "LANGUI_PLUS_T12", "You can enlarge the map to get a better overview. Instead of 7x7 fields you can have a map of 13x13 fields. Other alliances which are allied or have a non-aggression pact (NAP) with you are shown in special colors." );
+define( "LANGUI_PLUS_T13", "Freely definable direct links" );
+define( "LANGUI_PLUS_T14", "Thanks to these links, you can reach every page you want with just one click. Just create a link to every destination you want and get directly to your alliances overview, to your barracks or to the tempting 1:1 biddings at the marketplace." );
+define( "LANGUI_PLUS_T15", "Notepad" );
+define( "LANGUI_PLUS_T16", "Paper and pencil aren t always at hand. In order to make sure not to forget important things or if you simply want to take a few notes, just use your notebook." );
+define( "LANGUI_PLUS_T17", "Features of DelviewTravian Gold" );
+define( "LANGUI_PLUS_T18", "Production bonus for lumber" );
+define( "LANGUI_PLUS_T19", "With this Gold advantage all your villages wood production will be increased by 25%.The bonus will not be added to the single resource fields but to the sum of the production. This feature is NOT included in the gold club!" );
+define( "LANGUI_PLUS_T20", "Production bonus for clay" );
+define( "LANGUI_PLUS_T21", "With this Gold advantage all your villages clay production will be increased by 25%. The bonus will not be added to the single resource fields but to the sum of the production. This feature is NOT included in the gold club!" );
+define( "LANGUI_PLUS_T22", "Production bonus for iron" );
+define( "LANGUI_PLUS_T23", "With this Gold advantage all your villages iron production will be increased by 25%. The bonus will not be added to the single resource fields but to the sum of the production. This feature is NOT included in the gold club!" );
+define( "LANGUI_PLUS_T24", "Production bonus for wheat" );
+define( "LANGUI_PLUS_T25", "With this Gold advantage all your villages wheat production will be increased by 25%. The bonus will not be added to the single resource fields but to the sum of the production. This feature is NOT included in the gold club!" );
+define( "LANGUI_PLUS_T26", "Complete construction orders & research immediately." );
+define( "LANGUI_PLUS_T27", "In the current village all construction orders and research in the academy as well as the blacksmith and armory will be completed immediately. However, the buildings Residence and Palace and villages with a wonder of the world inside them are excluded. This feature is NOT included in the gold club!" );
+define( "LANGUI_PLUS_T28", "NPC Merchant" );
+define( "LANGUI_PLUS_T29", "The NPC Merchant will exchange any desired amount of resources in a village with other resources at a ratio of 1:1.This feature is NOT included in the gold club!" );
+define( "LANGUI_PLUS_T30", "You now have" );
+define( "LANGUI_PLUS_T31", "Gold" );
+define( "LANGUI_PLUS_T32", "currently you dont have any gold" );
+define( "LANGUI_PLUS_T33", "Plus function" );
+define( "LANGUI_PLUS_T34", "Description" );
+define( "LANGUI_PLUS_T35", "Action" );
+define( "LANGUI_PLUS_T36", "Plus account" );
+define( "LANGUI_PLUS_T37", "Immediately" );
+define( "LANGUI_PLUS_T38", "Days" );
+define( "LANGUI_PLUS_T39", "Production: Lumber" );
+define( "LANGUI_PLUS_T40", "Production: Clay" );
+define( "LANGUI_PLUS_T41", "Production: Iron" );
+define( "LANGUI_PLUS_T42", "Production: Wheat" );
+define( "LANGUI_PLUS_T43", "Complete construction orders and research in this village immediately. (Does not work for Palace and Residence)" );
+define( "LANGUI_PLUS_T44", "1:1 Trade with the NPC merchant" );
+define( "LANGUI_PLUS_T45", "Finish all troop trainings immediately." );
+define( "LANGUI_PLUS_T46", "in the current village all troops training orders are completed immediately, this feature not exists in the wonder land village" );
+define( "LANGUI_PLUS_T47", "Invite Player" );
+define( "LANGUI_PLUS_T48", "Deposit Gold in Bank" );
+define( "LANGUI_PLUS_T49", "Withdraw Gold From Bank" );
+define( "LANGUI_PLUS_T50", "Gold amount to Deposit" );
+define( "LANGUI_PLUS_T51", "Only numbers can be entered" );
+define( "Your_Coupon", "Your Coupon Code : " );
+define( "LANGUI_PLUS_T52", "This is more than Your Gold Balance!" );
+define( "LANGUI_PLUS_T53", "Please enter a quantity of gold" );
+define( "LANGUI_PLUS_T54", "Coupon Code  " );
+define( "LANGUI_PLUS_T55", "Please enter Coupon Code" );
+define( "LANGUI_PLUS_T56", "Done,Gold Added to your account" );
+define( "LANGUI_PLUS_T57", "Coupon Code is not Correct" );
+define( "LANGUI_PLUS_T58", "You can Move your gold between our servers" );
+define( "LANGUI_PLUS_T59", "Please enter your coupon code" );
+define( "LANGUI_PLUS_T60", "Fee  :  " );
+define( "GOLD_NUM", "GOLD Value  :  " );
+define( "ERROR_ADAD", "Empty Gold Value " );
+define( "Lock6", "This module is currently inactive" );
+define( "LANGUI_PLUS_goldfew", "The minimum amount to deposite is :   " );
+define( "LANGUI_PLUS_goldfew2", "   " );
+?>

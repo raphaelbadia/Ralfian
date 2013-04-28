@@ -1,34 +1,38 @@
-HR+cPq/cJHHDCRPR75tODmKwvg/Mn6z5FZ8exeYijwfwhLLTVvgrLUmKp2hnynHkz2XK1nR6I3Hn
-pGxooywNr8Evo56nj/R1OZDjDwy4PfMojxjUWztqRWXtD32Zo6AiWahDZhW2aDOAJT6p2T0RfMp9
-Go3NpQjBlBQwVDPN0GLKq7EGcvA2r4IVpubt4K59UTApqNNveuzOjU/uXqI4Fc5ddZRPgNkyiLC7
-5b4a8bOou+ZbMUE8oJrPgJNkKsHkuLGGFSEBMjQ3nQzaxwxRIzP4zEkBbCEs/p9i/pkPcgcWQJXc
-wzg9Ld5x3p7SuPB31YDFXG0VVgK6r9VUxPo5lXkioGaes/g+1aSkfERBQBVSEBBIQp7eXUbdlvJ2
-V0ZV14pS7+j1FtsomAri5XKNvwr5/vkH6xSVlFof7ktXqXfvb4UdZE6c+JDgU8zFARj1K/BnX4Lk
-hXYrnNgWMhLBr+YL1LTt3GZq54mUxMCukT7C5Bz09fM+6eGN8TNrSLKOy7bL1R8/hS0V7+poCSMM
-QbHnZFH2c33ARp3c4qTwYi9f8pL6Te8F4RpL5zLw3N9sspJ+IHx3I3h19uITLhWI0fA8+gIHbFVG
-KCa7pTxOQxQVvg4lFMNYl82xBGy794FC84l3a8+q1VU2XX51r59/2e1pvpTYaE1gnV1DB94OVnze
-3NfRSNLNGCXv4hff/NU1KDNQpQ+soNR9QJg637ruztkRxEwSRl1PElqW0Bodx//XLRvrGtAedxDG
-uJONbDT/to0nE+EIcCZN8OzRoWWgM3WS3qIsxFe0N7CJYyRTBBGmbL3X1Mpmpj6e0gC/6PR9z+ll
-4f5S/ySI82jX7agxu8EprSWHcuSnuj7FMs1XWpJ4EJqLtvN8CLGbpPHj+1lwd0W8lCjaeVbOvA8J
-ig+1Y9BmRoVJyhm8w0/tUyMdKXXQlUT7aqytD1XWkafiocFMKlP8+PCTi0RkXjzgcZJjDyfNW68a
-6z9WjHc2jRHQl6PFKfc9Ln5FaiKqcmROm+6GPshfdsSEvGOICd9iHU+iCldg6VQwyTa2BKA9qpxV
-bdbg067pSZdyW/81oCpgDo7T2fcKjk19mFkpUJT4NrkdK+b3dOfJGR7d3bE8OAnnHdiVWu34DqpQ
-0Mptb/bcL6elhM3ixEp2E/RN6yD6BWU+TP4mLM1OUcpmu0AUJeVmeDlT5EEWOP1vP/BWe9dYCT0X
-bYGklH+R381NkZBCI3rOMawWvH/qFJfmL0Q3bqSFD9+QKQtYU6AOnJ86UHGj21gcyGxXiXk8fQVw
-2cTTXbpL3B+w4if2xBv0bsMfPft6kwT2hzvLCd5kuBnX1x6C6XYRpSUD8fxnYbP/U52kzmW9Lg5t
-rOcmrlrIwUU7RQRqmpYOIGAI83NQbULtFk2AoyPIqWmUZPTxx+BTDUicWyxQCp2hD4oaPC7dNBSO
-qV49zjSzkhMUGngKi910LKrWYI6NEfeM7M+W/WnRbo5DZJ4pdAyrMNRO7idTPLA83ilsA6y4fSdA
-34j1mm7frNfdyO0tUE4GdEWrC11meyRVQmi+5LW6v5msOhUeuKKvC/deKCD4IoQTJ8SjNQOeip2D
-y0EX36MSXq7uqGO30OsHEVRqaQRp3n5H7e1cDAZ5wmq+rLrbW6BJ2jezB8DYCPI0+TLATudIKUgO
-Qh2rkLvxzchPW/5YwWNv1RhNNPWTq0fsclITW56/xBhm4/tXvbYhLvAqmeqfhTup7EFisN16RI8N
-cpCzOwiPkR3MDjFXxJB3WIhB5ImEUClOfu/XOWkGJ7OLB72PEEvSNw3Z56dR7WnAPanDFxs3wYEu
-fVWJ8xk2HUbA9Teim2xNdk5BWsoO6AwmLV7eCj3mycezxUYZWzdAsXapyxlti5/4YBmrGgspR8Ol
-2tpA9R8aj88n7bIim+MhJhoISunzzAwOUeuDA1BlJf7cM6niRYUc77g/RmsE5HRmhRdntfB88ra1
-lD250zBBXVIUD84qGQT0GzerydX3aX6shLK/OrYeLdxJmcyvTNxiL8q+GxICiA0EAe47Hm7b6fE5
-g9uM4PFPITkpXrz5bT76XhP6NxpfZ1oiPgmOJD0lt3OoQo/dFZSMQQiETIvv82pwd4wnQimN3N/x
-PNxMtd1oRX29Q5n8azN+SBYI1gYQlSEUS3rFRu0R9Apc8IjbknoomCzh/rsKXGkUPc+LbW48cKp+
-bj8zlEg1IJbtvW/8HFUEajWbfDZlmPz0VBU/CQCSk13ymlFDrsXZcyXi+VFMJpJM3tjO6hEnXLr1
-wvNmLGWBw5jEdTDnZ7Hjrh/gednCAJ+HP/7ZwNa9E+xi0BZSfa3ZV4ZkgtCTtioAkVa37KLmlNvo
-zLcXkFKXLZye+FD2osujS0V2i2RfjyczB1RhHMjv4iLWHq472mfS9NGzMyutlnKdpRtYs9Z9NWHi
-xj6xHSGKBTqRJ+ld9t6UEErmV4xrSnUW0ktKWA95aLvgUlkp1mQDI5V9veEzdpvu1eIZa/r49eKP
-94GdNJlTQAwM7Nwf5YEhHKW6OG==
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_TRAINING_T1", "is how you start ..." );
+define( "LANGUI_TRAINING_T2", "... and so can be a village later." );
+define( "LANGUI_TRAINING_T3", "At first you only build one building in the small village. <br> <br> and you will find how you can upgrade your village to become strong and prosperous in the next page." );
+define( "LANGUI_TRAINING_T4", "back" );
+define( "LANGUI_TRAINING_T5", "forward" );
+define( "LANGUI_TRAINING_T6", "1 - choose the field of raw resources. " );
+define( "LANGUI_TRAINING_T7", "2 - and then develop the field of raw resources. " );
+define( "LANGUI_TRAINING_T8", "in the Tatar war, there are four types of resources: wood, clay, iron and wheat. <br> <br> before work to take care of buildings Baqratk you upgrade some of the raw resource fields." );
+define( "LANGUI_TRAINING_T9", "1. chose a building site. " );
+define( "LANGUI_TRAINING_T10", "2. then the construction of buildings. " );
+define( "LANGUI_TRAINING_T11", "care after the production of raw resources, you can start in the development of your village. <br> <br> in the warehouse and store grain, you can store a larger amount of raw resources. bunker protects your resources from looting the enemies." );
+define( "LANGUI_TRAINING_T12", "your village and your neighbors" );
+define( "LANGUI_TRAINING_T13", "Tatar War is a game on the Internet. You play in the network with thousands of players in the world of war Tatar. <br><br> Players of the neighborhood have particular importance. You can get a glimpse of them by a good map." );
+define( "LANGUI_TRAINING_T14", "Navigation bar" );
+define( "LANGUI_TRAINING_T15", "<b>Ocean:</b>Here you will find the map of the village and fields of your resources of raw" );
+define( "LANGUI_TRAINING_T16", "<b>Center:</b>In the center of the village you can create buildings." );
+define( "LANGUI_TRAINING_T17", "<b>Map:</b>Your country and your neighbors here." );
+define( "LANGUI_TRAINING_T18", "<b>Statistics:</b>Your position and arrangement of all the players." );
+define( "LANGUI_TRAINING_T19", "<b>Reports:</b>Information on events in your village." );
+define( "LANGUI_TRAINING_T20", "<b>Messages:</b>Send and receive messages." );
+define( "LANGUI_TRAINING_T21", "You know now the most important things about the war Tatars. you can start playing after registration." );
+define( "LANGUI_TRAINING_T22", "Register" );
+define( "LANGUI_TRAINING_T23", "training" );
+define( "LANGUI_TRAINING_T24", "village" );
+define( "LANGUI_TRAINING_T25", "sources" );
+define( "LANGUI_TRAINING_T26", "buildings" );
+define( "LANGUI_TRAINING_T27", "neighbors" );
+define( "LANGUI_TRAINING_T28", "navigation" );
+?>

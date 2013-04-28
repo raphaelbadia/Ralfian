@@ -1,11 +1,15 @@
-HR+cPri2tTuHrYKH+Bn8/MAuGhyDN5OYdr1ZveYi1tDAmYAbua3X7uOWeZAyLupbd0aUteCi8a5M
-3NUwMW3Z2s7G6lnmB3atjxUbnZR2TbtTgtIOrEofOn8Sp3J9KxmUujKnx1cgragaTwwVtJ+LHdzA
-3jCqXmsYdvJN3iZXPlxxkGK+9DreHjtgdZ8MYsQin+ePcgyBoVHTi7CofVJKTzDsc5VaUUPvkiL8
-KBHyDUDlZtg4GKl9Vq/9gJNkKsHkuLGGFSEBMjQ3nK9a9vZuFu+z4JCNl/EU1pHPPODIDi+s/1vx
-vXCDbOHJAoE6EKifn5ggJJ1k4eTdh3Zp/mYoig8K8ZyM+CA9Rb2MN37cjqyO8j+uhgyI8gwg4P9B
-JQ+KgzmYDlLbT25SrI8vU1VHUJBUWHjUCIc/IiJiiulukNkWcVfwcPpdM0mKtErU3ya7t516XFAP
-KUHmC3eAEVXsqUN2whW7F+6878pPG8MAUYDxZiFkTRLxjoSN0DxE+xx8TgVvS2oNjXmo4WUWSuvC
-1/RuSG9vEl495ebf7VInc9DX5lOTs2bfGH5aZ80dmGE0tq4n+GLsZXNzh6LL712lIR1dcWjEM6np
-PETDX9yzYRZ8PNRuOra25uIPHwHBlnntzycDSh+Y3gpGboWXy+hX7doCQtDLEQkz1ZqtDsuYsDdx
-RdFS5s3EqvO87deM/1h3AxwMcMJ5EvzEZhn3j/5eNpR/8B11LoAC59zkk4ZlEmazpEud83+uHiYA
-YffDqdsFkk5FQ2SZgZOojjc7HZOgN+rTgQCtulsZyxLklm==
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+
+define( "LANGUI_LOGOUT_T1", "You have been logged out!" );
+define( "LANGUI_LOGOUT_T2", "Thank you for the visit" );
+define( "LANGUI_LOGOUT_T3", "If other people use this computer too, you should delete your cookies for your own safety:" );
+define( "LANGUI_LOGOUT_T4", "»delete cookies" );
+?>

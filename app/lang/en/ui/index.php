@@ -1,16 +1,21 @@
-HR+cPmcfzdY4Yyj/HHPZMwqYPRnDlPZrAXZpVUD5u1NBZG27t27qWr1CkoSujtBJR2yeqY6Ar7O4
-0tBdHIQjGOwhL2miQax+u7P1dssrJAIvozqjd+MNwyrFQQhNe5if2UuIqpfu2KhqHeoqPK1YKveg
-HfdUam7my2gfqJFP2AGB/2Zxa90Ps4GkkcX0uFXmxQqZ+rZxyhx41eO81FYjeYisfJhrfD2dykXU
-N8sdKaZU8XE98kHNiMx1G5QfDUvJP6xXL10zmujQreF5zsIw0N5Vzkh4RKx0y/Qxu0fcvasChKjN
-WvsBbwmBiayQySbfRhuPvugBCiu26Y7IMp7gq4G0wldVgefihxqt9+T1DWBPXgCgi2QwbBVAj4so
-elCmGvfNsXvsk8LRDFgTkJNamVSN1bt93a/EdM/mpx6b0i1ZVvslYZPOVN9J5Yc6tu6rRoK3iAcR
-xJN90q7qnR9XvRZvpcy9UG/2ZS+12+j82HARR5CWwEGmgGP75k44fKio0+yLyd2+/4TNBXcXo9YH
-RLMkyM04hbZ8FPH53JIFMKgOLgIle/Vu2Hm6kS2Qjzw6Eml9jMhikseJqgt7xEUzD92SKK0Vc5Pz
-6dy5D8rqb3Q+Y7+6hn/hJ8KoacvOMrOQ0G6IBqLydx7VQ+x1EF9uU6EHN3xjAFObT1quFMUa1nPF
-sWw5j1FsfJJEptG4T5AXYcfZQIy5gHQpxfb+w810qLcOd3saHf8Z34YFfcI93JcZdEaNLfsORhf7
-QiicadHWQ5OxtDNupkVpKZsFIGozbRjT7zG2EY+R69ruL35yEVl0Nc1prQbot+OK+gu1PgUfP0UD
-tdt/yrjZw/szSzlDycr7hQttWqLppJRbn7KXGuIHpdmQJ0AQyF48GEsSg5tJaoWoTw7V6xr8/2Kx
-DGSGAhE9Yye/c0w4L1m8j2vffV9p0VASsLOcL3uJl5cEhg9fl7XE4ibt6eLih/xlzI3sQK3N4194
-jPyvn21Kt/zmV8irliPEUwpYKtlGdFGaKYA2G9ZrNZaqRvbD1gBG0dVxUbGIo6LVEoDJQst4lg4o
-WXEIaZDDJLU7JPz8mFlq9sag3j1hflkuHwiI85IlqTkjiKfDOvTZUVW2vSWUDGT++sM7LNAa0/jF
-9SV5ZMzC8JJ/MGg+CqKJGni1nnU/AF/5kWu=
+<?php
+#################################################################################
+##                                                                             ##
+##              -= YOU MUST NOT REMOVE OR CHANGE THIS NOTICE =-                ##
+##                                                                             ##
+## --------------------------------------------------------------------------- ##
+##                                                                             ##
+##  Project:       TravianZ                                                    ##
+##  Filename:      footer.phtml                                                ##
+##  Developed by:  Advocaite                                                   ##
+##  License:       Creative Commons BY-NC-SA 3.0                               ##
+##  Copyright:     Advocaite (c) 2011 - All rights reserved                    ##
+##                                                                             ##
+#################################################################################
+
+$srv_name = $this->appConfig['page'][$this->appConfig['system']['lang']."_title"];
+
+$lang['Title'] = "$srv_name";
+$lang['About'] = "<i>About ".$lang['Title']."</i><br />Choose between three tribes and build your own empire, recruit a mighty army, and fight with your allies for game world hegemony!";
+$lang['Name'] = "Name";
+$lang['Password'] = "Password";?>

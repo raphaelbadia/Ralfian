@@ -1,62 +1,90 @@
-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
+﻿<?php
+
+###############################  S  T  A  R  T   ################################
+##              -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-                 ##
+##  Version        2.0.0                                                       ##
+##  Developed by:  Saeed                                                       ##
+##  License:       Travian.100100@yahoo.com                                    ##
+##  Copyright:    Travian.100100@yahoo.com All rights reserved.                ##
+##                                                                             ##
+#################################################################################
+
+
+
+define( "LANGUI_HLP_T1", "دید کلی" );
+define( "LANGUI_HLP_T2", "راهنمای داخل بازی، این امکان را به شما می دهد که مطالب مهم را هر لحظه که خواستید به راحتی بیابید." );
+define( "LANGUI_HLP_T3", "قوات" );
+define( "LANGUI_HLP_T4", "ساختمانها" );
+define( "LANGUI_HLP_T5", "لشکریان" );
+define( "LANGUI_HLP_T6", "منابع" );
+define( "LANGUI_HLP_T7", "نظامی" );
+define( "LANGUI_HLP_T8", "زيرساخت ها" );
+define( "LANGUI_HLP_T9", "آموزش ها و سئوالات تکراری" );
+define( "LANGUI_HLP_T10", "پنجره جدید" );
+define( "LANGUI_HLP_T11", "راهنمای بازی اطلاعات مختصری از ساختمانها و سرباز های بازی می باشد" );
+define( "LANGUI_HLP_T12", "لشگر" );
+define( "LANGUI_HLP_T13", "ساختمانها (منابع)" );
+define( "LANGUI_HLP_T14", "ساختمانها (نظامی)" );
+define( "LANGUI_HLP_T15", "ساختمانها (زيرساخت ها)" );
+define( "LANGUI_HLP_T16", "قدرت حمله" );
+define( "LANGUI_HLP_T17", "قدرت دفاعی در برابر پیاده نظام" );
+define( "LANGUI_HLP_T18", "قدرت دفاعی در برابر سواره نظام" );
+define( "LANGUI_HLP_T19", "سرعت" );
+define( "LANGUI_HLP_T20", "فرسنگ در ساعت" );
+define( "LANGUI_HLP_T21", "قابلیت حمل" );
+define( "LANGUI_HLP_T22", "هزینه نگهداری" );
+define( "LANGUI_HLP_T23", "مصرف گندم" );
+define( "LANGUI_HLP_T24", "مدت زمان تربیت" );
+define( "LANGUI_HLP_T25", "پیش نیاز" );
+define( "LANGUI_HLP_T26", "هیچ" );
+define( "LANGUI_HLP_T27", "هزینه </b> و <b> مدت زمان ساخت </b>  برای سطح 1" );
+define( "LANGUI_HLP_T28", "حساب پلاس" );
+define( "LANGUI_HLP_T29", "فواید حساب پلاس" );
+define( "LANGUI_HLP_T30", "در انتظار ماندن ساختمان" );
+define( "LANGUI_HLP_T31", "نقشه بزرگ" );
+define( "LANGUI_HLP_T32", "صلات مباشرة مختارة" );
+define( "LANGUI_HLP_T33", "دفترچه یادداشت" );
+define( "LANGUI_HLP_T34", "سرعت تولید چوب" );
+define( "LANGUI_HLP_T35", "با این ویژگی حساب ، شما قادر خواهید بود تا میزان تولیداتتان را به ازای 225% از میزان کل تولیدات چوب دهکده هایتان را افزایش دهید." );
+define( "LANGUI_HLP_T36", "سرعت تولید خشت" );
+define( "LANGUI_HLP_T37", "با این ویژگی حساب ، شما قادر خواهید بود تا میزان تولیداتتان را به ازای 225% از میزان کل تولیدات خشت دهکده هایتان را افزایش دهید." );
+define( "LANGUI_HLP_T38", "سرعت تولید آهن" );
+define( "LANGUI_HLP_T39", "با این ویژگی حساب ، شما قادر خواهید بود تا میزان تولیداتتان را به ازای 225% از میزان کل تولیدات آهن دهکده هایتان را افزایش دهید." );
+define( "LANGUI_HLP_T40", "سرعت تولید گندم" );
+define( "LANGUI_HLP_T41", "با این ویژگی حساب ، شما قادر خواهید بود تا میزان تولیداتتان را به ازای 225% از میزان کل تولیدات گندم دهکده هایتان را افزایش دهید." );
+define( "LANGUI_HLP_T42", "انهاء بناء المباني والبحث حالا" );
+define( "LANGUI_HLP_T43", "في القريةِ الحاليةِ كل أوامر البناء والبحث في الأكاديميةِ والحداد و مستودع الاسلحة تنتهي فورا. أما السكن أو القصر بالاضافة الى القرية التي تبنى فيها معجزة العالم فهي مستثناة من خاصية التفعيل السريع" );
+define( "LANGUI_HLP_T44", "تعدیل منابع" );
+define( "LANGUI_HLP_T45", "قادر خواهید بود تا بدون ارائه پیشنهاد در بازار و در کمترین زمان ممکن ، منابع خود را تعدیل نمائید" );
+define( "LANGUI_HLP_T46", "لینک ها" );
+define( "LANGUI_HLP_T47", "در قسمت لینک ها ، شما لینک های مهم را جهت دسترسی آسانتر قرار می دهید" );
+define( "LANGUI_HLP_T48", "مثال برای لینک" );
+define( "LANGUI_HLP_T49", "عنوان لینک" );
+define( "LANGUI_HLP_T50", "آدرس لینک" );
+define( "LANGUI_HLP_T51", "دفترچه مخاطبین" );
+define( "LANGUI_HLP_T52", "توضیخ : بی نهایت لینک ، باز شدن در پنجره جدید" );
+define( "LANGUI_HLP_T53", "آمار بازیکنان برتر" );
+define( "LANGUI_HLP_T54", "اهدای مدال های روزانه" );
+define( "LANGUI_HLP_T55", "گروه ها" );
+define( "LANGUI_HLP_T56", "توسعه" );
+define( "LANGUI_HLP_T57", "رتبه بازیکن در آمار" );
+define( "LANGUI_HLP_T58", "مهاجم" );
+define( "LANGUI_HLP_T59", "امتیاز مخصوص" );
+define( "LANGUI_HLP_T60", "مدافع" );
+define( "LANGUI_HLP_T61", "امتیاز ذفاعی" );
+define( "LANGUI_HLP_T62", "غارتگر" );
+define( "LANGUI_HLP_T63", "غارت  منابع" );
+define( "LANGUI_HLP_T64", "بعد از اهدای مدالها به تغییر پروفایل خود مراجعه کنید تا کد های آن را در پروفایل خود قرار دهید" );
+define( "LANGUI_HLP_T65", "آمار 10 اتحاد برتر" );
+define( "LANGUI_HLP_T66", "اهدای مدال اتحاد ها هر روز" );
+define( "LANGUI_HLP_T67", "اتحاد" );
+define( "LANGUI_HLP_T68", "ارتقای جمعیت در بین تمامی بازیکن ها" );
+define( "LANGUI_HLP_T69", "امتیاز هجومی" );
+define( "LANGUI_HLP_T70", "بعد از اهدای مدالها به تغییر پروفایل  اتحاد خود مراجعه کنید تا کد های آن را در پروفایل خود قرار دهید" );
+define( "LANGUI_HLP_T71", "بازگشت" );
+define( "LANGUI_HLP_T72", "ادامه" );
+define( "LANGUI_HLP_T73", "بازی بر روی مانده است(00:00:0?)" );
+define( "LANGUI_HLP_T74", "" );
+define( "LANGUI_HLP_T75", "پایان یافتن آموزش ارتش " );
+define( "LANGUI_HLP_T76", "" );
+?>

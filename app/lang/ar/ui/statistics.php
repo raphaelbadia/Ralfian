@@ -1,43 +1,68 @@
-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
-jWuuSPi=
+﻿<?php
+
+define( "LANGUI_STAT_T1", "آمار<br><br>" );
+define( "LANGUI_STAT_T2", "<br>بازیکن" );
+define( "LANGUI_STAT_T3", "اتحادها" );
+define( "LANGUI_STAT_T4", "دهکده ها" );
+define( "LANGUI_STAT_T5", "قهرمان ها " );
+define( "LANGUI_STAT_T6", "ناتارها" );
+define( "LANGUI_STAT_T7", "عمومی" );
+define( "LANGUI_STAT_T8", "آیا از حذف بازیکن مطمئن هستید ؟ ?" );
+define( "LANGUI_STAT_T9", "بزرگترین بازیکن ها" );
+define( "LANGUI_STAT_T10", "تاپ 10" );
+define( "LANGUI_STAT_T11", "مدافع" );
+define( "LANGUI_STAT_T12", "مهاجم" );
+define( "LANGUI_STAT_T13", "اتحاد" );
+define( "LANGUI_STAT_T14", "جمعيت" );
+define( "LANGUI_STAT_T15", "طلا" );
+define( "LANGUI_STAT_T16", "طلا" );
+define( "LANGUI_STAT_T17", "مدیــر بازی" );
+define( "LANGUI_STAT_T18", "تنظیم طلا" );
+define( "LANGUI_STAT_T19", "حذف بازيکن" );
+define( "LANGUI_STAT_T20", "شماره:" );
+define( "LANGUI_STAT_T21", "نام" );
+define( "LANGUI_STAT_T22", "بزرگترین اتحادها" );
+define( "LANGUI_STAT_T23", "امتياز" );
+define( "LANGUI_STAT_T24", "بزرگترین دهکده ها " );
+define( "LANGUI_STAT_T25", "دهکده" );
+define( "LANGUI_STAT_T26", "مختصات" );
+define( "LANGUI_STAT_T27", "تعديل منابع" );
+define( "LANGUI_STAT_T28", "بزرگترین قهرمان ها" );
+define( "LANGUI_STAT_T29", "قهرمان" );
+define( "LANGUI_STAT_T30", "تجربه" );
+define( "LANGUI_STAT_T31", "بازیکنان ثبت نام کرده:" );
+define( "LANGUI_STAT_T32", "بازیکنان فعال:" );
+define( "LANGUI_STAT_T33", "بازيکنان آنلاين:" );
+define( "LANGUI_STAT_T34", "نژادها" );
+define( "LANGUI_STAT_T35", "ثبت نام کرده" );
+define( "LANGUI_STAT_T36", "درصد" );
+define( "LANGUI_STAT_T37", "برترين مدافعين" );
+define( "LANGUI_STAT_T38", "برترين مهاجمين" );
+define( "LANGUI_STAT_T39", "تاپ اتحاد در دفاع" );
+define( "LANGUI_STAT_T40", "تاپ اتحاد در حمله" );
+define( "LANGUI_STAT_T41", "10 بازیکن برتر" );
+define( "LANGUI_STAT_T42", "10 اتحاد برتر" );
+define( "LANGUI_STAT_T43", "اطلاعات بازی" );
+define( "LANGUI_STAT_T44", "مهاجمین هفته" );
+define( "LANGUI_STAT_T45", "مدافعین هفته " );
+define( "LANGUI_STAT_T46", "پيشرفت کننده هفته" );
+define( "LANGUI_STAT_T47", "دزدان هفته " );
+define( "LANGUI_STAT_T48", "منابع" );
+define( "LANGUI_STAT_T49", "نژاد" );
+define( "LANGUI_STAT_T50", "رتبه" );
+define( "LANGUI_STAT_T51", "لغو بازداشت بازیکن" );
+define( "LANGUI_STAT_T52", "بازداشت بازیکن" );
+define( "LANGUI_STAT_T53", " زمان باقی مانده تا اهدای مدال : " );
+define( "LANGUI_STAT_T54", " روز " );
+define( "LANGUI_STAT_T55", " ساعت " );
+define( "LANGUI_STAT_T56", " دقیقه " );
+define( "LANGUI_STAT_T57", " ثانیه " );
+define( "LANGUI_STAT_T58", " هفته بعدی :" );
+define( "LANGUI_STAT_T59", "ارسال پیام" );
+define( "LANGUI_STAT_T60", "نژاد" );
+define( "LANGUI_STAT_T61", "وضعیت" );
+define( "LANGUI_STAT_T62", "کلوپ طلایی" );
+define( "LANGUI_STAT_T63", "غیرفعال" );
+define( "LANGUI_STAT_T64", "فعال" );
+define( "LANGUI_STAT_T65", "فعال سازی" );
+?>

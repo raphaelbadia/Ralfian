@@ -1,18 +1,21 @@
-HR+cPpg5FxCQKOI4zpsgaA6Bw6QE4MV9PIYhmhEiAYDjRbewAY9wyJ9tD/m80U2KaAsThcvRtvtv
-kH7dmVpidCEPrHCMMOyQ0fYLOd/zyQH9nMdM1FC4fLHKQeGXIS4JHtgeMoyzNeLZHsPcPmReN5sl
-KkFNW6CYk8gjA0yJQRv5vE5IV4MQJgjukVIiggoAGmki8qUQb3bEDJNjmJuz58fiQMJqaUOYBa+D
-NIYJKzn4tp+kMMtWEDQjgJNkKsHkuLGGFSEBMjQ3nQzVHJgQK1FxxqbAaSFESp8EkkTjsWNre8qu
-aK4krseXl1AYGcM3hoAxaf875UiIOGO/ZcENIAc64g1nzJGicl8cv+6lpo0db+Trk+cVL1CgLscr
-mPYn0iZDq4rzWhj4ecLbBx/XnHj3n9x59i2DoBWfGolKAYzfdSr0o6jipZuNJs/GEgw2R8fUL2bS
-ewUP6sND4BxavazV5kDHvHzt8+CrMuepD8p0ScQDTmLiKXtD9MleSoE8pqqzHo0gSS9rKi/pi4he
-xXB7515q5uwCP4JOYpEDmdkMDjLPmFSJ0xTt1YB75fvYmtBuEP/edZK1N7bmKntRFJNsnqui/L8g
-BYAfaWGudHPdqRk7H0IEiRFEHJ4VkZS7n9j4riw1SvUT1VSfH6TvLpJzG5GNWTPvXVcBMg9avmZD
-/ccWIZMY7C++wHd1ZU/hVWA/EcYUvms//4Fjof2QQmefXYmsJN/sX2tYjQ+ACq2kG0EXh7FmkJct
-zXy3odezyLGuL+cI/670AfIgXWG568O9Tx70garElgogtRGbfVT8MzJdgmJg2HhFN91hQh2zFfNc
-CAmlflDqMaaatTxB+GYQnwaA52ugR0dyRqLKqmgGmLVjOQ2SgjwxJGO4cZ8MJWfO+7QLsrnETpY/
-3BIn9Tvj3w+SJzmzSW64elI4NeUCP3EtPg88aBrHDksUowScqcHgd0oiogrIGcQCr/+pAz8r4V0D
-MFv5RCLcBWuQHG2L+0SpAbCHgwyrxULCuu9TmE9laeN/OVkwfUg8gBPPM2FqgfS36w+jj23EDLiX
-2sRf7DKqp4nyhOcuu1upHn7v/LP9IpNdGX567o49GfH2pT3VbYMpVGMAseqo8eKMAG0XpBurRIFz
-RIr5q1NGdzVNx+GTMGh06w4Lc0M7JTnNLUYGD1thJzgQgkrmekpJUubC9SRxjLH/wjSztTpezBS5
-15k0YEm/htgS+y1WMdmrvI9e6e0mEnBFkVqkOqhU3zmwYfWF1WwHOC/3o1gGwnzrHRk5FWwosOr1
-KqVUZznFWvuCUG6HMY8EnFKi4i9OaHy1z2bNvp4M1Jtfp0msh7Dvv14=
+﻿<?php
+
+define( "LANGUI_VIL1_T1", "وفاداري" );
+define( "LANGUI_VIL1_T2", "مرکز دهکده" );
+define( "LANGUI_VIL1_T3", "لشکرکشي" );
+define( "LANGUI_VIL1_T4", "حمله" );
+define( "LANGUI_VIL1_T5", "حمله" );
+define( "LANGUI_VIL1_T6", "نیروهای کمکی در حال رسیدن" );
+define( "LANGUI_VIL1_T7", "پشتيباني" );
+define( "LANGUI_VIL1_T8", "نیروهای هجومی" );
+define( "LANGUI_VIL1_T9", "نیروهای کمکی" );
+define( "LANGUI_VIL1_T10", "نیروهای هجومی در واحه ها" );
+define( "LANGUI_VIL1_T11", "نیروهای کمکی در واحه ها" );
+define( "LANGUI_VIL1_T12", "توليدات" );
+define( "LANGUI_VIL1_T13", "در ساعت" );
+define( "LANGUI_VIL1_T14", "لشکريان" );
+define( "LANGUI_VIL1_T15", "هیچ" );
+define( "LANGUI_VIL1_T16", "ساختمان" );
+define( "LANGUI_VIL1_T17", "لغو کردن" );
+define( "LANGUI_VIL1_T18", "ساحت فوري\r\n هزينه 2 طلا" );
+?>

@@ -1,140 +1,123 @@
-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
-vAan2UpH
+﻿<?php
+
+###############################  S  T  A  R  T   ################################
+##              -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-                 ##
+##  Version        2.0.0                                                       ##
+##  Developed by:  Saeed                                                       ##
+##  License:       Travian.100100@yahoo.com                                    ##
+##  Copyright:    Travian.100100@yahoo.com All rights reserved.                ##
+##                                                                             ##
+#################################################################################
+
+
+
+define( "LANGUI_MANUAL_T1", "نژادها" );
+define( "LANGUI_MANUAL_T2", "ساختمان ها" );
+define( "LANGUI_MANUAL_T3", "سئوالات متداول" );
+define( "LANGUI_MANUAL_T4", "5 امپراطوری در بازی وجود دارند ، مغول ها ، پارس ها ، توتن ها ، رومی ها و گول ها ، که هر کدام از آنها معایب و مزایای خود را دارند،حتی سربازانی متفاوت دارند ، شما می توانید یکی از این قبایل را انتخاب کنید" );
+define( "LANGUI_MANUAL_T5", "نژاد مغول یکی قوی ترین نژاد ها در حمله است. سربازان خونخوار این نژاد به شدت وحشی هستند و از مرگ هراسی ندارند." );
+define( "LANGUI_MANUAL_T21", "نژاد پارس قوی ترین سربازان را دارد ، سربازان بی باک و با شهامت که همیشه فرمانبردار هستند." );
+define( "LANGUI_MANUAL_TR9", "نژاد عثمانی قوی ترین سرباز دفاعی را دارد ،سربازان نسبتا ارزان و به صرفه که همیشه در دسترس شما هستند" );
+define( "LANGUI_MANUAL_T6", "سربازان مغول" );
+define( "LANGUI_MANUAL_T7", "قدرت حمله" );
+define( "LANGUI_MANUAL_T8", "قدرت دفاع در برابر پیاده نظام" );
+define( "LANGUI_MANUAL_T9", "قدرت دفاع در برابر سواره نظام" );
+define( "LANGUI_MANUAL_T10", "سرعت" );
+define( "LANGUI_MANUAL_T11", "فرسنگ در ساعت" );
+define( "LANGUI_MANUAL_T12", "ویژگی ها" );
+define( "LANGUI_MANUAL_T13", "غارت دهکده ها : غارت از مخفیگاه ها به میزان" );
+define( "LANGUI_MANUAL_T14", "ساخت و ساز همزمان  مزارع و معادن, ساختمان" );
+define( "LANGUI_MANUAL_T15", "افزایش قدرت دفاعی از طریق افزایش سطح دیوار شهر" );
+define( "LANGUI_MANUAL_T16", "تاجران با تجربه تر که قادرند منابع بیشتری حمل کنند" );
+define( "LANGUI_MANUAL_T17", "پیاده نظام و سواره نظام بسیار قوی" );
+define( "LANGUI_MANUAL_T177", "پیاده نظام و سواره نظام فوق العاده قوی" );
+define( "LANGUI_MANUAL_T18", "توسعه گران و طولانی است" );
+define( "LANGUI_MANUAL_T188", "توسعه مناسب و بصرفه است" );
+define( "LANGUI_MANUAL_T19", "از هر منبع " );
+define( "LANGUI_MANUAL_T20", "فرسنگ در ساعت" );
+define( "LANGUI_MANUAL_TR8", "امپراطوری عظیم پارس بی شک معتبر ترین امپراطوری باستان است.داشتن فرهنگ غنی و سرشار از تفکر نظیر تخت جمشید و آئین به جا مانده از ویژگی های اصلی این امپراطوری است. در سرزمین های این امپراطوری قومیت های متفاوتی مثل ترک ها ، لر ها ، زندی ها و بلوچ ها زندگی می کنند.داشتن روحیه تلاش و جنگندگی در بین سربازان این سرزمین بیشک باعث شکست ناپذیری آنها خواهد بود" );
+define( "LANGUI_MANUAL_T22", "سربازان پــارسی" );
+define( "LANGUI_MANUAL_T23", "امپراطوری رومی ها که با بکار گیری نخبگان علمی در معماری و ساخت و ساز شهر ها بی نظیر هستند، سربازان نخبه که ضمن دیدن آموزش های فراوان در دفاع و حمله متناسب هستند. سربازانی با قدرت دفاعی بالا در برابر حمله سواره نظام و پیاده نظام ، از آنجایی که زمان و هزینه آموزش دادن این سربازان گران است ، تجربه و بکارگیری آنها مفید تر از سایر سربازان است. وجود سواره نام سزار در بین ارتش این امپراطوری باعث دلگرمی کسانی خواهد بود که تازه بازی را شروع کرده اند." );
+define( "LANGUI_MANUAL_T24", "سربازان رومی ها" );
+define( "LANGUI_MANUAL_T25", "پیاده نظام بی نظیر و قوی و سواره نظام متعادل" );
+define( "LANGUI_MANUAL_T27", "سرزمین یونان که انسانهای صلح دوست در آن زندگی می کردند . سربازان این امپراطوری آموزش های دفاعی بیشتری نسبت به حمله می بینند. دفاع این سرزمین از حمله آن قوی تر است. د با قرار دادن تله در سر راه سربازان مهاجم باعث دستگیری آنها می شوند.سواره نظام هایی از جنس رعد که در سرعت بی همتا و مثال نزدنی هستند. این امپراطوری به کسانی که تازه با این بازی آشنا شده اند و هنوز تجربه ای ندارند سفارش می شود." );
+define( "LANGUI_MANUAL_T28", "سربازان گول ها" );
+define( "LANGUI_MANUAL_T29", "حداکثر سرعت یک سرباز در سرور متعلق به این نژاد است" );
+define( "LANGUI_MANUAL_T30", "دیوار شهر متوسط " );
+define( "LANGUI_MANUAL_T31", "ظرفیت مخفیگاه 2 برابر  نسبت به سایرین دارند" );
+define( "LANGUI_MANUAL_T32", "منجنیق ها و ماشین های جنگی گران" );
+define( "LANGUI_MANUAL_T33", "مهاجران ارزان قیمتن" );
+define( "LANGUI_MANUAL_T34", "آلمانی های گرسنه و خونخوار که به هیچ سرزمینی امان نمی دهند ، وجود این امپراطوری در همسایگی هر سرزمین خواب را از چشمان همسایگانش می رباید، داشتن حس انتقام در بین سربازان این سرزمین ، بی باکی در حملات و کشتار بیرحمانه از مهمترین ویژگی هاست؛ سربازان ارزان قیمت و سلحشور ، که با نوشیدن لیموناد های تازه سر به هوا می شوند. دفاع این سرزمین نسبت به سایر نژاد ها ضعیف تر است.بازیکنان خبره اکثرا با بهره گیری از استعداد های سربازان این امپراطوری خود را جزء نفرات برتر قرار می دهند" );
+define( "LANGUI_MANUAL_T35", "سربازان توتن ها" );
+define( "LANGUI_MANUAL_T37", "دیوار خاکی آنها تقریبا غیر قابل تخریب است ، اما در قدرت دفاعی بی تاثیر است" );
+define( "LANGUI_MANUAL_T38", "بسیار ارزان و سریع ساخته می شوند" );
+define( "LANGUI_MANUAL_T39", "ضعیف در دفاع" );
+define( "LANGUI_MANUAL_T40", "<p>در ابتدای بازی جهت سریعتر رسیدن به وضعیت مناسب اقتصادی و رشد ، شما را با 17 ساختمان اساسی و کاربردی آشنا خواهیم کرد. منابع تولیدی هر دهکده 4 نوع است : چوب ، خشت ، آهن و گمدم که هر کدام در معادن خود برداشت می شوند.برای افزایش تولید هر منبع خام باید سطح آنها را افزایش دهید. این منابع جهت ساخت و ساز سربازان و ساختمانها خرج می شوند.<p>زمانی که شما قصد ساخت ساختمان ها را دارید ابتدا باید ملزومات و پیش نیاز های آن را تامین کنید. ساخت ساختمانها به ترتیب است و اصول خاصی ندارد</p></p>" );
+define( "LANGUI_MANUAL_T41", "ساختمان اصلی" );
+define( "LANGUI_MANUAL_T42", "معماران در ساختمان اصلی زندگی می کنند. با ارتقاي هرچه بيشتر اين ساختمان، معماران نيز سريعتر كار مي كنند و زمان ساخت ديگر ساختمان ها، كاهش مي يابد" );
+define( "LANGUI_MANUAL_T43", "مزایا نژاد" );
+define( "LANGUI_MANUAL_T44", "رومی ها : شما می توانید همزمان یکی از منابع و یکی از ساختمان ها را بسازید" );
+define( "LANGUI_MANUAL_T45", "<b>هزینه </b> و <b> زمان ساخت  </b>در سطح 1" );
+define( "LANGUI_MANUAL_T46", "پیش نیاز" );
+define( "LANGUI_MANUAL_T47", "هیچ" );
+define( "LANGUI_MANUAL_T48", "انبار" );
+define( "LANGUI_MANUAL_T49", "تمامی تولیدات چوب ، خشت و آهن در انبار نگهداری می شود. هر چه سطح انبار بیشتر باشد ، گنجایش آن بیشتر است و مواد بیشتری در آن جای می گیرد" );
+define( "LANGUI_MANUAL_T50", "انبار غذا" );
+define( "LANGUI_MANUAL_T51", "گندم حاصل از مزارع شما، در اينجا ذخيره مي‌شود و با افزايش ظرفيت انبار غذا مي توانيد گندم بيشتري را ذخيره كنيد");
+define( "LANGUI_MANUAL_T52", "مخفیگاه" );
+define( "LANGUI_MANUAL_T53", "در زمانی که به دهکده های شما حمله می شود ، مهاجم از سرزمین شما به میزان سربازانش از منابع شما غنیمت می برد ، مخفیگاه منابع شما به به میزان ظرفیتش در خود مخفی می کند تا سربازان مهاجم نتوانند انها را غارت کنند" );
+define( "LANGUI_MANUAL_T54", "گول ها : می توانند 2 برابر ظرفیت مخفیگاه ؛ منابع پنهان کنند" );
+define( "LANGUI_MANUAL_T55", "توتن ها : می توانند به میزان 66% منابع را از مخفیگاه غارت کنند" );
+define( "LANGUI_MANUAL_T56", "سفارت" );
+define( "LANGUI_MANUAL_T57", "سفارت محلی هست که دیپلمات ها در آن کار می کنند. با ساخت آن امکان پیوستن به اتحاد های مختلف برای شما بوجود می آید و با ساخت سفارتخانه سطح 3 قادر به ساخت اتحاد و دعوت بازیکنان خواهید شد (زمانی قادر به ساخت اتحاد هستید که خود عضو اتحاد دیگری نباشید؛ به ازای هر سطح سفارت قادر به دعوت 3 بازیکن جدید به اتحاد خواهید شد).");
+define( "LANGUI_MANUAL_T58", "اردوگاه" );
+define( "LANGUI_MANUAL_T59", "لشکریان دهکده شما در این مكان جمع می شوند. از اینجا می توانید آنها را براي كمك و يا حمله اعزام كنيد.");
+define( "LANGUI_MANUAL_T60", "بازار" );
+define( "LANGUI_MANUAL_T61", "در بازار می توانید منابع را با بازیکنان دیگر معامله کنید. هر قدر سطح بازارتان بالاتر باشد، تعداد تجار بيشتري خواهيد داشت و منابع بیشتری را می توانید ارسال كنيد.");
+define( "LANGUI_MANUAL_T64", "سربازخانه" );
+define( "LANGUI_MANUAL_T65", "در سربازخانه شما می توانید سربازان پیاده نظام تربیت کنید. هر قدر سطح سربازخانه بالاتر باشد، تربیت سربازها سریعتر خواهد گشت.");
+define( "LANGUI_MANUAL_T66", "اصطبل" );
+define( "LANGUI_MANUAL_T67", "فدر اصطبل سواره نظام ها تربیت می شوند. هر قدر سطح این ساختمان بالاتر باشد نیروها سریعتر آماده خواهند شد.");
+define( "LANGUI_MANUAL_T68", "کارگاه" );
+define( "LANGUI_MANUAL_T69", "در کارگاه شما می توانید ماشینهای جنگی مثل دژكوب و منجنیق را تولید کنید");
+define( "LANGUI_MANUAL_T70", "دارالفنون" );
+define( "LANGUI_MANUAL_T71", "فدر دارالفنون شما می توانید نیروهای جديدي تحقيق کنید. هر نیرویی که تحقیق کنید، قادر خواهید بود در ساختمان مربوط به آن نیرو، از نوع نیروی تحقیق شده تربیت کنید. هر قدر سطح دارالفنون بالاتر باشد، نیروهای بهتری قابل تحقیق خواهند بود.");
+define( "LANGUI_MANUAL_T72", "اسلحه سازی" );
+define( "LANGUI_MANUAL_T73", "در اسلحه سازی، اسلحه های سربازان بهبود داده مي شود. با ارتقا دادن این ساختمان، سلاح های بهتری در اختیار نیروهایتان قرار خواهد گرفت.");
+define( "LANGUI_MANUAL_T74", "زره سازی" );
+define( "LANGUI_MANUAL_T75", "در زره سازی، پوشش سربازان بهبود داده می شود. با ارتقا دادن زره سازی، پوششهای بهتری برای سربازان ساخته خواهد شد.");
+define( "LANGUI_MANUAL_T76", "قصر" );
+define( "LANGUI_MANUAL_T77", "در قصر شاه و ملکه امپراطوری زندگی می کنند. شما در کل امپراطوری فقط یک قصر می توانید داشته باشید. فقط دهکده ای که قصر شما در آن است را می توانید به پایتخت خود تبدیل کنید (شما نمی توانید در یک دهکده قصر و اقامتگاه را با هم داشته باشید).");
+define( "LANGUI_MANUAL_T78", "اقامتگاه" );
+define( "LANGUI_MANUAL_T79", "اقامتگاه یک کاخ کوچک است که شاه و ملکه در زمان دیدار از دهکده در اینجا به سر می برند. اقامتگاه، دهکده را در مقابل دشمنانی که قصد تصرف آن را دارند، مقاوم می کند (شما نمی توانید در یک دهکده قصر و اقامتگاه را با هم داشته باشید).");
+define( "LANGUI_MANUAL_T80", "دفتر تجارت" );
+define( "LANGUI_MANUAL_T81", "در دفتر تجارت می توانید گاری های تجار را پیشرفت دهید و به اسبهای قوی تر مجهز کنید. گاری های پیشرفته تر ظرفیت حمل بیشتری خواهند داشت.");
+define( "LANGUI_MANUAL_T82", "میدان تمرین" );
+define( "LANGUI_MANUAL_T83", "در میدان تمرین، لشگریان شما استقامت خود را افزايش مي دهند. با ارتقاي هرچه بيشتر اين ساختمان، سربازان شما از فاصله 30 مربع به بعد، سریعتر حرکت می کنند");
+define( "LANGUI_MANUAL_T84", "چگونه می توانم یک اردوگاه درست کنم؟" );
+define( "LANGUI_MANUAL_T85", "محل ساخت اردوگاه در زمین های علفی روبروی ساختمان اصلی به شکل نیم دایره است" );
+define( "LANGUI_MANUAL_T86", "چگونه می توانم به یک اتحاد درست کنم؟" );
+define( "LANGUI_MANUAL_T87", "برای ایجاد و ساخت یک اتحاد شما نیاز به یک سفارت سطح 3 دارید که گنجایش 3 نفر را دارد. برای پیوستن به یک اتحاد و قبول دعوتنامه داشتن سفارت سطح 1 هم کافی است" );
+define( "LANGUI_MANUAL_T88", "چگونه می توانم نام دهکده ام را تغییر دهم ؟" );
+define( "LANGUI_MANUAL_T89", "ابتدا وارد  دهکده ای که قصد تغییر نام آنرا دارید می شوید ، سپس با زدن بر روی پروفایل ( در منوی سمت راست صفحه) وارد اطلاعات شخصی می شوید و با زدن بر ویرایش مشخصات می توانید نام دهکده تان را تغییر دهید" );
+define( "LANGUI_MANUAL_T90", "چگونه لشگر تربیت کنم؟" );
+define( "LANGUI_MANUAL_T91", "شما ابتدا باید سطح ساختمان الی را به 3 برسانید ، سپس یک اردوگاه بسازید ، و هر نقطه از دهکده که خواستید سرباز خانه داایجاد نمائید" );
+define( "LANGUI_MANUAL_T92", "چگونه می توانم از روستای خود دفاع کنم؟" );
+define( "LANGUI_MANUAL_T93", "بعد از تربیت نیروهای دفاعی آنها را در دهکده ای که به آن حمله شده است نگهدارید ، یا از دهکده های دیگر به کمک دهکده دفاع ارسال نمائید" );
+define( "LANGUI_MANUAL_T94", "چرا با حمله به روستایی بدون سرباز و دفاع ، سربازنم کشته می شوند ؟" );
+define( "LANGUI_MANUAL_T95", "داشتن دیوار شهر و اقامتگاه و قصر باعث افزایش قدرت دفاعی شهر می شود. اگر دهکده ای که به آن حمله می کنید این ساختمانها را داشته باشند در برابر سربازانتان دفاع می کنند" );
+define( "LANGUI_MANUAL_T96", "كچگونه جمعیتم را بیشتر کنم؟" );
+define( "LANGUI_MANUAL_T97", "وقتی که شما ساختماهای خود را به سطح بالاتر ارتقا می دهید جمعیتتان افزایش می یابد ، دقت فرمائید که وجود سربازان تاثیری در جمعیت دهکده تان ندارد" );
+define( "LANGUI_MANUAL_T98", "کمک : تولید گندمم کمتر و کمتر می شود!!!" );
+define( "LANGUI_MANUAL_T99", "هر چه بر جمعیت و سربازانتان افزوده شود ، میزان مصرف گندم افزایش پیدا می کند ، در اینصورت شما بایست قبل از منفی شدن تولیدات گندم دهکده تان ، گندم زار ها را ارتقا دهید" );
+define( "LANGUI_MANUAL_T100", "چرا سربازانم منابع کمی در حمله غارت می کنند؟" );
+define( "LANGUI_MANUAL_T101", "علت های متفاوتی می تواند وجود داشته باشد ، داشتن مخفیگاههای با سطح بالا و تعداد زیاد در دهکده های دشمنان ، یا اینکه قبل از شما کسی انبار آنها را خالی کرده است ، و یا با هوشیاری و آمادگی حریفتان آنها را خرج کرده است." );
+define( "LANGUI_MANUAL_T102", "چگونه میتوانم یک دهکده جدید ایجاد یا ترف کنم؟" );
+define( "LANGUI_MANUAL_T103", "برای ساخت یک دهکده جدید ، شما نیاز به 3 مهاجر دارید. با ارتقای اقامتگاه یا قصر می توانید مهاجر بسازید ، داشتن امتیاز فرهنگی به میزان اعلام شده الزامی است. جهت تصرف دهکده دیگران باید یک رئیس یا سناتور یا ارباب تربیت کنید." );
+define( "LANGUI_MANUAL_T104", "چرا یکی از دهکده هایم غیب شده است؟" );
+define( "LANGUI_MANUAL_T105", "در تراوین همیشه جنگ و خونریزی وجود دارد ، زمانیکه با رئیس و سناتور و ارباب به دهکده های غیر پایتختتان حمله می شود ، آنها باعث کاهش وفاداری دهکده هایتان به شما می شوند و در آخر اگر از آنها دفاع نکنید به تصرف مهاجمین در خواهند آمد" );
+define( "LANGUI_MANUAL_T106", "مصرف غذا" );
+define( "LANGUI_MANUAL_T107", "مصرف گندم" );
+define( "LANGUI_MANUAL_T108", "مزایای نژاد ها :" );
+define( "LANGUI_MANUAL_T109", "اطلاعات جامع بازی" );
+?>

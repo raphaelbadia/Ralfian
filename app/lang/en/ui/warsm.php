@@ -1,17 +1,27 @@
-HR+cPnALq01FP2at0Yf58zwM7Dq3gNdJ9HXZhTPJQMuZZ6apAa2RxIIc7kEDhbpKPv11oTsixP77
-jh2gTxrsUpvPJuz+6DUBl0twiMIXdlBCKgRcxy8CXLC2dC+mHNk0mztJwxhX91Ady7ah57VzYhEN
-M7w7iZEX75qI17Hs3ZgvbpzXkiwa+emZFcNnK3GqT8aq9nqDberikgDnY1oFrLzihbWXictjKT1Y
-YipMhgSRam0A4e/88ow1lQarxbDaRk5K43t3YrhMWyMtO8g7u3PLvAz45h/pBamqFsMu23UgykvR
-YOoNUOW93usgZ8jX3zv7Ihj5B1h1fE0rZpAzzpfhNyaNrvsxtgUQNNgsmqSzIXpNu+QkGW1MUESL
-WmC+tSkNUr4eeTi0jPHjE78fnTFZxZNCGVdUTMiuPgN8JtxZZfzUMPdwxZ8kyiw/rfkgSyUYGLmf
-uBnia8G0d0CtsDpZNul/c2Q3bQuMajofVjhqwxluXa2phdpwhAnmTTO7+kf2yQcMPTgTA70YmxOa
-5o4XXTZnGEL7xlR5iq9ssTghJfuL/SC5wRDCC+ow4trKT6DR4U9Y4Rb+qDCGw1LiamiiFL5dJf5M
-s4xVKkWmWR5VyrC6xlRGIwYcePQUVXztOkEHdbWP9ONkTlJEb/YiRlUgAnsaTfSNWZNz+AU6CEWj
-q4zTNUM/3gt1uHsp74z3lNKxm7HqESnbHvEMNden1+BNjpt9IDi5ZhjqOe9lYL6U6mzrcI/9dcN9
-rU1QmRMrM15cbviGByDVhQQpy/985uQ0vgW5MXahbHqmoXSt6tWTu/r+k1eXct7x9Q2kgq0F7uxw
-k0qca8CDR2JKUZQlwlxLB2Tx6xwzJ+Xa3Zc3aO2XpnJCkW8FjgF5l5KEDTw+W8uASKtvsa7bBLad
-iJK2Ts7Hjv99FJfaI8QosKKQ40LaCeWBuIZ8Ngh9hyjm6e1BASVswJ+UANS65kdkL/LKO/7Q6UrG
-0Hd0+/DjNfXSK2CEydiooRoV99qwyTJfzC+1Fyobi6dWrbVVoUVLKCZXq6xeZKudqbDN4K9pjR73
-tOo1vhUmKS9uBWXeDf+/uavkUWAmeaiTI+kfrnLPw5FPn4jYy2boqGltWPD6mUx0jeRjBSqxEs0b
-loVjKqLuEXly8GEbbLppf/UIW5u8wKZEkkkV6p94KVPg8ja00GS17b8K54Wz8zagrQny4bjuaBjA
-Se7Yfbv9oOPKmFdhoBsaXbguqt2RwI1zhTjjUve=
+<?php
+/*********************/
+/*                   */
+/*  Version : 5.1.0  */
+/*  Author  : RM     */
+/*  Comment : 071223 */
+/*                   */
+/*********************/
+
+define( "LANGUI_WARSN_T1", "battle simulator" );
+define( "LANGUI_WARSN_T2", "forward" );
+define( "LANGUI_WARSN_T3", "units" );
+define( "LANGUI_WARSN_T4", "death" );
+define( "LANGUI_WARSN_T5", "defender" );
+define( "LANGUI_WARSN_T6", "kind of battle" );
+define( "LANGUI_WARSN_T7", "full attack" );
+define( "LANGUI_WARSN_T8", "Attack of the looting" );
+define( "LANGUI_WARSN_T9", "number" );
+define( "LANGUI_WARSN_T10", "the level of weapons research" );
+define( "LANGUI_WARSN_T11", "other" );
+define( "LANGUI_WARSN_T12", "population" );
+define( "LANGUI_WARSN_T13", "population" );
+define( "LANGUI_WARSN_T14", "the level of the winepress" );
+define( "LANGUI_WARSN_T15", "the level of research arms" );
+define( "LANGUI_WARSN_T16", "city wall" );
+define( "LANGUI_WARSN_T17", "the level of the city wall" );
+?>

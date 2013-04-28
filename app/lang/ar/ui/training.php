@@ -1,39 +1,30 @@
-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
-E0==
+﻿<?php
+define( "LANGUI_TRAINING_T1", "دهکده شما هنگام شروع بازی" );
+define( "LANGUI_TRAINING_T2", "روزی دهکده‌ی شما می‌تواند مانند این شود و نقطه‌ی شروعی برای امپراطوری بزرگ شما باشد." );
+define( "LANGUI_TRAINING_T3", "در ابتدا شما یک دهکده دارید که با افزایش ساخت و ساز در آن یاد می گیرید چگونه سرزمین خود را توسعه دهید." );
+define( "LANGUI_TRAINING_T4", "صفحه قبل" );
+define( "LANGUI_TRAINING_T5", "صفحه بعد" );
+define( "LANGUI_TRAINING_T6", "1- انتخاب زمین هایی با منابع خاص" );
+define( "LANGUI_TRAINING_T7", "2- سپس توسعه منابع در سرزمین هایی که در آن ها دهکده می سازید" );
+define( "LANGUI_TRAINING_T8", "چوب، خشت، آهن و گندم منابع حیاتی می‌باشند که با استفاده از آنها می‌توانید اقتصاد خود را بهتر کرده و غذای اهالی دهکده‌ی خود را تامین کنید؛ این منابع برای ساخت ساختمان و حتی در جنگ نیز لازم می‌باشد. با این منابع باارزش قادر به تربیت لشکری بزرگ می‌باشید" );
+define( "LANGUI_TRAINING_T9", "1. انتخاب محل ساختمان" );
+define( "LANGUI_TRAINING_T10", "2. سپس احداث کردن ساختمان" );
+define( "LANGUI_TRAINING_T11", "برای اینکه دهکده‌ی قدرتمندی با تولیدی بالایی داشته باشید باید در آن ساختمان‌های زیادی بنا کنید. در ابتدا هنگام انتخاب ساختمانی که می‌خواهید قبل از بقیه بنا کنید، دقت کنید زیرا منابع بسیار کمی دارید" );
+define( "LANGUI_TRAINING_T12", "دهکده و همسایه های شما" );
+define( "LANGUI_TRAINING_T13", "برای آشنایی با همسایگان خود، محدوده‌ی اطراف خود را کاوش کنید؛ شما می‌توانید مسیر صلح را انتخاب کرده و برای خود اتحاد درست کنید و با دیگران متحد شوید و یا با جنگ سرزمین‌های اطراف خود را تسخیر کنید. شاید در اطراف دهکده‌ی شما آبادی‌های غنی موجود باشد، آنها را تسخیر کنید تا تولیدی منابع شما افزایش یابد، اما مواظب حیوانات وحشی موجود در آنها باشید" );
+define( "LANGUI_TRAINING_T14", "پیش نیاز" );
+define( "LANGUI_TRAINING_T15", "<b>خارج شهر:</b> نقشه دهکده جایی که منابع تولید می شوند" );
+define( "LANGUI_TRAINING_T16", "<b>مرکز:</b> در مرکز دهکده برای ساختن ساختمانهای خود." );
+define( "LANGUI_TRAINING_T17", "<b>نقشه:</b> سرزمین خود و همسایگانتان در اینجا" );
+define( "LANGUI_TRAINING_T18", "<b>آمار بازی:</b>موقعیت خود و ترتیب تمام بازیکنان" );
+define( "LANGUI_TRAINING_T19", "<b>گزارشات:</b> اطلاعات رخدادهای دهکده ها." );
+define( "LANGUI_TRAINING_T20", "<b>نامه ها:</b>ارسال و دریافت پیام." );
+define( "LANGUI_TRAINING_T21", "شما در مورد جنگ تراوین اطلاعاتی دارید. هم اکنون می توانید ثبت نام کنید" );
+define( "LANGUI_TRAINING_T22", "ثبت نام" );
+define( "LANGUI_TRAINING_T23", "آموزش" );
+define( "LANGUI_TRAINING_T24", "دهکده" );
+define( "LANGUI_TRAINING_T25", "منابع" );
+define( "LANGUI_TRAINING_T26", "ساختمان" );
+define( "LANGUI_TRAINING_T27", "همسایه ها" );
+define( "LANGUI_TRAINING_T28", "پایان" );
+?>
