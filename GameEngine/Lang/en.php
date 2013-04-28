@@ -1,269 +1,412 @@
-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
+﻿<?php
+
+//MENU
+define("REG","ثبت نام");
+define("FORUM","انجمن");
+define("CHAT","چت");
+// define("IMPRINT","Imprint");
+define("MORE_LINKS","More Links");
+define("TOUR","Game Tour");
+
+
+//ERRORS
+define("USRNM_EMPTY","(Username empty)");
+define("USRNM_TAKEN","(Name is already in use.)");
+define("USRNM_SHORT","(min. ".USRNM_MIN_LENGTH." figures)");
+define("USRNM_CHAR","(Invalid Characters)");
+define("PW_EMPTY","(Password empty)");
+define("PW_SHORT","(min. ".PW_MIN_LENGTH." figures)");
+define("PW_INSECURE","(Password insecure. Please choose a more secure one.)");
+define("EMAIL_EMPTY","(Email Empty)");
+define("EMAIL_INVALID","(Invalid email address)");
+define("EMAIL_TAKEN","(Email is already in use)");
+define("TRIBE_EMPTY","<li>Please choose a tribe.</li>");
+define("AGREE_ERROR","<li>You have to agree to the game rules and the general terms & conditions in order to register.</li>");
+define("LOGIN_USR_EMPTY","Enter name.");
+define("LOGIN_PASS_EMPTY","Enter password.");
+define("EMAIL_ERROR","Email does not match existing");
+define("PASS_MISMATCH","Passwords do not match");
+define("ALLI_OWNER","Please appoint an alliance owner before deleting");
+define("SIT_ERROR","Sitter already set");
+define("USR_NT_FOUND","Name does not exist.");
+define("WEL_TOPIC","Useful tips & information ");
+define("ATAG_EMPTY","Tag empty");
+define("ANAME_EMPTY","Name empty");
+define("ATAG_EXIST","Tag taken");
+define("ANAME_EXIST","Name taken");
+
+//COPYRIGHT
+define("TRAVIAN_COPYRIGHT","TravianX 100% Open Source Travian Clone.");
+
+//BUILD.TPL
+define("CUR_PROD","Current production");
+define("NEXT_PROD","Production at level ");
+
+//BUILDINGS
+define("B1","Woodcutter");
+define("B1_DESC","The Woodcutter cuts down trees in order to produce lumber. The further you extend the bid1 the more lumber is produced by him.");
+define("B2","Clay Pit");
+define("B2_DESC","Clay is produced here. By increasing its level you increase its clay production.");
+define("B3","Iron Mine");
+define("B3_DESC","Here miners produce the precious resource iron. By increasing the mine`s level you increase its iron production.");
+define("B4","Cropland");
+define("B4_DESC","Your population`s food is produced here. By increasing the farm`s level you increase its crop production.");
+
+//DORF1
+define("LUMBER","Lumber");
+define("CLAY","Clay");
+define("IRON","Iron");
+define("CROP","Crop");
+define("LEVEL","Level");
+define("CROP_COM",CROP." consumption");
+define("PER_HR","per hour");
+define("PROD_HEADER","Production");
+define("MULTI_V_HEADER","Villages");
+// define("ANNOUNCEMENT","Announcement");
+define("GO2MY_VILLAGE","Go to my village");
+define("VILLAGE_CENTER","Village centre");
+define("FINISH_GOLD","Finish all construction and research orders in this village immediately for 2 Gold?");
+define("WAITING_LOOP","(waiting loop)");
+define("HRS","(hrs.)");
+define("DONE_AT","done at");
+define("CANCEL","cancel");
+define("LOYALTY","Loyalty:"); 
+// define("CALCULATED_IN","Calculated in");
+define("SEVER_TIME","Server time:");  
+
+//QUEST
+define("Q_CONTINUE","Continue with the next task.");
+define("Q_REWARD","Your reward:");
+define("Q0","Welcome to ");
+define("Q0_DESC","As I see you have been made chieftain of this little village. I will be your counselor for the first few days and never leave your (right hand) side.");
+define("Q0_OPT1","To the first task.");
+define("Q0_OPT2","Look around on your own.");
+define("Q0_OPT3","Play no tasks.");
+
+define("Q1","Task 1: Woodcutter");
+define("Q1_DESC","There are four green forests around your village. Construct a woodcutter on one of them. Lumber is an important resource for our new settlement.");
+define("Q1_ORDER","Order:<\/p>Construct a woodcutter.");
+define("Q1_RESP","Yes, that way you gain more lumber.I helped a bit and completed the order instantly.");
+define("Q1_REWARD","Woodcutter instantly completed.");
+
+define("Q2","Task 2: Crop");
+define("Q2_DESC","Now your subjects are hungry from working all day. Extend a cropland to improve your subjects' supply. Come back here once the building is complete.");
+define("Q2_ORDER","Order:<\/p>Extend one cropland.");
+define("Q2_RESP","Very good. Now your subjects have enough to eat again...");
+
+define("Q3","Task 3: Your Village's Name");
+define("Q3_DESC","Creative as you are you can grant your village the ultimate name.\r\n<br \/><br \/>\r\nClick on 'profile' in the left hand menu and then select 'change profile'...");
+define("Q3_ORDER","Order:<\/p>Change your village's name to something nice.");
+define("Q3_RESP","Wow, a great name for their village. It could have been the name of my village!...");
+
+define("Q4","Task 4: Other Players");
+define("Q4_DESC","In ". SERVER_NAME ." you play along with billions of other players. Click 'statistics' in the top menu to look up your rank and enter it here.");
+define("Q4_ORDER","Order:<\/p>Look for your rank in the statistics and enter it here.");
+define("Q4_BUTN","complete task");
+define("Q4_RESP","Exactly! That's your rank.");
+
+define("Q5","Task 5: Two Building Orders");
+define("Q5_DESC","Build an iron mine and a clay pit. Of iron and clay one can never have enough.");
+define("Q5_ORDER","Order:<\/p><ul><li>Extend one iron mine.<\/li><li>Extend one clay pit.<\/li><\/ul>");
+define("Q5_RESP","As you noticed, building orders take rather long. The world of ". SERVER_NAME ." will continue to spin even if you are offline. Even in a few months there will be many new things for you to discover.\r\n<br \/><br \/>\r\nThe best thing to do is occasionally checking your village and giving you subjects new tasks to do.");
+
+define("Q6","Message From The Taskmaster");
+define("Q6_DESC","You are to be informed that a nice reward is waiting for you at the taskmaster.<br /><br />Hint: The message has been generated automatically. An answer is not necessary.");
+
+define("Q5","Task 5: Two Building Orders");
+define("Q5_DESC","Build an iron mine and a clay pit. Of iron and clay one can never have enough.");
+define("Q5_ORDER","Order:<\/p><ul><li>Extend one iron mine.<\/li><li>Extend one clay pit.<\/li><\/ul>");
+define("Q5_RESP","As you noticed, building orders take rather long. The world of ". SERVER_NAME ." will continue to spin even if you are offline. Even in a few months there will be many new things for you to discover.\r\n<br \/><br \/>\r\nThe best thing to do is occasionally checking your village and giving you subjects new tasks to do.");
+
+//ATTACKS ETC.
+define("TROOP_MOVEMENTS","Troop Movements:");
+define("ARRIVING_REINF_TROOPS","Arriving reinforcing troops");
+define("ARRIVING_REINF_TROOPS_SHORT","Reinf.");
+define("OWN_ATTACKING_TROOPS","Own attacking troops");
+define("ATTACK","Attack");
+define("OWN_REINFORCING_TROOPS","Own reinforcing troops");
+define("TROOPS_DORF","Troops:");
+
+//404.php
+define("NOTHING_HERE","Nothing here!");
+define("WE_LOOKED","We looked 404 times already but can't find anything");
+
+//TIME RELATED
+define("CALCULATED_IN","Calculated in");
+// define("SERVER_TIME","Server time:");
+
+//MASSMESSAGE.php
+define("MASS","Message Content");
+define("MASS_SUBJECT","Subject:");
+define("MASS_COLOR","Message color:");
+define("MASS_REQUIRED","All fields required");
+define("MASS_UNITS","Images (units):");
+define("MASS_SHOWHIDE","Show/Hide");
+define("MASS_READ","Read this: after adding smilie, you have to add left or right after number otherwise image will won't work");
+define("MASS_CONFIRM","Confirmation");
+define("MASS_REALLY","Do you really want to send MassIGM?");
+define("MASS_ABORT","Aborting right now");
+define("MASS_SENT","Mass IGM was sent");
+
+##############################################
+##                                          ##
+##     LANG TEST - (Only edit the text)     ##
+##                                          ##
+##############################################
+
+// Menu items
+
+	define("GAME_TOUR","تور بازی");
+	define("FORUM","انجمن");
+	define("FORUM_LINK","");
+	define("MORE_GAMES","More Games");
+	define("REGISTER","ثبت نام");
+	define("LOGIN","ورود");
+	define("MANUAL","Manual");
+	define("TUTORIAL","Tutorial");
+	define("SCREENSHOTS","Screenshots");
+	define("FAQ","FAQ");
+	define("SPIELREGELN","Game Rules");
+	define("AGB","Terms");
+	define("IMPRINT","Imprint");
+	define("SUPPORT","Support");
+	define("LINKS","Links");
+	define("HOME","Homepage");
+	define("PROFILE","Profile");
+	define("INSTRUCTIONS","Instructions");
+	define("ADMIN_PANEL","Admin Panel");
+	define("MULTIHUNTER_PANEL","Multihunter Panel");
+	define("MASS_MESSAGE","Mass Message");
+	define("UPDATE_TOP_TEN","Update Top 10");
+	define("SYSTEM_MESSAGE","System Message");
+	define("LOGOUT","Logout");
+	define("HELP","Help");
+	define("TRAVIAN_PLUS",SERVER_NAME." <b><span class=\"plus_g\">P</span><span class=\"plus_o\">l</span><span class=\"plus_g\">u</span><span class=\"plus_o\">s</span></span></span></b>");
+
+// Manual steps
+
+	define("THE_TRIBES","The tribes");
+	define("THE_BUILDINGS","The buildings");
+	define("CULTURE_POINTS","Culture points");
+
+// Index
+
+	define("WELCOME","Welcome to ".SERVER_NAME);
+	define("PLAY_NOW","Play now, for free!");
+	define("WHAT_IS","What is ".SERVER_NAME);
+	define("GAME_DESCRIPTION",SERVER_NAME." is a <b>browser game</b> featuring an engaging ancient world with thousands of other real players.</p><p>It`s <strong>free to play</strong> and requires <strong>no downloads</strong>.");
+	define("CLICK_HERE","Click here to play ".SERVER_NAME);
+	define("ABOUT","About the game");
+	define("ABOUT1","You will begin as the chief of a tiny village and will embark on an exciting quest.");
+	define("ABOUT2","Build up villages, wage wars or establish trade routes with your neighbours.");
+	define("ABOUT3","Play with and against thousands of other real players and conquer the world of ".SERVER_NAME.".");
+	define("NEWS","اخبار");
+	define("CHOOSE_WORLD","Choose your world");
+	
+// Index Travian 4
+
+	define("","");
+
+	$lang['index2']['description'] = "Master the art of ancient tactics as Roman, Gaul or Teuton!";
+	$lang['index2']['shop title'] = "";
+	$lang['index2']['shop'] = "";
+	$lang['index2']['shop link'] = "#";
+	$lang['index2']['strategy game'] = "تراوین ، به همراه دو نژاد جدید مغول؛و پارس ها";
+	$lang['index2']['what is'] = "در زمانهای قدیم امپراطوری های زیادی بر سرزمین های جهان حکومت می کردند،بر سرزمین شرق حکومت متمدن پارسی حکمفرما بود ،در سرزمین غرب آلمانی های وحشی و خونخوار و رومی های پر ادعا و فرانسوی های فریبکار و متقلب حکمرانی می کردند.شما خود را فرمانراوی کدام قبیله می دانید.";
+	$lang['index2']['register free'] = "به صورت رایگان ثبت نام کنید !";
+	$lang['index2']['title1'] = "به تراوین با سرعت بالا خوش آمدید ";
+	$lang['index2']['desc1'] = "<br /> <br /><br /> <br />در کنار شما دوستان بودن افتخار ماست";
+	$lang['index2']['text1'] = "ثبت نام کنید ";
+	$lang['index2']['link1'] = "#serverRegister";
+	$lang['index2']['title2'] = " با پنج نژاد برتر";
+	$lang['index2']['desc2'] = "گول ، روم ، توتن ، ایرانیان، مغول <br /><br /> <br /><br /> ";
+	$lang['index2']['text2'] = "ثبت نام کنید ";
+	$lang['index2']['link2'] = "#serverRegister";
+	$lang['index2']['title3'] = "توصیه ";
+	$lang['index2']['desc3'] = "دوست هم باشید <br />در اتحادیه همکاری کنید<br />یکی برای همه ، همه برای یکی<br />برای برنده شدن در این بازی نیاز به همکاری دارید ";
+	$lang['index2']['text3'] = "ثبت نام کنید ";
+	$lang['index2']['link3'] = "#serverRegister";
+	$lang['index2']['learn more'] = "یادگیری بیشتر ";
+	$lang['index2']['strip1'] = "مزارع و معادن خود را ارتقاء دهید تا تولید منابع شما افزایش یابد. برای ساخت و یا ارتقاء ساختمان و تربیت لشکر شما به منابع نیاز خواهید داشت";
+	$lang['index2']['strip2'] = "ساختمان‌های دهکده‌ی خود را ساخته و سطح آنها را ارتقاء دهید. ساختمان‌ها باعث بهبود زیر ساخت‌های کلی دهکده‌ی شما، افزایش تولید منابع شده و به شما اجازه‌ی تحقیق، تربیت و ارتقاء لشکریان دهکده را خواهد داد ";
+	$lang['index2']['strip3'] = "مناطق و دهکده‌های اطراف خود را نگاه کنید. شما قادر به پیدا کردن دوست‌ها و یا دشمن‌های جدید می‌باشید. از آبادی‌های اطراف دهکده‌ی خود استفاده کرده و شاهد رشد امپراطوری خود باشید. ";
+	$lang['index2']['strip4'] = "خود را با بازیکن‌های دیگر مقایسه کرده و پیشرفت و موفقیت خود را بسنجید. به رتبه‌های تاپ 10 نگاه کنید و برای دریافت مدال‌های هفتگی بکوشید.";
+	$lang['index2']['strip5'] = "در مورد ماجراجویی‌ها، تجارت‌ها و جنگ‌های خود گزارش‌هایی با جزیئیات دقیق دریافت کنید و کنترل گزارش‌های در حال اتفاق در اطراف دهکده‌ی خود را فراموش نکنید.";
+	$lang['index2']['strip6'] = "با بازیکن‌های دیگر مبادله‌ی اطلاعات کرده و روابط دیپلماتیک برقرار کنید. همیشه به یاد داشته باشید که برقراری رابطه بهترین راه برای پیدا کردن دوست‌های جدید و رفع مشکلات گذشته می‌باشد.";
+
+// Screenshots Travian 4
+
+	define("SCREENSHOTS_T4_TITLE1","مرکز دهکده");
+	define("SCREENSHOTS_T4_TITLE2","دید‌کلی دهکده");
+	define("SCREENSHOTS_T4_TITLE3","قهرمان");
+	define("SCREENSHOTS_T4_TITLE4","اطلاعات ساختمان");
+	define("SCREENSHOTS_T4_TITLE5","محدوده‌ی اطراف");
+	define("SCREENSHOTS_T4_TITLE6","گزارش نبرد");
+	define("SCREENSHOTS_T4_TITLE7","سیستم مدال‌ها");
+	define("SCREENSHOTS_T4_TITLE8","سیستم وظایف");
+	define("SCREENSHOTS_T4_DESC1","روزی دهکده‌ی شما می‌تواند مانند این شود و نقطه‌ی شروعی برای امپراطوری بزرگ شما باشد.");
+	define("SCREENSHOTS_T4_DESC2","چوب، خشت، آهن و گندم منابع حیاتی می‌باشند که با استفاده از آنها می‌توانید اقتصاد خود را بهتر کرده و غذای اهالی دهکده‌ی خود را تامین کنید؛ این منابع برای ساخت ساختمان و حتی در جنگ نیز لازم می‌باشد. با این منابع باارزش قادر به تربیت لشکری بزرگ می‌باشید.");
+	define("SCREENSHOTS_T4_DESC3","می‌توانید قهرمان خود را به ماجراجویی‌های خطرناکی ارسال کنید. اگر قهرمان شما موفق باشد امکان دارد اجناس باارزشی پیدا کرده و با خود به دهکده بیارد.");
+	define("SCREENSHOTS_T4_DESC4","برای اینکه دهکده‌ی قدرتمندی با تولیدی بالایی داشته باشید باید در آن ساختمان‌های زیادی بنا کنید. در ابتدا هنگام انتخاب ساختمانی که می‌خواهید قبل از بقیه بنا کنید، دقت کنید زیرا منابع بسیار کمی دارید.");
+	define("SCREENSHOTS_T4_DESC5","برای آشنایی با همسایگان خود، محدوده‌ی اطراف خود را کاوش کنید؛ شما می‌توانید مسیر صلح را انتخاب کرده و برای خود اتحاد درست کنید و با دیگران متحد شوید و یا با جنگ سرزمین‌های اطراف خود را تسخیر کنید. شاید در اطراف دهکده‌ی شما آبادی‌های غنی موجود باشد، آنها را تسخیر کنید تا تولیدی منابع شما افزایش یابد، اما مواظب حیوانات وحشی موجود در آنها باشید.");
+	define("SCREENSHOTS_T4_DESC6","بهتر است در همان ابتدای کار به فکر تربیت لشکر باشید، تا قادر به دفاع از خود و حمله به دیگران باشید. از این روش شما قادر به غارت بیشتر منابع و ساخت سریع‌تر امپراطوری خود خواهید بود.");
+	define("SCREENSHOTS_T4_DESC7","در آخر هر هفته 10 بازیکن و اتحاد برتر در رده‌های متفاوتی انتخاب می‌شوند؛ آنها مدالی به عنوان جایزه برای اینکار خود دریافت خواهند کرد.");
+	define("SCREENSHOTS_T4_DESC8","برای راهنمایی شما در ابتدای بازی ما کاردان را برای شما ارسال کرده‌ایم؛ برای ساخت دهکده‌ی خود او شما را راهنمایی خواهد کرد. فقط کافی است روی عکس وی در سمت راست کلیک کنید.");
+
+	$lang['screenshots2']['desc1'] = "روزی دهکده‌ی شما می‌تواند مانند این شود و نقطه‌ی شروعی برای امپراطوری بزرگ شما باشد.";
+	$lang['screenshots2']['desc2'] = "چوب، خشت، آهن و گندم منابع حیاتی می‌باشند که با استفاده از آنها می‌توانید اقتصاد خود را بهتر کرده و غذای اهالی دهکده‌ی خود را تامین کنید؛ این منابع برای ساخت ساختمان و حتی در جنگ نیز لازم می‌باشد. با این منابع باارزش قادر به تربیت لشکری بزرگ می‌باشید.";
+	$lang['screenshots2']['desc3'] = "می‌توانید قهرمان خود را به ماجراجویی‌های خطرناکی ارسال کنید. اگر قهرمان شما موفق باشد امکان دارد اجناس باارزشی پیدا کرده و با خود به دهکده بیارد.";
+	$lang['screenshots2']['desc4'] = "برای اینکه دهکده‌ی قدرتمندی با تولیدی بالایی داشته باشید باید در آن ساختمان‌های زیادی بنا کنید. در ابتدا هنگام انتخاب ساختمانی که می‌خواهید قبل از بقیه بنا کنید، دقت کنید زیرا منابع بسیار کمی دارید.";
+	$lang['screenshots2']['desc5'] = "برای آشنایی با همسایگان خود، محدوده‌ی اطراف خود را کاوش کنید؛ شما می‌توانید مسیر صلح را انتخاب کرده و برای خود اتحاد درست کنید و با دیگران متحد شوید و یا با جنگ سرزمین‌های اطراف خود را تسخیر کنید. شاید در اطراف دهکده‌ی شما آبادی‌های غنی موجود باشد، آنها را تسخیر کنید تا تولیدی منابع شما افزایش یابد، اما مواظب حیوانات وحشی موجود در آنها باشید.";
+	$lang['screenshots2']['desc6'] = "بهتر است در همان ابتدای کار به فکر تربیت لشکر باشید، تا قادر به دفاع از خود و حمله به دیگران باشید. از این روش شما قادر به غارت بیشتر منابع و ساخت سریع‌تر امپراطوری خود خواهید بود.";
+	$lang['screenshots2']['desc7'] = "در آخر هر هفته 10 بازیکن و اتحاد برتر در رده‌های متفاوتی انتخاب می‌شوند؛ آنها مدالی به عنوان جایزه برای اینکار خود دریافت خواهند کرد.";
+	$lang['screenshots2']['desc8'] = "برای راهنمایی شما در ابتدای بازی ما کاردان را برای شما ارسال کرده‌ایم؛ برای ساخت دهکده‌ی خود او شما را راهنمایی خواهد کرد. فقط کافی است روی عکس وی در سمت راست کلیک کنید.";
+
+// Player statics
+
+	define("TOTAL_PLAYERS","Total players");
+	define("PLAYERS_ACTIVE","Players active");
+	define("PLAYERS_ONLINE","Players online");
+	define("PLAYERS","Players");
+	define("ACTIVE","Active");
+	define("ONLINE","Online");
+	define("PLAYER_STATISTICS","Players statistics");
+
+//ANMELDEN.php
+
+	define("NICKNAME","Nickname");
+	define("EMAIL","Email");
+//	define("PASSWORD","Password");
+	define("ROMANS","Romans");
+	define("TEUTONS","Teutons");
+	define("GAULS","Gauls");
+	define("NW","North West");
+	define("NE","North East");
+	define("SW","South West");
+	define("SE","South East");
+	define("RANDOM","random");
+	define("ACCEPT_RULES"," I accept the game rules and general terms and conditions.");
+	define("ONE_PER_SERVER","Each player may only own ONE account per server.");
+	define("BEFORE_REGISTER","Before you register an account you should read the <a href='anleitung.php' target='_blank'>instructions</a> of TravianX to see the specific advantages and disadvantages of the three tribes.");
+	define("BUILDING_UPGRADING","Building:");
+	define("HOURS","hours");
+
+// Login Travian 3.6
+
+	define("COOKIES","You must have cookies enabled to be able to log in. If you share this computer with other people you should log out after each session for your own safety.");
+	define("NAME","Name");
+	define("PASSWORD","Password");
+	define("PW_FORGOT","Password forgotten?");
+	define("EMAIL_REQUEST","Then you can request a new one which will be sent to your email address.");
+	define("REQUIRE_FIELDS","All fields required");
+	define("NO_VERIFIED","Email not verified!");
+	define("FOLLOW","Follow this link to activate your account.");
+	define("VERIFI","Verify Email.");
+	define("LOGIN_PW_ERROR","The password is wrong.");
+
+// Login Travian 4
+
+	define("","");
+
+// System message
+
+	define("ANNOUNCEMENT","Announcement");
+	define("HI_USERNAME","Hi");
+	define("GO_TO_MY_VILLAGE","Go to my village");
+
+// Extra
+
+	define("STARTED","The server started ".round((time()-COMMENCE)/86400)." days ago.");
+	define("CALCULATED_IN","Calculated in");
+	define("SERVER_TIME","Server time");
+	
+// Resources
+
+	define("R1","Lumber");
+	define("R2","Clay");
+	define("R3","Iron");
+	define("R4","Crop");
+
+##================================================##
+##========== UNITS - YOU MUST NOT EDIT! ==========##
+##================================================##
+
+// Hero
+define("U0","Hero");
+
+//ROMAN UNITS
+define("U1","Legionnaire");
+define("U2","Praetorian");
+define("U3","Imperian");
+define("U4","Equites Legati");
+define("U5","Equites Imperatoris");
+define("U6","Equites Caesaris");
+define("U7","Battering Ram");
+define("U8","Fire Catapult");
+define("U9","Senator");
+define("U10","Settler");
+
+//TEUTON UNITS
+define("U11","Clubswinger");
+define("U12","Spearman");
+define("U13","Axeman");
+define("U14","Scout");
+define("U15","Paladin");
+define("U16","Teutonic Knight");
+define("U17","Ram");
+define("U18","Catapult");
+define("U19","Chief");
+define("U20","Settler");
+
+//GAUL UNITS
+define("U21","Phalanx");
+define("U22","Swordsman");
+define("U23","Pathfinder");
+define("U24","Theutates Thunder");
+define("U25","Druidrider");
+define("U26","Haeduan");
+define("U27","Ram");
+define("U28","Trebuchet");
+define("U29","Chieftain");
+define("U30","Settler");
+
+//NATURE UNITS
+define("U31","Rat");
+define("U32","Spider");
+define("U33","Snake");
+define("U34","Bat");
+define("U35","Wild Boar");
+define("U36","Wolf");
+define("U37","Bear");
+define("U38","Crocodile");
+define("U39","Tiger");
+define("U40","Elephant");
+
+//NATARS UNITS
+define("U41","Pikeman");
+define("U42","Thorned Warrior");
+define("U43","Guardsman");
+define("U44","Birds Of Prey");
+define("U45","Axerider");
+define("U46","Natarian Knight");
+define("U47","War Elephant");
+define("U48","Ballista");
+define("U49","Natarian Emperor");
+define("U50","Natarian Settler");
+
+//MONSTER UNITS
+define("U51","Monster Peon");
+define("U52","Monster Hunter");
+define("U53","Monster Warrior");
+define("U54","Ghost");
+define("U55","Monster Steed");
+define("U56","Monster War Steed");
+define("U57","Monster Ram");
+define("U58","Monster Catapult");
+define("U59","Monster Chief");
+define("U60","Monster Settler");
+
+##================================================##
+##======== END UNITS - YOU MUST NOT EDIT! ========##
+##================================================##
+?>

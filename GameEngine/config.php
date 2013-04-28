@@ -1,38 +1,139 @@
-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
-Y+ymeTQUi+hBF+cbpeYkXz5db0==
+<?php
+$AppConfig = array (
+	'db' 					=> array (
+		'host'				=> 'localhost',
+		'user'				=> 'root',
+		'password'			=> '',
+		'database'			=> 'tnttravi_tnttra1',
+	),
+	'db2' 					=> array (
+		'host'				=> 'localhost',
+		'user'				=> 'root',
+		'password'			=> '',
+		'database'			=> 'tnttravi_tnttra1',
+	),
+	
+		'Game' 			=> array (
+		
+		'mapx'	      	=> '101', //map size
+	
+		'speed'	      	=> '1000', // game speed
+		
+		'attack'        => '500', // troops speed
+		
+		'protection'	=> '24',	//beginner protection
+		
+		'protectionx'	=> '1',	// don't touch
+		
+		'X'	            => '1366420586', //the time in timestamp when the server start. Don't change
+		
+		'capacity'      => '5', // size warehouse & grnary
+		
+		'carry'         => '3', // the Payload of troops multiplier
+	
+		'cranny'        => '5', // cranny size
+		
+		'cp'            => '5', //culture point to found the first village (don't work)
+		
+		'market'        => '5', // merchant size
+				
+		'plus1'          => '1', //don't change
+		'plus2'          => '1',//don't change
+		'plus3'          => '10',//don't change
+		'plus4'          => '5',//don't change
+		'plus5'          => '2',//don't change
+		'plus6'          => '3',//don't change
+		'plus7'          => '15',//don't change
+		'piyadeh'        => '0.05',//don't change
+		'savareh'        => '0.1',	//don't change
+		'shovalieh'      => '0.2',//don't change
+		
+		'starthours'        => '01:12', // don't work
+		'startdate'         => '04/20/2013',// don't work
+		
+		'medalstime'          =>'3600', // here it's the time in second of automatic medals
+		
+		'bonous'        => '5',
+		'gregister'        => '5', // gold player have when register
+		'percent'        => '0', //it's a fee when somebody use the bank, players dont like so it will stay at 0
+								 # so why did i added this if we don't use?
+		'plusclub'        => '5', // the cost of club gold
+		'invitgold'        => '5', // gold player win when invite a friend
+		'invitpeople'        => '300', // pop need to win gold
+		
+		
+		
+		
+	
+	),
+	
+	'page' 		=> array (
+		'ar_title'			=> 'Ralfian',
+		'en_title'			=> 'Ralfian',
+		'meta-tag' 			=> '',
+		'asset_version'		=> 'c4b7aaaadef'						// this is used to flush any old assets like css file or javascript
+	),
+	'system' 	=> array (
+		'lang'				=> 'en',	//maybe one day why not translate in other languages?
+		'forum_url'			=> '', // forum closed since bot spammed it. Useless
+		'social_url'		=> '#', // no
+		'adminName'             => 'Multihunter', #name.
+		'adminPassword'         => 'dododo', 		#password.
+		'admin_email'		=> 'soki@odo.com',	#official admin email.
+		'email' 			=> 'soki@odo.com',#offcial support password (tickets,activation).
+		'installkey' 		=> '1005843374', // AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+		'calltatar' 		=> '474961260',
+		'allow_update'		=> 1  // 1 = yes, 0 = no !
+	),
+	'plus'			=> array (
+		'mobile' 	=> array (
+				'name'		=> 'Mobile Pack',
+				'gold'		=> '350',
+				'cost'		=> '2.00', // the paygol cost. Changing this do nothing its onyl for display
+				'currency'	=> 'eur', // display only
+				'pg_name'	=> 'travial', // paygol name
+				'pg_pass'	=> '123STFU96', //paygol pass (never share it even to your best friends a password is private ! ok
+		),
+		'packages'	=> array (
+			array ( 
+				'name'		=> 'Package A',
+				'gold'		=> 30,
+				'cost'		=> 1.49,
+				'currency'	=> 'usd',
+				'image'		=> 'package_a.jpg'
+			),
+			array ( 
+				'name'		=> 'Package B',
+				'gold'		=> 100,
+				'cost'		=> 3.99,
+				'currency'	=> 'usd',
+				'image'		=> 'package_b.jpg'
+			),
+			array ( 
+				'name'		=> 'Package C',
+				'gold'		=> 250,
+				'cost'		=> 7.99,
+				'currency'	=> 'usd',
+				'image'		=> 'package_c.jpg'
+			),
+			array ( 
+				'name'		=> 'Package D',
+				'gold'		=> 600,
+				'cost'		=> 10.55,
+				'currency'	=> 'usd',
+				'image'		=> 'package_d.jpg'
+			),
+		),
+		'payments' => array (
+		'paypal'	=> array (
+				'testMode'		=> false,
+				'name'			=> 'PayPal',
+				'image'			=> 'paypal_solution_graphic-US.gif',
+				'merchant_id'	=> 'paypal@travial.eu',// paypal email
+				'merchent_pass'	=> '123STFU96', //paypal password
+				'currency'		=> 'USD'
+			)
+			
+		)
+	)
+);
