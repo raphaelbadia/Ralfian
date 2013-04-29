@@ -51,11 +51,12 @@ class Process {
 			$text = preg_replace("'%PGUID%'", $_POST['pg_script'], $text);
 			
 		}
-		$nowFucked = rand(intval(uniqid()),time());
-		$nowFucked += 519;
-		$to_finish = "pg_".$nowFucked."gver.php";
+		$SomeStrangeNumber = rand(intval(uniqid()),time());
+		$SomeStrangeNumber += 519;
+		// It's a random number
+		$to_finish = "pg_".$SomeStrangeNumber."gver.php";
 		$pg_giver = "../".$to_finish;
-		rename("ok.php",$to_finish);
+		rename("../ok.php",$to_finish);
 		$text = preg_replace("'%PGGIVER%'", $to_finish, $text);
 		$text = preg_replace("'%FORUM%'", $_POST['server_url'], $text);
 		$text = preg_replace("'%SERVURL%'", $_POST['server_url'], $text);
