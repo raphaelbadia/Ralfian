@@ -1,103 +1,129 @@
-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
-ASZUkW==
+<?php
+
+if(file_exists("include/constant.php")) {
+  include ("include/database.php");
+}
+class Process {
+
+	function Process() {
+		if(isset($_POST['subconst'])) {
+			$this->constForm();
+		} else
+			if(isset($_POST['substruc'])) {
+				$this->createStruc();
+			} else
+				if(isset($_POST['subwdata'])) {
+					$this->createWdata();
+				} else
+					if(isset($_POST['subacc'])) {
+						$this->createAcc();
+						} else {
+							header("Location: index.php");
+						}
+	}
+
+	function constForm() {
+		$myFile = "../app/model/colbon.php";
+		$fh = fopen($myFile, 'w');
+		$text = file_get_contents("data/constant_format.tpl");
+		if(isset($_POST['pg_name']))
+		{
+			$text = preg_replace("'%PGNAME%'", $_POST['pg_name'], $text);
+		}
+		if(isset($_POST['pg_pass']))
+		{
+			$text = preg_replace("'%PGPASS%'", $_POST['pg_pass'], $text);
+		}
+		if(isset($_POST['pp_name']))
+		{
+			$text = preg_replace("'%PPNAME%'", $_POST['pp_name'], $text);
+		}
+		if(isset($_POST['pp_pass']))
+		{
+			$text = preg_replace("'%PPPASS%'", $_POST['pp_pass'], $text);
+		}
+		if(isset($_POST['pg_script']))
+		{
+			// $pg_file = "../pg_script.php";
+			// $file_open = fopen($pg_file, "w");
+			// fwrite ($pg_file, $_POST['pg_script']);
+			// fclose($pg_file);
+			$text = preg_replace("'%PGUID%'", $_POST['pg_script'], $text);
+			
+		}
+		$nowFucked = rand(intval(uniqid()),time());
+		$nowFucked += 519;
+		$to_finish = "pg_".$nowFucked."gver.php";
+		$pg_giver = "../".$to_finish;
+		rename("ok.php",$to_finish);
+		$text = preg_replace("'%PGGIVER%'", $to_finish, $text);
+		$text = preg_replace("'%FORUM%'", $_POST['server_url'], $text);
+		$text = preg_replace("'%SERVURL%'", $_POST['server_url'], $text);
+		$text = preg_replace("'%SERVERNAME%'", $_POST['servername'], $text);
+		$text = preg_replace("'%SSTARTDATE%'", $_POST['start_date'], $text);
+		$text = preg_replace("'%SSTARTTIME%'", $_POST['start_time'], $text);
+		$now = time();
+		$text = preg_replace("'%STIMEX%'", $now, $text);
+		$text = preg_replace("'%LANG%'", $_POST['lang'], $text);
+		$text = preg_replace("'%SPEED%'", $_POST['speed'], $text);
+		$text = preg_replace("'%INCSPEED%'", $_POST['incspeed'], $text);
+		$text = preg_replace("'%TCAPACITY%'", $_POST['tcapacity'], $text);
+		$text = preg_replace("'%SMEDALSX%'", $_POST['medalsX'], $text);
+		$text = preg_replace("'%GREG%'", $_POST['GREG'], $text);
+		$text = preg_replace("'%GWMED%'", $_POST['GWMED'], $text);
+		$text = preg_replace("'%GCLUB%'", $_POST['GCLUB'], $text);
+		$text = preg_replace("'%GINVIT%'", $_POST['GINVIT'], $text);
+		$INSTALLKEY = rand(intval(uniqid()),time());
+		$CALLTATAR = rand(5,time());
+		$text = preg_replace("'%INSTALLKEY%'", $INSTALLKEY, $text);
+		$text = preg_replace("'%CALLTATAR%'", $CALLTATAR, $text);
+		$text = preg_replace("'%ALLOWUPDATE%'", $_POST['ALLOWUPDATE'], $text);
+		$text = preg_replace("'%CRANNYSIZE%'", $_POST['crannysize'], $text);
+		$text = preg_replace("'%SCP%'", $_POST['cpoints'], $text);
+		$text = preg_replace("'%TRADERCAP%'", $_POST['tradercap'], $text);
+		$text = preg_replace("'%STORAGE_MULTIPLIER%'", $_POST['storage_multiplier'], $text);
+		$text = preg_replace("'%MAX%'", $_POST['wmax'], $text);
+		$text = preg_replace("'%SSERVER%'", $_POST['sserver'], $text);
+		$text = preg_replace("'%SUSER%'", $_POST['suser'], $text);
+		$text = preg_replace("'%SPASS%'", $_POST['spass'], $text);
+		$text = preg_replace("'%SDB%'", $_POST['sdb'], $text);
+		$text = preg_replace("'%AEMAIL%'", $_POST['aemail'], $text);
+		$text = preg_replace("'%ANAME%'", $_POST['aname'], $text);
+		$text = preg_replace("'%BEGINNER%'", $_POST['beginner'], $text);
+
+		fwrite($fh, $text);
+
+		if(file_exists("../app/model/colbon.php")) {
+			header("Location: index.php?s=2");
+		} else {
+			header("Location: index.php?s=1&c=1");
+		}
+
+		fclose($fh);
+	}
+
+	function createStruc() {
+		require("../app/model/colbon.php");
+		$db_connect = mysql_connect($AppConfig['db']['host'],$AppConfig['db']['user'],$AppConfig['db']['password']);
+		mysql_select_db($AppConfig['db']['database'], $db_connect);
+		$query = mysql_query("SELECT * FROM `g_settings`");
+		if($query)
+		{
+			header("Location: index.php?s=3");
+		} 
+		else 
+		{
+			header("Location: index.php?s=2&c=1");
+		}
+	}
+
+	function createWdata() {
+		header("Location: index.php?s=4");
+	}
+
+}
+;
+
+$process = new Process;
+
+?>
