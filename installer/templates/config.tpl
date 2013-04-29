@@ -78,8 +78,8 @@ echo "<div class=\"headline\"><span class=\"f10 c5\">Error creating constant.php
 	</table>
 	<span class="f10 c">Advanced options</span>
 	<table>
-	<tr><td><span class="f9 c6">Paygol name(if you want it automated):</span></td><td width="140"><input type="text" name="pg_name" id="start_date" value=""></td></tr>
-	<tr><td><span class="f9 c6">Paygol password (if you want it automated):</span></td><td width="140"><input type="text" name="pg_pass" id="start_date" value=""></td></tr>
+	<tr><td><span class="f9 c6">Paygol name(disabled):</span></td><td width="140"><input type="text" name="pg_name" id="start_date" value=""></td></tr>
+	<tr><td><span class="f9 c6">Paygol password (disabled):</span></td><td width="140"><input type="text" name="pg_pass" id="start_date" value=""></td></tr>
 	<tr><td><span class="f9 c6">Paygol id :</span></td><td width="140"><input type="text" name="pg_script" id="start_date" value=""></td></tr>
 	<tr><td><span class="f9 c6">Paypal email (Disabled):</span></td><td width="140"><input type="text" name="pp_name" value=""></td></tr>
 	<tr><td><span class="f9 c6">Paypal password (disabled):</span></td><td width="140"><input type="text" name="pp_pass" value=""></td></tr>
